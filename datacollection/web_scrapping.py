@@ -28,7 +28,7 @@ def search_wikipedia_for_url(search_term):
     
 
 
-def web_scrape(disease_list):
+def web_scrape_wikipedia(disease_list):
 
     """
     disease_list: input list takes list of disease to search and collect the symptoms from wikipedia
@@ -61,3 +61,37 @@ def web_scrape(disease_list):
                     break
 
     return diseases_with_symptoms
+
+
+def get_disease_url(base_url, disease):
+
+    # Get list of disease's links from A-Z page
+    url = base_url + '/conditions/a-z/'
+    page = requests.get(url)
+    soup = BeautifulSoup(page.content, 'html.parser')
+
+    for link in soup.find_all('option'):
+        if link.text == disease:
+            return link.get('value')
+
+
+def web_scrape_seattle_children(base_url, unretirved_diseases):
+
+    unretirved_diseases_symptoms = {}
+    for disease in unretirved_diseases:
+
+        url = get_disease_url(base_url, disease)
+        if url:
+            page = requests.get(base_url + url)
+            soup = BeautifulSoup(page.content, 'html.parser')
+
+            headings = soup.find_all(re.compile('h[1-6]'), text=re.compile('.*Symptom.*'))
+            for h in headings:
+                ul = h.find_next('ul')
+                if ul:
+                    symptoms = [li.text for li in ul.find_all('li')]
+                    unretirved_diseases_symptoms[disease] = symptoms
+
+    return unretirved_diseases_symptoms
+
+
