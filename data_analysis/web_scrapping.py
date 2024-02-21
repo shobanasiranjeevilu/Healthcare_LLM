@@ -54,8 +54,11 @@ def web_scrape_wikipedia(disease_list):
                         if header and header.get_text() == "Symptoms":
                             symptom = row.find("td")
                             if symptom:
+                                
                                 symptom = ' '.join(re.sub(r'<.*?>|\[.*?\]', ' ', str(symptom)).split())
-                                diseases_with_symptoms[disease] = symptom
+                                diseases_with_symptoms[disease] = []
+                                diseases_with_symptoms[disease].append(page_title)
+                                diseases_with_symptoms[disease].append(symptom)
 
                 if disease in diseases_with_symptoms.keys():
                     break
@@ -90,7 +93,9 @@ def web_scrape_seattle_children(base_url, unretirved_diseases):
                 ul = h.find_next('ul')
                 if ul:
                     symptoms = [li.text for li in ul.find_all('li')]
-                    unretirved_diseases_symptoms[disease] = symptoms
+                    unretirved_diseases_symptoms[disease] = []
+                    unretirved_diseases_symptoms[disease].append(disease)
+                    unretirved_diseases_symptoms[disease].append(symptoms)
 
     return unretirved_diseases_symptoms
 

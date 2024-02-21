@@ -1,0 +1,1363 @@
+Prescribed_for,DrugName_list,Disease,Symptoms,Symptoms_Length,Number_of_Drugs
+ADHD,"['Clonidine' 'Bupropion' 'Vyvanse' 'Dexmethylphenidate'
+ 'Amphetamine / dextroamphetamine' 'Adderall' 'Aptensio XR' 'Atomoxetine'
+ 'Lisdexamfetamine' 'Focalin XR' 'Concerta' 'Guanfacine' 'Ritalin'
+ 'Amphetamine' 'Methylphenidate' 'Dextroamphetamine' 'Strattera'
+ 'Adzenys XR-ODT' 'Adderall XR' 'Daytrana' 'Methylin' 'Focalin'
+ 'Omega-3 polyunsaturated fatty acids' 'Dexedrine' 'Metadate ER'
+ 'Metadate CD' 'Wellbutrin XL' 'Intuniv' 'Armodafinil' 'Evekeo' 'Kapvay'
+ 'Pristiq' 'Dyanavel XR' 'Quillivant XR' 'Methamphetamine' 'Desoxyn'
+ 'Desvenlafaxine' 'Ritalin LA' 'Dextrostat' 'Cylert' 'Modafinil'
+ 'Provigil' 'Mydayis' 'Nuvigil' 'Methylin ER' 'Pemoline']",Attention deficit hyperactivity disorder,Inattention carelessness hyperactivity executive dysfunction disinhibition emotional dysregulation impulsivity impaired working memory,134,46
+AIDS Related Wasting,['Serostim'],HIV/AIDS,"Early : Flu-like illness Later : Large lymph nodes , fever, weight loss",71,1
+Abnormal Uterine Bleeding,"['Ethinyl estradiol / levonorgestrel' 'Mirena' 'Levonorgestrel'
+ 'Medroxyprogesterone' 'Depo-Provera' 'Tri-Sprintec' 'Levlen' 'Alesse'
+ 'Junel Fe 1 / 20' 'Ortho Tri-Cyclen Lo' 'Aviane'
+ 'Ethinyl estradiol / norethindrone' 'Sprintec' 'Necon 1 / 50'
+ 'Ethinyl estradiol / norgestimate' 'Norethindrone' 'Loestrin 24 Fe'
+ 'Megestrol' 'Estarylla' 'Chateal' 'Falmina' 'Seasonique'
+ 'Desogestrel / ethinyl estradiol' 'Ortho Tri-Cyclen'
+ 'Ethinyl estradiol / norgestrel' 'Nora-Be' 'Ortho Cyclen' 'Provera'
+ 'Levora' 'Jolessa' 'Ortho Micronor' 'TriNessa' 'LoSeasonique' 'Seasonale'
+ 'Mononessa' 'Ovcon 35' 'Conjugated estrogens' 'Previfem']",Abnormal uterine bleeding,"Irregular, abnormally frequent, prolonged, or excessive amounts of uterine bleeding",83,38
+Abortion,['Misoprostol'],,nan,3,1
+Acetaminophen Overdose,['Mucomyst-10'],Paracetamol poisoning,"Early : Non specific, feeling tired, abdominal pain , nausea Later : Yellowish skin , blood clotting problems , confusion",121,1
+Acne,"['Clindamycin' 'Beyaz' 'Yasmin' 'Spironolactone' 'Ziana'
+ 'Adapalene / benzoyl peroxide' 'Accutane' 'Tretinoin'
+ 'Benzoyl peroxide / erythromycin' 'Minocycline' 'Junel Fe 1 / 20'
+ 'Doxycycline' 'Isotretinoin' 'Epiduo' 'Benzoyl peroxide / clindamycin'
+ 'Dapsone' 'Clindamycin / tretinoin' 'Differin'
+ 'Sulfamethoxazole / trimethoprim' 'Ethinyl estradiol / norgestimate'
+ 'Yaz' 'Duac' 'Adapalene' 'Bactrim' 'Azelaic acid'
+ 'Ethinyl estradiol / norethindrone' 'Claravis' 'Aldactone' 'Altabax'
+ 'Tazorac' 'Drospirenone / ethinyl estradiol' 'Aczone' 'Gianvi' 'Solodyn'
+ 'Zenatane' 'Sulfacetamide sodium / sulfur' 'Retin-A' 'Desquam-X Wash'
+ 'Tri-Sprintec' 'Minocin' 'Sotret' 'Inova 4 / 1' 'Veltin' 'TriNessa'
+ 'Retapamulin' 'Doryx' 'Loestrin 24 Fe' 'Microgestin Fe 1 / 20' 'Monodox'
+ 'Acanya' 'Benzoyl peroxide / sulfur' 'Gildess Fe 1.5 / 30' 'Atralin'
+ 'Gildess Fe 1 / 20' 'Salicylic acid / sulfur' 'Benzaclin' 'Necon 1 / 35'
+ 'Tazarotene' 'Ocella' 'Ortho Tri-Cyclen' 'BenzEFoam Ultra' 'Amnesteem'
+ 'Necon 7 / 7 / 7' 'Loryna' 'femhrt' 'Absorica' 'Bactrim DS'
+ 'Drospirenone / ethinyl estradiol / levomefolate calcium' 'NuOx'
+ 'Benzoyl peroxide' 'Acnex' 'Onexton' 'Cephalexin' 'Tetracycline'
+ 'Vanoxide-HC' 'Azelex' ""Phillips' Milk of Magnesia"" 'Vibramycin'
+ 'Finacea' 'BenzEFoam' 'Clarifoam EF' 'Adoxa']",Acne,"Blackheads, whiteheads , pimples , oily skin, scarring",54,82
+Actinic Keratosis,['Fluorouracil' 'Carac' 'Efudex'],Cutaneous squamous-cell carcinoma,Hard lump with a scaly top or ulceration .,42,3
+Acute Coronary Syndrome,['Brilinta' 'Ticagrelor' 'Prasugrel'],Coronary artery disease,"Chest pain , shortness of breath",32,3
+Acute Lymphoblastic Leukemia,['Sprycel'],Acute lymphoblastic leukemia,"Feeling tired, pale color, fever, easy bleeding or bruising, bone pain, enlarged lymph nodes",92,1
+Acute Nonlymphocytic Leukemia,['Accutane'],Acute myeloid leukemia,"Feeling tired, shortness of breath , easy bruising and bleeding, increased risk of infection",92,1
+Acute Promyelocytic Leukemia,['Tretinoin'],Acute myeloid leukemia,"Feeling tired, shortness of breath , easy bruising and bleeding, increased risk of infection",92,1
+Addison's Disease,['Florinef Acetate' 'Dexamethasone'],Addison's disease,"Abdominal pain, weakness, weight loss, darkening of the skin",60,2
+Adrenocortical Insufficiency,['Hydrocortisone' 'Cortef'],Addison's disease,"Abdominal pain, weakness, weight loss, darkening of the skin",60,2
+Adult Human Growth Hormone Deficiency,['Somatropin'],Growth hormone deficiency,Short height,12,1
+Agitated State,['Aripiprazole' 'Abilify'],Psychosis,"False beliefs , seeing or hearing things that others do not see or hear , incoherent speech and behavior",104,2
+Agitation,['Olanzapine' 'Loxapine' 'Citalopram'],,nan,3,3
+Alcohol Dependence,['Campral' 'Acamprosate' 'Disulfiram' 'Antabuse' 'Naltrexone' 'Vivitrol'],Alcoholism,"Drinking large amounts of alcohol over a long period, difficulty cutting down, acquiring and drinking alcohol taking up a lot of time, usage resulting in problems, withdrawal occurring when stopping",198,6
+Alcohol Withdrawal,"['Chlordiazepoxide' 'Baclofen' 'Tranxene' 'Gabapentin' 'Librium' 'Valium'
+ 'Diazepam' 'Oxazepam' 'Serax']",Alcohol withdrawal syndrome,"Anxiety , shakiness , sweating, vomiting, fast heart rate , mild fever",70,9
+Allergic Reactions,"['Benadryl' 'Cyproheptadine' 'Triamcinolone' 'Chlorpheniramine'
+ 'Aristocort' 'Q-Dryl' 'Dexchlorpheniramine' 'Diphenhydramine'
+ 'Prednisone' 'Promethazine' 'Benadryl Allergy' 'Phenergan'
+ 'Chlor-Trimeton']",Allergy,"Red eyes , itchy rash, vomiting, runny nose , shortness of breath , swelling, sneezing , and cough.",99,13
+Allergic Rhinitis,"['Nasonex' 'Acetaminophen / dexbrompheniramine / pseudoephedrine'
+ 'Azelastine / fluticasone' 'Singulair' 'Desloratadine' 'Cetirizine'
+ 'Loratadine / pseudoephedrine' 'Mometasone' 'Kenalog-40' 'Promethazine'
+ 'Astelin' 'Patanase' 'Levocetirizine' 'Dymista' 'Azelastine' 'Zyrtec'
+ 'Flonase' 'Nasacort Allergy 24HR' 'Fexofenadine / pseudoephedrine'
+ 'Loratadine' 'Fexofenadine' 'Allegra' 'Flunisolide' 'Nasacort'
+ 'Chlorpheniramine / phenylephrine' 'Actifed' 'Beclomethasone' 'Xyzal'
+ 'Dexbrompheniramine / pseudoephedrine' 'Montelukast'
+ 'Cetirizine / pseudoephedrine' 'Astepro' 'Triamcinolone'
+ 'Chlorpheniramine / pseudoephedrine' 'QNASL'
+ 'Acrivastine / pseudoephedrine' 'Rynatan' 'Chlorpheniramine'
+ 'Ciclesonide' 'Olopatadine' 'Zyrtec-D' 'Deconamine' 'Brompheniramine'
+ 'Diphenhydramine' 'Chlor-Trimeton' 'Alahist LQ' 'Fluticasone'
+ 'Carbinoxamine' 'Pseudoephedrine / triprolidine'
+ ""Children's Claritin Allergy"" 'Allegra-D 24 Hour' 'Claritin' 'Budesonide'
+ 'Claritin-D' 'Cyproheptadine' 'Omnaris' 'Allegra-D 12 Hour'
+ 'Drixoral Cold and Allergy' 'Methylprednisolone' 'Clarinex']",Allergic rhinitis,"Stuffy itchy nose, sneezing , red, itchy, and watery eyes, swelling around the eyes, itchy ears",95,60
+Allergic Urticaria,['Hydroxyzine'],Hives,"Red, raised, itchy bumps",24,1
+Allergies,['Xyzal' 'Levocetirizine' 'Hydroxyzine' 'Atarax'],Allergy,"Red eyes , itchy rash, vomiting, runny nose , shortness of breath , swelling, sneezing , and cough.",99,4
+Alopecia,"['Minoxidil' 'Spironolactone' 'Rogaine' ""Rogaine Women's"" 'Triamcinolone'
+ 'Kenalog-10' ""Rogaine Men's Extra Strength""]",Hair loss,Loss of hair from part of the head or body.,43,7
+Alpha-1 Proteinase Inhibitor Deficiency,['Alpha 1-proteinase inhibitor' 'Zemaira'],Alpha-1 antitrypsin deficiency,"Shortness of breath , wheezing , yellowish skin",47,2
+Alzheimer's Disease,['Aricept' 'Galantamine' 'Exelon' 'Rivastigmine' 'Donepezil' 'Memantine'],Alzheimer's disease,"Memory loss , problems with language , disorientation , mood swings",67,6
+Amebiasis,['Tinidazole'],Amoebiasis,"Bloody diarrhea , abdominal pain",32,1
+Amenorrhea,"['Medroxyprogesterone' 'Provera' 'Depo-Provera' 'Norethindrone'
+ 'Prometrium']",,nan,3,5
+Anal Fissure and Fistula,['Nitroglycerin' 'Rectiv'],Diverticulitis,"Abdominal pain , fever , nausea , diarrhea , constipation , blood in the stool",78,2
+Anal Itching,['Clobetasol' 'Zinc oxide' 'Hydrocortisone' 'Sarna Sensitive'],Candidiasis,"White patches or vaginal discharge, itching",43,4
+Androgenetic Alopecia,['Finasteride' 'Propecia'],Alopecia areata,"Areas of hair loss , usually on the scalp",41,2
+Anemia,['Epoetin alfa' 'Multivitamin with iron' 'Maxaron Forte' 'Procrit'],Anemia,"Feeling tired , pale skin , weakness, shortness of breath , feeling faint",73,4
+Anemia Associated with Chronic Renal Failure,"['Darbepoetin alfa' 'Procrit' 'Aranesp' 'Epogen'
+ 'Sodium ferric gluconate complex' 'Feosol Original' 'Ferrous sulfate']",Chronic kidney disease,"Early : None Later : Leg swelling , feeling tired, vomiting , loss of appetite, confusion",89,7
+"Anemia, Chemotherapy Induced",['Aranesp'],Aplastic anemia,"pale skin , fatigue , fast heart rate , rash , dizziness , headache , frequent or prolonged infections , nosebleeds , bleeding gums, prolonged bleeding from cuts, unexplained or easy bruising, hematoma",201,1
+"Anemia, Sickle Cell",['Hydrea' 'Hydroxyurea'],Sickle cell disease,"Attacks of pain, anemia , swelling in the hands and feet , bacterial infections , stroke",88,2
+Anesthesia,"['Propofol' 'Lidocaine' 'Diprivan' 'Rocuronium' 'Ketamine' 'Oraqix'
+ 'Butorphanol' 'Lidocaine / prilocaine']",,nan,3,8
+Angina,"['Ranolazine' 'Ranexa' 'Lopressor' 'Metoprolol' 'Nitrolingual Pumpspray'
+ 'Imdur' 'Isosorbide mononitrate']",Ludwig's angina,"Fever, pain, a raised tongue, trouble swallowing, neck swelling",63,7
+Angina Pectoris Prophylaxis,['Isosorbide mononitrate' 'Imdur'],Aortic stenosis,"Decreased ability to exercise, loss of consciousness , shortness of breath , heart related chest pain , leg swelling",116,2
+Ankylosing Spondylitis,"['Etanercept' 'Indocin SR' 'Diclofenac' 'Indomethacin' 'Adalimumab'
+ 'Infliximab' 'Cosentyx' 'Simponi' 'Humira' 'Enbrel' 'Secukinumab'
+ 'Golimumab' 'Vimovo' 'Naprosyn' 'Naproxen' 'Certolizumab']",Ankylosing spondylitis,"Back pain , joint stiffness",27,16
+Anorexia,['Cyproheptadine' 'Dronabinol' 'Marinol'],Anorexia nervosa,"Fear of gaining weight, strong desire to be thin, food restrictions , body image disturbance",92,3
+Anthrax,['Doxycycline'],Anthrax,"Skin form : small blister with surrounding swelling Inhalational form : fever, chest pain, shortness of breath Intestinal form : nausea, vomiting, diarrhea, abdominal pain Injection form : fever, abscess",203,1
+Antiphospholipid Syndrome,['Warfarin'],Lupus,"Painful and swollen joints , fever , chest pain , hair loss , mouth ulcers , swollen lymph nodes , feeling tired , red rash",123,1
+Anxiety,"['Clonazepam' 'Gabapentin' 'Paxil' 'Klonopin' 'Niravam' 'Xanax'
+ 'Escitalopram' 'Alprazolam' 'Ativan' 'Lexapro' 'Venlafaxine' 'Paroxetine'
+ 'Trazodone' 'Diazepam' 'Hydroxyzine' 'Desvenlafaxine' 'Pristiq'
+ 'Effexor XR' 'Buspirone' 'Atenolol' 'Kava' 'Lorazepam' 'Vistaril'
+ 'Oxcarbazepine' 'Remeron' 'Cymbalta' 'Duloxetine' 'Vilazodone' 'Oxazepam'
+ 'Catapres' 'Tramadol' 'Xanax XR' 'Mirtazapine' 'Risperidone'
+ 'Clorazepate' 'BuSpar' 'Wellbutrin' 'Propranolol' 'Dilantin' 'Valium'
+ 'Serax' 'Trifluoperazine' 'Bupropion' 'Librium' 'Lamotrigine'
+ 'Diazepam Intensol' 'Chlordiazepoxide' 'Atarax' 'Paxil CR'
+ 'Amitriptyline / perphenazine' 'Prochlorperazine' 'Klonopin Wafer'
+ 'Tranxene SD' 'Phenytoin' 'Aspirin / meprobamate' 'Neurontin' 'Stelazine'
+ 'Nadolol' 'Tranxene' 'Doxepin' 'Clonidine' 'Pexeva' 'Nefazodone'
+ 'Meprobamate']",Anxiety disorder,"Worrying, fast heart rate , shakiness",37,64
+Anxiety and Stress,"['Celexa' 'Citalopram' 'Sertraline' 'Prozac' 'Fluoxetine' 'Effexor'
+ 'Elavil' 'Venlafaxine' 'Zoloft' 'Fluvoxamine' 'Paroxetine' 'Paxil'
+ 'Effexor XR' 'Amitriptyline' 'Luvox CR' 'Luvox' 'Prazosin']",Post-traumatic stress disorder,"Disturbing thoughts, feelings, or dreams related to the event; mental or physical distress to trauma-related cues; efforts to avoid trauma-related situations; increased fight-or-flight response",193,17
+Aphthous Ulce,['Dexamethasone' 'Triamcinolone' 'Benzocaine'],,nan,3,3
+Aplastic Anemia,['Eltrombopag' 'Promacta'],Aplastic anemia,"pale skin , fatigue , fast heart rate , rash , dizziness , headache , frequent or prolonged infections , nosebleeds , bleeding gums, prolonged bleeding from cuts, unexplained or easy bruising, hematoma",201,2
+Arrhythmia,"['Mexiletine' 'Dofetilide' 'Tikosyn' 'Propranolol' 'Norpace' 'Verapamil'
+ 'Disopyramide' 'Pacerone' 'Amiodarone' 'Norpace CR' 'Calan SR']",Arrhythmia,"Palpitations , dizziness or lightheadedness , passing out , shortness of breath , chest pain , decreased level of consciousness",127,11
+Asperger Syndrome,['Zyprexa Zydis' 'Risperidone' 'Vyvanse' 'Lisdexamfetamine'],Asperger syndrome,"Problems with social interaction and nonverbal communication, restricted interests, and repetitive behavior",107,4
+"Aspergillosis, Aspergilloma",['Sporanox'],Chronic pulmonary aspergillosis,"Weight loss, cough, shortness of breath, haemoptysis , fatigue, malaise, chest pain, sputum production, fever",109,1
+Asthma,"['Montelukast' 'Breo Ellipta' 'Prednisone' 'Singulair'
+ 'Fluticasone / vilanterol' 'Atrovent' 'Dulera' 'Xopenex' 'Triamcinolone'
+ 'Aerobid' 'Mepolizumab' 'Flunisolide' 'Solu-Medrol' 'Decadron'
+ 'Ciclesonide' 'Methylprednisolone' 'Alvesco' 'Deltasone']",Asthma,"Recurring episodes of wheezing , coughing , chest tightness , shortness of breath",81,18
+"Asthma, Maintenance","['Advair HFA' 'Dulera' 'Singulair' 'Fluticasone / salmeterol' 'Xolair'
+ 'Breo Ellipta' 'Montelukast' 'Beclomethasone' 'Advair Diskus'
+ 'Asmanex Twisthaler' 'Zafirlukast' 'Omalizumab' 'Ventolin HFA'
+ 'Symbicort' 'Pulmicort Respules' 'Pirbuterol' 'Proventil' 'Albuterol'
+ 'Foradil Aerolizer' 'Flovent' 'Tiotropium' 'Budesonide'
+ 'Fluticasone / vilanterol' 'Intal' 'Alvesco' 'Fluticasone' 'Xopenex'
+ 'Ciclesonide' 'Arnuity Ellipta' 'Flovent HFA' 'Ventolin' 'Mometasone'
+ 'Qvar' 'Accolate']",Asthma,"Recurring episodes of wheezing , coughing , chest tightness , shortness of breath",81,34
+"Asthma, acute","['Ventolin HFA' 'Levalbuterol' 'Epinephrine' 'Proventil HFA' 'Albuterol'
+ 'Racepinephrine' 'Medrol Dosepak' 'Primatene Mist' 'Xopenex HFA'
+ 'Vospire ER' 'Asthmanefrin' 'Isoproterenol']",Acute severe asthma,"Anxiety, panic, laboring to breath, tightened neck and chest muscles , difficulty performing normal daily activities",116,12
+Atopic Dermatitis,"['Tacrolimus' 'Fluocinolone' 'Cutivate' 'Crisaborole' 'Eucrisa'
+ 'Pimecrolimus' 'Alclometasone' 'Dupilumab' 'Desonide' 'Flurandrenolide'
+ 'Protopic' 'Betamethasone' 'Fluticasone' 'Azathioprine' 'Clobetasol'
+ 'Cordran Tape' 'Desoximetasone' 'Dexamethasone' 'Dupixent' 'Elocon'
+ 'Elidel' 'Clocortolone']",Atopic dermatitis,"Itchy , red, swollen, cracked skin",34,22
+Atrial Fibrillation,"['Propafenone' 'Xarelto' 'Rivaroxaban' 'Flecainide' 'Tambocor' 'Multaq'
+ 'Metoprolol' 'Sotalol' 'Diltiazem' 'Digoxin' 'Cardizem' 'Carvedilol'
+ 'Rythmol SR' 'Rythmol' 'Cartia XT']",Atrial fibrillation,"None, heart palpitations , fainting , shortness of breath , chest pain",70,15
+Atrial Flutte,['Flecainide' 'Diltiazem'],,nan,3,2
+Atrophic Urethritis,['Estradiol'],Geographic tongue,Burning sensation (rare),24,1
+Atrophic Vaginitis,"['Yuvafem' 'Estradiol' 'Vagifem' 'Estrace Vaginal Cream' 'Estring'
+ 'Conjugated estrogens' 'Premarin Vaginal']",Atrophic vaginitis,"Pain with sex , vaginal itchiness or dryness, an urge to urinate",64,7
+Auditory Processing Disorde,['Dexmethylphenidate' 'Focalin XR'],,nan,3,2
+Autism,"['Risperidone' 'Risperdal' 'Geodon' 'Aripiprazole' 'Abilify' 'Memantine'
+ 'Ziprasidone' 'Risperdal M-Tab']",Autism spectrum,"Difficulties in social interaction , verbal and nonverbal communication , and the presence of repetitive behavior or restricted interests",137,8
+Autoimmune Hepatitis,"['Azathioprine' 'Mercaptopurine' 'Mycophenolate mofetil' 'Imuran'
+ 'CellCept']",Autoimmune hepatitis,"Often asymptomatic , fatigue , right upper abdominal pain , anorexia , nausea , jaundice , joint pain , rash",108,5
+B12 Nutritional Deficiency,['Cyanocobalamin'],Vitamin B12 deficiency,"Decreased ability to think, feeling tired , depression , irritability, abnormal sensations , changes in reflexes",112,1
+Back Pain,"['Motrin IB' 'Naprosyn' 'Norco' 'Acetaminophen / hydrocodone' 'Naproxen'
+ 'Tramadol' 'Duloxetine' 'Excedrin Back & Body' 'Diclofenac' 'Cymbalta'
+ 'Vicodin ES' 'Ultram ER' 'Ultram' 'Lortab' 'Aspirin' 'Voltaren'
+ 'Indomethacin' 'Relafen' 'Nabumetone' 'Acetaminophen / pamabrom' 'Orudis'
+ 'Ibuprofen' 'Cataflam' 'Anaprox' 'Ryzolt']",Pain,Unpleasant sensory and emotional sensations,43,25
+Bacteremia,['Zyvox' 'Linezolid'],,nan,3,2
+Bacterial Endocarditis Prevention,['Moxatag' 'Amoxicillin' 'Clindamycin'],Subacute bacterial endocarditis,"Malaise, weakness",17,3
+Bacterial Infection,"['Keflex' 'Metronidazole' 'Amoxicillin / clavulanate' 'Doxycycline'
+ 'Flagyl' 'Cephalexin' 'Garlic' 'Cleocin' 'Clindamycin' 'Vancomycin'
+ 'Sulfamethoxazole / trimethoprim' 'Rocephin' 'Levofloxacin'
+ 'Azithromycin' 'Zyvox' 'Avelox' 'Penicillin VK' 'Augmentin' 'Cipro'
+ 'Moxifloxacin' 'Levaquin' 'Ceftin' 'Linezolid' 'Ciprofloxacin'
+ 'Bactrim DS' 'Ceftriaxone' 'Amoxicillin' 'Bactrim']",Conjunctivitis,"Reddish eye , scratchiness",26,28
+Bacterial Skin Infection,"['Bacitracin / neomycin / polymyxin b' 'Sulfamethoxazole / trimethoprim'
+ 'Bactrim' 'Bactrim DS' 'Neosporin']",Boil,Painful small rough skin growth,31,5
+Bacterial Vaginitis,"['Tinidazole' 'Metronidazole' 'Vandazole' 'Clindamycin' 'Clindamax'
+ 'MetroGel-Vaginal' 'Tindamax' 'Flagyl ER' 'Nuvessa']",Bacterial vaginosis,"Vaginal discharge that often smells like fish, burning with urination",69,9
+Barrett's Esophagus,"['Omeprazole' 'Protonix' 'Dexlansoprazole' 'Prevacid' 'Esomeprazole'
+ 'Dexilant' 'Rabeprazole' 'Nexium' 'Pantoprazole' 'Aciphex']",Barrett's esophagus,Nausea,6,10
+Basal Cell Carcinoma,['Fluorouracil' 'Carac' 'Imiquimod' 'Aldara' 'Efudex'],Basal-cell carcinoma,Painless raised area of skin that may be shiny with small blood vessel running over it or ulceration,100,5
+Behcet's Disease,['Remicade'],Behçet's disease,"Mouth sores , genital sores, inflammation of the eye, arthritis , chronic fatigue",81,1
+Benign Essential Trem,"['Metoprolol' 'Propranolol' 'Zonegran' 'Primidone' 'Zonisamide'
+ 'Gabapentin' 'Inderal']",,nan,3,7
+Benign Prostatic Hyperplasia,"['Tamsulosin' 'Rapaflo' 'Tadalafil' 'Silodosin' 'Avodart' 'Jalyn'
+ 'Alfuzosin' 'Flomax' 'Cialis' 'Doxazosin' 'Prazosin' 'Finasteride'
+ 'Terazosin' 'Dutasteride' 'Cardura XL' 'Hytrin'
+ 'Dutasteride / tamsulosin' 'Cardura' 'Saw palmetto' 'Uroxatral']",Benign prostatic hyperplasia,"Frequent urination, trouble starting to urinate, weak stream, inability to urinate , loss of bladder control",108,20
+Benzodiazepine Withdrawal,['Klonopin' 'Clonazepam'],,nan,3,2
+Biliary Cirrhosis,['Ursodiol' 'Urso'],Primary biliary cholangitis,"Cholestasis , pruritus , fatigue",32,2
+Binge Eating Disorde,['Vyvanse' 'Lisdexamfetamine'],,nan,3,2
+Bipolar Disorde,"['Klonopin' 'Lurasidone' 'Lamotrigine' 'Gabapentin' 'Aripiprazole'
+ 'Depakote' 'Quetiapine' 'Symbyax' 'Asenapine' 'Divalproex sodium'
+ 'Olanzapine' 'Saphris' 'Latuda' 'Seroquel' 'Clonazepam' 'Ziprasidone'
+ 'Effexor' 'Topamax' 'Seroquel XR' 'Armodafinil' 'Oxcarbazepine'
+ 'Lamictal' 'Paliperidone' 'Lithium' 'Risperidone' 'Bupropion' 'Vraylar'
+ 'Lithobid' 'Risperdal' 'Valproic acid' 'Keppra' 'Carbamazepine' 'Abilify'
+ 'Zyprexa' 'Depakote ER' 'Perphenazine' 'Tegretol' 'Duloxetine' 'Geodon'
+ 'Venlafaxine' 'Escitalopram' 'Fluoxetine / olanzapine' 'Invega'
+ 'Topiramate' 'Nuvigil' 'Cariprazine' 'Lexapro' 'Cymbalta' 'Zoloft'
+ 'Wellbutrin' 'Trileptal' 'Levetiracetam' 'Oxtellar XR' 'Citalopram'
+ 'Desvenlafaxine' 'Effexor XR' 'Sertraline' 'Zyprexa Zydis' 'Neurontin'
+ 'Tegretol XR' 'Wellbutrin SR' 'Klonopin Wafer' 'Eskalith']",,nan,3,63
+Birth Control,"['Cyclafem 1 / 35' 'Copper' 'Blisovi Fe 1 / 20' 'NuvaRing'
+ 'Ethinyl estradiol / etonogestrel' 'Etonogestrel' 'Ortho Tri-Cyclen Lo'
+ 'Skyla' 'Ethinyl estradiol / levonorgestrel' 'Aviane' 'Implanon'
+ 'Levonorgestrel' 'Jolessa' 'Lo Loestrin Fe'
+ 'Ethinyl estradiol / norgestimate' 'Kariva'
+ 'Ethinyl estradiol / norethindrone' 'Depo-Provera' 'Safyral' 'Nexplanon'
+ 'ParaGard' 'Apri' 'Ortho Evra' 'Alesse' 'Microgestin Fe 1.5 / 30'
+ 'Tri-Sprintec' 'Mirena' 'Junel Fe 1 / 20'
+ 'Ethinyl estradiol / norelgestromin' 'Sprintec' 'Xulane'
+ 'Desogestrel / ethinyl estradiol' 'Zovia' 'Ortho Cyclen' 'Kyleena'
+ 'TriNessa' 'Mibelas 24 Fe' 'Liletta' 'Ortho Micronor' 'Yasmin'
+ 'Medroxyprogesterone' 'Aubra' 'Lutera'
+ 'Drospirenone / ethinyl estradiol / levomefolate calcium' 'Sronyx'
+ 'Minastrin 24 Fe' 'Ortho Tri-Cyclen' 'Drospirenone / ethinyl estradiol'
+ 'Ethinyl estradiol / ethynodiol' 'Dienogest / estradiol' 'Yaz'
+ 'Loestrin 24 Fe' 'Microgestin 1 / 20' 'Microgestin Fe 1 / 20' 'Ocella'
+ 'Portia' 'Gildess Fe 1.5 / 30' 'Mononessa' 'Beyaz' 'Norethindrone'
+ 'Cryselle' 'Camrese' 'Junel Fe 1.5 / 30' 'Tri-Previfem' 'Orsythia'
+ 'Gildess Fe 1 / 20' 'Chateal' 'Camila' 'Jolivette' 'Lyza' 'Generess Fe'
+ 'Viorele' 'Sharobel' 'Reclipsen'
+ 'Ethinyl estradiol / folic acid / levonorgestrel' 'Zarah' 'Tri-Linyah'
+ 'Mircette' 'Seasonique' 'Levora' 'Lybrel'
+ 'Ethinyl estradiol / norgestrel' 'Ashlyna' 'LoSeasonique' 'Taytulla'
+ 'Low-Ogestrel-21' 'Quasense' 'Tri-Lo-Sprintec' 'Seasonale' 'Nora-Be'
+ 'Loryna' 'Natazia' 'Lessina' 'Necon 1 / 35' 'Blisovi 24 Fe' 'Provera'
+ 'Errin' 'Gianvi' 'Trivora' 'Microgestin 1.5 / 30' 'Ovcon 35' 'Velivet'
+ 'Enskyce' 'Estarylla' 'Jencycla' 'Amethia' 'Balziva' 'Deblitane'
+ 'Zovia 1 / 50' 'Tarina Fe 1 / 20' 'Lo / Ovral' 'Ortho-Novum 7 / 7 / 7'
+ 'Nortrel 1 / 35' 'Tri-Estarylla' 'Mono-Linyah' 'Pimtrea'
+ 'Loestrin 21 1 / 20' 'Femcon Fe' 'Zovia 1 / 35'
+ 'Depo-Provera Contraceptive' 'Azurette' 'Emoquette' 'Junel 1 / 20'
+ 'Amethia Lo' 'Necon 7 / 7 / 7' 'Ortho-Cept' 'Mestranol / norethindrone'
+ 'Levlen' 'Ortho-Novum 1 / 35' 'TriNessa Lo' 'Cyclafem 7 / 7 / 7'
+ 'CamreseLo' 'Junel Fe 24' 'Caziant' 'depo-subQ provera 104' 'Cyclessa'
+ 'Previfem' 'Rajani' 'Nonoxynol 9' 'Falmina' 'Desogen']",,nan,3,141
+Bladder Infection,"['Nitrofurantoin' 'Macrobid' 'Cephalexin' 'Ciprofloxacin' 'Cefixime'
+ 'Cipro' 'Hiprex' 'Trimethoprim' 'Monurol' 'Keflex' 'Suprax' 'Methenamine'
+ 'Levaquin' 'Noroxin' 'Furadantin']",Urinary tract infection,"Pain with urination , frequent urination, feeling the need to urinate despite having an empty bladder",101,15
+Bleeding Disorde,['Zoladex'],,nan,3,1
+Blepharitis,['Neo-Poly-Dex'],Blepharitis,crusty eyelids,14,1
+Body Dysmorphic Disorde,['Escitalopram'],,nan,3,1
+Bone infection,['Vancomycin' 'Clindamycin' 'Nafcillin'],Osteomyelitis,"Pain in a specific bone, overlying redness, fever , weakness",60,3
+Borderline Personality Disorde,"['Quetiapine' 'Carbamazepine' 'Fluoxetine' 'Zyprexa Zydis' 'Clonazepam'
+ 'Lamotrigine' 'Olanzapine' 'Oxcarbazepine' 'Asenapine' 'Lithium'
+ 'L-methylfolate' 'Escitalopram' 'Aripiprazole' 'Risperidone' 'Risperdal'
+ 'Latuda']",,nan,3,16
+Bowel Preparation,"['Suprep Bowel Prep Kit' 'Polyethylene glycol 3350 with electrolytes'
+ 'Magnesium sulfate / potassium sulfate / sodium sulfate' 'MoviPrep'
+ 'Citric acid / magnesium oxide / sodium picosulfate' 'GaviLyte-N'
+ 'Bisacodyl' 'GoLYTELY'
+ 'Bisacodyl / polyethylene glycol 3350 / potassium chloride / sodium bicarbonate / sodium chloride'
+ 'Dulcolax' 'Prepopik' 'Polyethylene glycol 3350' 'GaviLyte-G'
+ 'HalfLytely and Bisacodyl' 'GaviLyte-C' 'PEG-3350 with Electolytes'
+ 'Colyte']",Irritable bowel syndrome,"Diarrhea , constipation , abdominal pain",40,17
+Breakthrough Pain,['Subsys' 'Fentora' 'Fentanyl' 'Actiq'],Pain,Unpleasant sensory and emotional sensations,43,4
+Breast Cance,"['Arimidex' 'Anastrozole' 'Femara' 'Letrozole' 'Tamoxifen' 'Aromasin'
+ 'Exemestane' 'Afinitor' 'Paclitaxel' 'Everolimus']",,nan,3,10
+"Breast Cancer, Adjuvant",['Femara' 'Herceptin' 'Letrozole' 'Tamoxifen'],Testicular cancer,"Lump in the testicle , swelling or pain in the scrotum",54,4
+"Breast Cancer, Metastatic","['Palbociclib' 'Letrozole' 'Fulvestrant' 'Femara' 'Eribulin' 'Ibrance'
+ 'Tykerb' 'Lapatinib' 'Taxol' 'Capecitabine' 'Paclitaxel' 'Halaven'
+ 'Xeloda' 'Bevacizumab']",Breast cancer,"A lump in a breast, a change in breast shape, dimpling of the skin, fluid from the nipple , a newly inverted nipple, a red scaly patch of skin on the breast",156,14
+"Breast Cancer, Palliative",['Goserelin'],Cancer,"Lump, abnormal bleeding, prolonged cough, unexplained weight loss , change in bowel movements",93,1
+"Breast Cancer, Prevention",['Tamoxifen'],Breast cancer,"A lump in a breast, a change in breast shape, dimpling of the skin, fluid from the nipple , a newly inverted nipple, a red scaly patch of skin on the breast",156,1
+Bronchitis,"['Azithromycin' 'Moxifloxacin' 'Amoxicillin' 'Amoxicillin / clavulanate'
+ 'Clarithromycin' 'Doxycycline' 'Levaquin' 'Ciprofloxacin' 'Bactrim'
+ 'Azithromycin Dose Pack' 'Avelox' 'Augmentin' 'Guaifenesin' 'Cefuroxime'
+ 'Levofloxacin' 'Erythromycin' 'Biaxin' 'Mucinex'
+ 'Sulfamethoxazole / trimethoprim' 'Spectracef' 'Cefdinir' 'Zithromax'
+ 'Cipro' 'Omnicef']",Bronchitis,"Coughing up mucus , wheezing , shortness of breath , chest discomfort",69,24
+Bronchospasm Prophylaxis,['Singulair' 'Montelukast' 'Formoterol'],Exercise-induced bronchoconstriction,Shortness of breath on vigorous exercise,40,3
+Bulimia,['Topamax' 'Fluoxetine' 'Venlafaxine' 'Prozac'],Bulimia nervosa,"Eating a large amount of food in a short amount of time followed by vomiting or the use of laxatives , often normal weight",122,4
+Bullous Pemphigoid,['Prednisolone' 'Prednisone'],Gestational pemphigoid,"Blisters , itch , hives",23,2
+Burning Mouth Syndrome,['Elavil' 'Clonazepam'],Megavitamin-B6 syndrome,Peripheral sensory neuropathy,29,2
+"Burns, External",['Benzocaine' 'Silvadene' 'Silver sulfadiazine'],Burn,First degree : Red without blisters Second degree : Blisters and pain Third degree : Area stiff and not painful Fourth degree : Bone and tendon loss,148,3
+Bursitis,['Prednisone' 'Naproxen'],Olecranon bursitis,"Swelling , redness , and pain at the tip of the elbow",53,2
+CMV Prophylaxis,['Valacyclovir'],Cardiac allograft vasculopathy,"None, breathlessness, tiredness",31,1
+COPD,"['Roflumilast' 'Fluticasone / vilanterol' 'Symbicort'
+ 'Umeclidinium / vilanterol' 'Aclidinium' 'Daliresp' 'Anoro Ellipta'
+ 'Breo Ellipta' 'Stiolto Respimat' 'Tudorza Pressair' 'Montelukast'
+ 'Olodaterol' 'Umeclidinium' 'Olodaterol / tiotropium' 'Levalbuterol']",Chronic obstructive pulmonary disease,"Shortness of breath , chronic cough",35,15
+"COPD, Acute",['Primatene Mist' 'Levalbuterol' 'Metaproterenol'],Chronic obstructive pulmonary disease,"Shortness of breath , chronic cough",35,3
+"COPD, Maintenance","['Advair Diskus' 'Brovana' 'Spiriva' 'Albuterol' 'Salmeterol'
+ 'Spiriva Respimat' 'Symbicort' 'Tiotropium' 'Albuterol / ipratropium'
+ 'Combivent' 'Fluticasone / salmeterol' 'ProAir HFA'
+ 'Umeclidinium / vilanterol' 'Ventolin HFA' 'Tudorza Pressair'
+ 'Umeclidinium' 'Stiolto Respimat' 'Advair HFA' 'Roflumilast']",Chronic obstructive pulmonary disease,"Shortness of breath , chronic cough",35,19
+Cachexia,['Megace'],Cachexia,"sudden weight loss, altered eating signals",42,1
+Cance,['Doxorubicin'],,nan,3,1
+Cataplexy,['Sodium oxybate' 'Xyrem'],Narcolepsy,"Excessive daytime sleepiness , involuntary sleep episodes, sudden loss of muscle strength , hallucinations",106,2
+Cerebral Spasticity,['Trihexyphenidyl'],Cerebral palsy,Poor coordination Stiff or loose muscles Weak muscles Tremors,61,1
+Cervical Dystonia,['Botox' 'Lorazepam' 'OnabotulinumtoxinA' 'Baclofen' 'Myobloc' 'Xeomin'],Spasmodic dysphonia,Breaks in the voice making a person difficult to understand,59,6
+Chlamydia Infection,['Azithromycin' 'Doxycycline' 'Zithromax'],Chlamydia,"None, vaginal discharge , discharge from the penis, burning with urination",74,3
+Chronic Fatigue Syndrome,"['Nuvigil' 'Modafinil' 'Armodafinil' 'Provigil' 'Lisdexamfetamine'
+ 'Amantadine' 'Duloxetine']",Myalgic encephalomyelitis/chronic fatigue syndrome,"Worsening of symptoms with activity , long-term fatigue , others",64,7
+Chronic Idiopathic Constipation,['Trulance' 'Plecanatide'],,nan,3,2
+Chronic Inflammatory Demyelinating Polyradiculoneuropathy,['Gamunex'],Neuritis,"Pain , paresthesia , paresis , anesthesia , paralysis",53,1
+Chronic Lymphocytic Leukemia,['Ibrutinib' 'Chlorambucil' 'Imbruvica' 'Rituximab'],Chronic lymphocytic leukemia,"Early : None Later : Non-painful lymph nodes swelling, feeling tired, fever, weight loss",88,4
+Chronic Myelogenous Leukemia,"['Gleevec' 'Dasatinib' 'Tasigna' 'Imatinib' 'Nilotinib' 'Sprycel'
+ 'Hydroxyurea' 'Bosutinib']",Leukemia,"Bleeding, bruising , fatigue , fever, increased risk of infections",66,8
+Chronic Myofascial Pain,['Clonazepam' 'Amitriptyline'],Chronic pain,Pain lasts longer than the expected period of recovery.,55,2
+Chronic Pain,"['Tramadol' 'Morphine' 'Methadose' 'Acetaminophen / oxycodone' 'Exalgo'
+ 'OxyContin' 'Oxycodone' 'Ultram' 'Percocet' 'Roxicodone' 'Hydromorphone'
+ 'Duloxetine' 'Buprenorphine' 'Prialt' 'Fentanyl' 'Embeda' 'Dilaudid'
+ 'Methadone' 'Cymbalta' 'Fentanyl Transdermal System' 'Tylox' 'Butrans'
+ 'MS Contin' 'Duragesic' 'Endocet' 'Subutex' 'Avinza' 'Subsys' 'Ultram ER'
+ 'Ultram ODT' 'Morphine / naltrexone' 'Kadian' 'Xtampza ER'
+ 'Methadone Diskets' 'Belbuca' 'Dolophine' 'Roxicet']",Chronic pain,Pain lasts longer than the expected period of recovery.,55,37
+Chronic Pancreatitis,['Pancrelipase' 'Zenpep' 'Creon'],Chronic pancreatitis,Nausea and vomiting,19,3
+Chronic Spasticity,['Baclofen'],Spasmodic dysphonia,Breaks in the voice making a person difficult to understand,59,1
+Clostridial Infection,['Metronidazole' 'Flagyl' 'Dificid'],Necrotizing fasciitis,"Severe pain , fever , purple colored skin in the affected area",62,3
+Cluster Headaches,"['Indomethacin' 'Tizanidine' 'Verapamil' 'Sumatriptan' 'Sansert' 'Lithium'
+ 'Prednisone' 'Cyproheptadine' 'Imitrex' 'Cafergot' 'Zanaflex' 'Deltasone'
+ 'Dihydroergotamine' 'Migranal' 'Caffeine / ergotamine']",Cluster headache,"Recurrent, severe headaches on one side of the head, eye watering, stuffy nose",78,15
+Coccidioidomycosis,['Itraconazole'],,nan,3,1
+Cold Sores,"['Valacyclovir' 'Penciclovir' 'Denavir' 'Famciclovir' 'Benzocaine'
+ 'Famvir' 'Acyclovir' 'Valtrex' 'Sitavig' 'Zovirax Cream' 'Orajel']",Cold sore,Burning pain followed by small blisters or sores,48,11
+Cold Symptoms,"['Bronkaid' 'Tussionex Pennkinetic'
+ 'Acetaminophen / dextromethorphan / guaifenesin / pseudoephedrine'
+ 'Acetaminophen / dextromethorphan / pseudoephedrine' 'Echinacea'
+ 'Dexbrompheniramine / pseudoephedrine'
+ 'Acetaminophen / chlorpheniramine / phenylephrine' 'Brompheniramine'
+ 'Acetaminophen / dextromethorphan / guaifenesin / phenylephrine'
+ 'Pseudoephedrine / triprolidine' 'R-Tanna'
+ 'Chlorpheniramine / phenylephrine' 'Codimal DM'
+ 'Acetaminophen / chlorpheniramine'
+ 'Tylenol Allergy Multi-Symptom Nighttime' 'Rynatan'
+ 'Alka-Seltzer Plus Cold' 'Primatene' 'Chlorpheniramine / hydrocodone'
+ 'Dextromethorphan / phenylephrine / pyrilamine']",Common cold,"Cough , sore throat , runny nose , fever",40,20
+Colorectal Cance,['Regorafenib'],,nan,3,1
+Computed Tomography,['Barium sulfate'],,nan,3,1
+Condylomata Acuminata,['Podofilox' 'Condylox'],Genital wart,"Small bumps in skin of genital area, varying sizes and shapes but typically protrude out, burning, itch",103,2
+Conjunctivitis,['Sulfacetamide sodium' 'Zymar' 'Dexamethasone'],Conjunctivitis,"Reddish eye , scratchiness",26,3
+"Conjunctivitis, Allergic","['Sterapred' 'Ketotifen' 'Bepotastine' 'Lastacaft' 'Azelastine' 'Bepreve'
+ 'Alcaftadine' 'Zaditor']",Conjunctivitis,"Reddish eye , scratchiness",26,8
+"Conjunctivitis, Bacterial","['TobraDex' 'Polymyxin b / trimethoprim' 'Tobramycin' 'Moxifloxacin'
+ 'Vigamox' 'Loteprednol / tobramycin' 'Neo-Poly-Dex'
+ 'Dexamethasone / neomycin / polymyxin b' 'Moxeza']",Conjunctivitis,"Reddish eye , scratchiness",26,9
+Constipation,"['Magnesium citrate' 'Bisacodyl' ""Phillips' Milk of Magnesia"" 'Dulcolax'
+ 'Milk of Magnesia' 'Linaclotide' 'Linzess' 'Fleet Enema'
+ 'Polyethylene glycol 3350' 'Senna' 'Correctol' 'MiraLax'
+ 'Fleet Phospho Soda' 'Polycarbophil' 'Magnesium hydroxide' 'Metamucil'
+ 'Psyllium' 'Senokot' 'Sodium biphosphate / sodium phosphate'
+ 'Fleet Bisacodyl' 'Sorbitol' 'Magnesium oxide' 'Glycerin'
+ 'Ex-Lax Regular Strength Pills' 'Doxidan Tablet' 'ClearLax' 'Amitiza'
+ 'Citrate of Magnesia' 'Colace' 'Dulcolax Laxative' 'Feen-A-Mint'
+ 'FiberCon']",Constipation,"Infrequent or hard to pass bowel movements , abdominal pain, bloating",69,32
+"Constipation, Acute","['MiraLax' 'Lactulose' 'Senna Plus' 'Docusate / senna'
+ 'Polyethylene glycol 3350' 'ClearLax' 'Senokot S']",Constipation,"Infrequent or hard to pass bowel movements , abdominal pain, bloating",69,7
+"Constipation, Chronic","['Linzess' 'Linaclotide' 'Lubiprostone' 'Zelnorm' 'Amitiza' 'Tegaserod'
+ 'Polyethylene glycol 3350 with electrolytes' 'Lactulose' 'Relistor'
+ 'Generlac' 'GaviLyte-G']",Constipation,"Infrequent or hard to pass bowel movements , abdominal pain, bloating",69,11
+"Constipation, Drug Induced","['Relistor' 'Methylnaltrexone' 'Naloxegol' 'Movantik' 'Amitiza'
+ 'Lubiprostone']",Constipation,"Infrequent or hard to pass bowel movements , abdominal pain, bloating",69,6
+Corneal Refractive Surgery,['Ketorolac' 'Acular LS'],Astigmatism,"Distorted or blurred vision at all distances, eyestrain , headaches",67,2
+Costochondritis,['Naproxen'],Costochondritis,Chest pain,10,1
+Cough,"['Benzonatate' 'Tessalon Perles' 'Codeine / guaifenesin'
+ 'Dextromethorphan' 'Lortab' 'Hycodan' 'Chlorpheniramine / hydrocodone'
+ 'Delsym' 'Tussionex Pennkinetic' 'Homatropine / hydrocodone'
+ 'Dextromethorphan / guaifenesin' 'Hydromet' 'Mucinex DM'
+ 'Tylenol with Codeine #3' 'Iophen-C NR' 'Amitriptyline' 'Cheratussin AC'
+ 'Codeine / promethazine' 'Acetaminophen / codeine'
+ 'Acetaminophen / hydrocodone' 'Tessalon' 'Codeine' 'Guaifenesin'
+ 'TussiCaps' 'Gabapentin' 'Robitussin Cough + Chest Congestion DM'
+ 'Guaifenesin / hydrocodone' 'Dextromethorphan / promethazine' 'Mucinex']",Whooping cough,"Runny nose, fever, cough",24,29
+Cough and Nasal Congestion,"['Guaifenesin / pseudoephedrine' 'Q-Tapp DM'
+ 'Chlorpheniramine / hydrocodone / pseudoephedrine' 'Zutripro'
+ 'Bromfed DM' 'Mucinex D Maximum Strength' 'Mucinex D'
+ 'Brompheniramine / dextromethorphan / pseudoephedrine'
+ 'Chlorpheniramine / dextromethorphan / pseudoephedrine'
+ 'Chlorpheniramine / dextromethorphan' 'Sildec-PE DM'
+ 'Chlorpheniramine / dextromethorphan / phenylephrine'
+ 'Dextromethorphan / guaifenesin / pseudoephedrine'
+ 'Coricidin HBP Cough & Cold'
+ 'Chlorpheniramine / hydrocodone / phenylephrine'
+ 'Hydrocodone / pseudoephedrine' 'Maxifed DM' 'Rezira']",Sinusitis,"Thick nasal mucus, plugged nose, pain in the face, fever, sore throat, frequent attacks of cough",96,18
+Crohn's Disease,"['Pentasa' 'Entyvio' 'Adalimumab' 'Entocort EC' 'Levsin SL' 'Azathioprine'
+ 'Apriso' 'Ustekinumab' 'Cimzia' 'Questran Light' 'Balsalazide' 'Canasa'
+ 'Stelara' 'Certolizumab' 'Humira' 'Mesalamine' 'Cholestyramine'
+ 'Tacrolimus' 'Asacol' 'Sulfasalazine' 'Hyoscyamine' 'Vedolizumab'
+ 'Infliximab']",Crohn's disease,"Abdominal pain , diarrhea (may be bloody), fever , weight loss , fatigue , mouth sores, reduced appetite",104,23
+"Crohn's Disease, Acute",['Metronidazole' 'Cimzia' 'Mercaptopurine' 'Adalimumab' 'Imuran'],Crohn's disease,"Abdominal pain , diarrhea (may be bloody), fever , weight loss , fatigue , mouth sores, reduced appetite",104,5
+"Crohn's Disease, Maintenance","['Mesalamine' 'Remicade' 'Adalimumab' 'Pentasa' 'Azathioprine' 'Humira'
+ 'Cimzia' 'Entocort EC' 'Certolizumab' 'Asacol HD' 'Infliximab' 'Imuran'
+ 'Mercaptopurine']",Crohn's disease,"Abdominal pain , diarrhea (may be bloody), fever , weight loss , fatigue , mouth sores, reduced appetite",104,13
+Cutaneous Candidiasis,"['Nyamyc' 'Xolegel' 'Nystatin / triamcinolone' 'Mycolog II' 'Clotrimazole'
+ 'Nystop' 'Ketoconazole']",Candidiasis,"White patches or vaginal discharge, itching",43,7
+Cutaneous T-cell Lymphoma,['Targretin'],T-cell lymphoma,"swollen lymph nodes , fevers , enlarged liver or spleen, liver dysfunction , rash",81,1
+Cyclic Vomiting Syndrome,['Amitriptyline' 'Sumatriptan'],Cannabinoid hyperemesis syndrome,"Nausea, vomiting, stomach pain",30,2
+Cyclitis,['Lotemax'],Uveitis,"Headaches, red eyes, blurred vision, photophobia, burning and redness of the eye",80,1
+Cyclothymic Disorde,['Lamotrigine'],,nan,3,1
+Cystic Fibrosis,['Creon' 'Kalydeco' 'Zithromax' 'Pulmozyme' 'Ivacaftor'],Cystic fibrosis,"Difficulty breathing , coughing up mucus , poor growth , fatty stool",68,5
+Dandruff,['Sebulex' 'Pyrithione zinc'],Dandruff,Itchy and flaking skin of the scalp,35,2
+Deep Neck Infection,['Clindamycin' 'Piperacillin / tazobactam'],Ludwig's angina,"Fever, pain, a raised tongue, trouble swallowing, neck swelling",63,2
+Deep Vein Thrombosis,['Xarelto' 'Enoxaparin' 'Rivaroxaban' 'Lovenox' 'Tinzaparin'],Deep vein thrombosis,"Pain, swelling , redness, enlarged veins in the affected limb",61,5
+Deep Vein Thrombosis Prophylaxis after Hip Replacement Surgery,['Rivaroxaban'],Deep vein thrombosis,"Pain, swelling , redness, enlarged veins in the affected limb",61,1
+"Deep Vein Thrombosis, First Event",['Warfarin'],Deep vein thrombosis,"Pain, swelling , redness, enlarged veins in the affected limb",61,1
+"Deep Vein Thrombosis, Prophylaxis",['Lovenox' 'Enoxaparin' 'Rivaroxaban'],Deep vein thrombosis,"Pain, swelling , redness, enlarged veins in the affected limb",61,3
+"Deep Vein Thrombosis, Recurrent Event",['Warfarin' 'Coumadin'],Deep vein thrombosis,"Pain, swelling , redness, enlarged veins in the affected limb",61,2
+Dental Abscess,['Amoxicillin' 'Metronidazole' 'Biaxin'],Abscess,"Redness, pain, swelling",23,3
+Depression,"['Mirtazapine' 'Escitalopram' 'Venlafaxine' 'Bupropion' 'Effexor XR'
+ 'Pristiq' 'Vilazodone' 'Lexapro' 'Desvenlafaxine' 'Viibryd' 'Serzone'
+ 'Trintellix' 'Budeprion SR' 'Tramadol' 'Wellbutrin' 'Fetzima' 'Xanax'
+ 'Citalopram' 'Duloxetine' 'Celexa' 'Sertraline' 'Zoloft' 'Cymbalta'
+ 'Risperidone' 'Paroxetine' 'Niacin' 'Fluoxetine' 'Effexor' 'Paxil'
+ 'Emsam' 'Pamelor' 'Seroquel' 'Wellbutrin XL' 'Aripiprazole' 'Selegiline'
+ 'Prozac' 'Deplin' 'Vortioxetine' 'Wellbutrin SR' 'Nefazodone' 'Lithium'
+ 'Armodafinil' 'L-methylfolate' ""St. john's wort"" 'Trazodone'
+ 'Brexpiprazole' 'Seroquel XR' 'Abilify Discmelt' 'Elavil' 'Norpramin'
+ 'Parnate' 'Modafinil' 'Alprazolam' 'Tranylcypromine' 'Phenelzine'
+ 'Desipramine' 'Remeron' 'Quetiapine' 'Rexulti' 'Abilify'
+ 'Levomilnacipran' 'Zyprexa' 'Fluvoxamine' 'Trimipramine' 'Amoxapine'
+ 'Nardil' 'Lamotrigine' 'Budeprion XL' 'Provigil' 'Paxil CR'
+ 'Amitriptyline' 'Methylphenidate' 'Olanzapine' 'Imipramine'
+ 'Limbitrol DS' 'Aplenzin' 'Fluoxetine / olanzapine' 'Symbyax' 'Risperdal'
+ 'Amitriptyline / chlordiazepoxide' 'Doxepin' 'Tryptophan' 'Tofranil'
+ 'Oleptro' 'Forfivo XL' 'Nortriptyline' 'Atomoxetine' 'Prozac Weekly'
+ 'Strattera' 'Ritalin' 'Nuvigil' 'Clomipramine' 'Risperdal M-Tab' 'Invega'
+ 'Amitriptyline / perphenazine' 'Maprotiline']",Depression (mood),"Low mood, aversion to activity, loss of interest, loss of feeling pleasure",74,96
+Dercum's Disease,['Fentanyl'],Dercum's disease,Painful fatty tumors in extremities,35,1
+Dermatitis,"['Pramosone' 'Synalar Ointment' 'Halobetasol' 'Desonide' 'Elocon'
+ 'Clobetasol' 'Fluocinonide' 'Cloderm' 'Orapred' 'Amcinonide'
+ 'Triamcinolone' 'Sodium hyaluronate' 'Lidex' 'Kenalog-40' 'Clocortolone'
+ 'Kenalog' 'Aristocort A' 'Locoid Lipocream' 'RadiaPlexRx' 'Prednisolone'
+ 'Fluocinolone']",Dermatitis,"Itchiness , red skin , rash",27,21
+Dermatologic Lesion,"['Methylprednisolone' 'Granulex' 'Xenaderm'
+ 'Balsam peru / castor oil / trypsin' 'Zinc oxide']",Janeway lesion,Painless red flat papules on palms and soles.,45,5
+Dermatological Disorders,"['Benzoic acid / salicylic acid' 'Celestone' 'Silver' 'Hydroquinone'
+ 'Salicylic acid' 'Bensal HP' 'Urea' 'X-Viate' 'Olux' 'Luxiq'
+ 'Triamcinolone']",Psoriasis,"Red (purple on darker skin), itchy, scaly patches of skin",57,11
+Dermatomyositis,['Mycophenolate mofetil'],Dermatomyositis,"Rash, muscle weakness, weight loss, fever",41,1
+Dermatophytosis,['Griseofulvin'],Dermatophytosis,"Red, itchy, scaly, circular skin rash",37,1
+Diabetes Insipidus,['DDAVP Rhinal Tube' 'DDAVP' 'Desmopressin' 'Hydrochlorothiazide'],Diabetes insipidus,"Large amounts of dilute urine, increased thirst",47,4
+"Diabetes, Type 1","['Afrezza' 'Humulin N' 'Lantus' 'Octreotide'
+ 'Insulin inhalation, rapid acting' 'Tresiba' 'Sandostatin LAR Depot'
+ 'Humulin R U-500 (Concentrated)' 'Insulin degludec' 'Novolog'
+ 'NovoLog Mix 70 / 30' 'Insulin glargine' 'Insulin regular' 'Symlin'
+ 'Victoza' 'Humalog']",Type 1 diabetes,"Frequent urination , increased thirst , increased hunger , weight loss , blurred vision , fatigue and weakness , Bed-wetting in children who previously didn't wet the bed during the night",187,16
+"Diabetes, Type 2","['Liraglutide' 'Glyburide' 'Canagliflozin' 'Dulaglutide' 'Exubera'
+ 'Dapagliflozin' 'Glucophage' 'Empagliflozin / linagliptin' 'Pioglitazone'
+ 'Victoza' 'Metformin' 'Exenatide' 'Invokana' 'Farxiga' 'Trulicity'
+ 'Bydureon' 'Jardiance' 'Amaryl' 'Glimepiride / rosiglitazone' 'Tanzeum'
+ 'Jentadueto' 'Glimepiride' 'Lantus' 'Synjardy' 'Insulin glulisine'
+ 'Kombiglyze XR' 'NovoLog FlexPen' 'Januvia' 'Actos' 'Janumet'
+ 'Insulin glargine' 'Insulin detemir' 'Sitagliptin' 'Glipizide' 'Byetta'
+ 'Tradjenta' 'Insulin aspart / insulin degludec' 'Chromium picolinate'
+ 'Tresiba' 'Empagliflozin' 'Insulin isophane'
+ 'Humulin R U-500 (Concentrated)' 'Repaglinide' 'Toujeo' 'Insulin regular'
+ 'Toujeo Solostar' 'Linagliptin' 'Insulin degludec'
+ 'Insulin inhalation, rapid acting' 'Albiglutide' 'Acarbose'
+ 'Metformin / sitagliptin' 'Prandin' 'ActoPlus Met' 'Apidra' 'Afrezza'
+ 'Glucotrol' 'Onglyza' 'Levemir' 'Novolin 70 / 30' 'Miglitol' 'Novolog'
+ 'Colesevelam' 'Glyxambi' 'Saxagliptin' 'Humalog KwikPen' 'Glucophage XR'
+ 'Insulin aspart' 'Lantus Solostar' 'Pramlintide']",Type 2 diabetes,"Increased thirst , frequent urination , unexplained weight loss , increased hunger",82,70
+Diabetic Kidney Disease,['Avapro' 'Ramipril' 'Losartan'],Diabetic nephropathy,"Albuminuria , peripheral edema , high blood pressure, tiredness",63,3
+Diabetic Macular Edema,['Aflibercept' 'Eylea'],Diabetic retinopathy,"Often asymptomatic, but can cause spots in the eye and vision loss.",67,2
+Diabetic Peripheral Neuropathy,"['Gabapentin' 'Cymbalta' 'Nucynta ER' 'Tapentadol' 'Lyrica' 'Duloxetine'
+ 'Pregabalin' 'Nortriptyline' 'Topiramate' 'Capsaicin']",Peripheral neuropathy,"Shooting pain , numbness , tingling, tremors, bladder problems, unsteadiness",76,10
+Diagnosis and Investigation,['Lexiscan' 'Regadenoson' 'Tilmanocept' 'Lymphoseek'],,nan,3,4
+Diaper Rash,['Miconazole / zinc oxide' 'Menthol / zinc oxide' 'Calmoseptine'],,nan,3,3
+Diarrhea,"['Imodium A-D' 'Lomotil' 'Loperamide' 'Opium' 'Rifaximin'
+ 'Atropine / diphenoxylate' 'Bismuth subsalicylate' 'Paregoric'
+ 'Opium Deodorized' 'Anti-Diarrheal' 'Florastor' 'Octreotide'
+ 'Pepto-Bismol' 'Lotronex' 'Saccharomyces boulardii lyo' 'Xifaxan'
+ 'Imodium' 'Sandostatin' 'Lonox']",Diarrhea,"Loose frequent bowel movements, dehydration",43,19
+"Diarrhea, Acute",['Loperamide' 'Imodium A-D' 'Imodium'],Gastroenteritis,"Diarrhea , vomiting , abdominal pain, fever",43,3
+"Diarrhea, Chronic","['Colesevelam' 'Welchol' 'Imodium A-D' 'Atropine / difenoxin' 'Loperamide'
+ 'Imodium' 'Motofen']",Diarrhea,"Loose frequent bowel movements, dehydration",43,7
+Dietary Fiber Supplementation,['Metamucil'],,nan,3,1
+Dietary Supplementation,"['Biotin' 'Ubiquinone' 'Ortho D' 'Chondroitin / glucosamine'
+ 'Multivitamin' 'Magnesium aspartate' 'Glucose' 'CoQ10']",,nan,3,8
+Dissociative Identity Disorde,['Venlafaxine'],,nan,3,1
+Diverticulitis,"['Metronidazole' 'Flagyl' 'Cipro' 'Sulfamethoxazole / trimethoprim'
+ 'Ciprofloxacin']",Diverticulitis,"Abdominal pain , fever , nausea , diarrhea , constipation , blood in the stool",78,5
+Dry Eye Disease,['Xiidra' 'Lifitegrast' 'Ocular lubricant'],Dry eye syndrome,"Dry eyes, irritation, redness , discharge, blurred vision",57,3
+Dry Skin,"['Urea' 'Lac-Hydrin' 'Emollients' 'Ammonium lactate' 'EpiCeram'
+ 'Lactic acid' 'AmLactin' 'Kerafoam' 'Carmol 20']",Xeroderma,"Low skin moisture, itching , scaling , skin cracking",52,9
+Dumping Syndrome,['Cholestyramine'],Enteritis,"Diarrhea; fever; abdominal pain, abdominal bloating; nutrient deficiencies",74,1
+Duodenal Ulce,"['Donnatal' 'Sucralfate'
+ 'Atropine / hyoscyamine / phenobarbital / scopolamine' 'Pantoprazole']",,nan,3,4
+Dysautonomia,['Midodrine' 'Pyridostigmine' 'Alprazolam' 'Mestinon'],Dysautonomia,"Anhidrosis or hyperhidrosis , blurry vision , tunnel vision , orthostatic hypotension , constipation , diarrhea , dysphagia , bowel incontinence , urinary retention or urinary incontinence , dizziness , Brain Fog , exercise intolerance , tachycardia , vertigo , weakness and pruritus .",285,4
+Dyspareunia,['Ospemifene' 'Osphena'],Vaginismus,Pain with sex,13,2
+Dystonia,['Botox' 'Baclofen'],Spasmodic dysphonia,Breaks in the voice making a person difficult to understand,59,2
+Dysuria,['Phenazopyridine' 'Uricalm' 'Azo-Standard' 'Pyridium' 'Urispas'],Hemorrhagic cystitis,"Hemorrhaging , hematuria , dysuria",34,5
+Ear Wax Impaction,['Carbamide peroxide'],,nan,3,1
+Eczema,"['Mometasone' 'Elocon' 'Imuran' 'Halobetasol' 'Dupilumab' 'Hydrocortisone'
+ 'Pimecrolimus' 'Desoximetasone' 'Desonide' 'Diflorasone' 'DesOwen'
+ 'Cloderm' 'Elidel' 'Locoid Lipocream' 'Dupixent' 'Prednisone'
+ 'Dexamethasone' 'Dermatop']",Dermatitis,"Itchiness , red skin , rash",27,18
+Edema,"['Lasix' 'Furosemide' 'Hydrochlorothiazide / triamterene' 'Spironolactone'
+ 'Dyrenium' 'Demadex' 'Aldactazide' 'Bumetanide' 'Acetazolamide'
+ 'Pamabrom' 'Metolazone' 'Zaroxolyn' 'Edecrin' 'Triamterene'
+ 'Chlorthalidone' 'Hydrochlorothiazide']",Edema,"Skin which feels tight, area may feel heavy",43,16
+Ehrlichiosis,['Doxycycline'],Ehrlichiosis,"Fever, chills, severe headaches, muscle aches, nausea, vomiting, diarrhea, loss of appetite, confusion, and splotchy or pinpoint rash. More severe symptoms include brain or nervous system damage, respiratory failure, uncontrollable bleeding, organ failure, and death.",267,1
+Emergency Contraception,"['Levonorgestrel' 'Plan B One-Step' 'ella' 'Plan B' 'Next Choice' 'Aftera'
+ 'My Way' 'Ulipristal' 'Take Action' 'Opcicon One-Step']",,nan,3,10
+Endometrial Cance,['Megestrol' 'Anastrozole'],Gestational diabetes,Typically few symptoms,22,2
+Endometrial Hyperplasia,['Megace' 'Megestrol'],Endometrial cancer,"Vaginal bleeding , pain with urination or sexual intercourse , pelvic pain",74,2
+Endometriosis,"['Cryselle' 'Depo-Provera' 'Ethinyl estradiol / norgestrel' 'Zoladex'
+ 'Medroxyprogesterone' 'Lupron Depot' 'LoSeasonique' 'Goserelin' 'Jolessa'
+ 'Seasonique' 'Ethinyl estradiol / levonorgestrel' 'Loestrin 24 Fe'
+ 'Lutera' 'Ortho Cyclen' 'Leuprolide' 'Norethindrone'
+ 'Ortho Tri-Cyclen Lo' 'Ethinyl estradiol / norethindrone' 'Synarel'
+ 'Necon 1 / 35' 'Microgestin 1 / 20' 'Etonogestrel' 'Sprintec'
+ 'Ortho Micronor' 'Ethinyl estradiol / norgestimate' 'Lupron' 'Provera'
+ 'Ethinyl estradiol / ethynodiol' 'Levora' 'Ovcon 35'
+ 'Microgestin Fe 1 / 20' 'Junel Fe 1 / 20' 'Ortho-Novum 7 / 7 / 7'
+ 'Aviane']",Endometriosis,"Pelvic pain , infertility",25,34
+Enterocolitis,['Atropine / hyoscyamine / phenobarbital / scopolamine'],Necrotizing enterocolitis,"Poor feeding, bloating, decreased activity, vomiting of bile",60,1
+Eosinophilic Esophagitis,['Entocort EC'],Lymphocytic esophagitis,"difficulty swallowing , heartburn , abdominal pain , food bolus obstruction",75,1
+"Epididymitis, Sexually Transmitted",['Ciprofloxacin'],Epididymitis,"Pain in the back of the testicle , swelling of the testicle, burning with urination , frequent urination",104,1
+Epilepsy,"['Dilantin' 'Tegretol' 'Levetiracetam' 'Divalproex sodium' 'Carbamazepine'
+ 'Phenytoin' 'Mephobarbital' 'Carbatrol' 'Depakote ER' 'Neurontin'
+ 'Keppra' 'Lamictal' 'Lamotrigine' 'Pregabalin' 'Valproic acid' 'Fycompa'
+ 'Keppra XR' 'Gabapentin' 'Depakote' 'Felbamate' 'Perampanel' 'Felbatol'
+ 'Tegretol XR' 'Mebaral']",Epilepsy,"Periods of loss of consciousness, abnormal shaking, staring, change in vision, mood changes and/or other cognitive disturbances",127,24
+Erectile Dysfunction,"['Vardenafil' 'Cialis' 'Tadalafil' 'Viagra' 'Levitra' 'Sildenafil'
+ 'Stendra' 'Alprostadil' 'Avanafil' 'Edex' 'Muse' 'Staxyn' 'Yohimbine'
+ 'Caverject']",Erectile dysfunction,Inability to gain or maintain an erection,41,14
+Erosive Esophagitis,"['Kapidex' 'Rabeprazole' 'Dexilant' 'Dexlansoprazole' 'Nexium'
+ 'Pantoprazole' 'Prevacid' 'Zegerid' 'Protonix' 'Zantac' 'Omeprazole'
+ 'Aciphex' 'Esomeprazole']",Indigestion,Upper abdominal pain,20,13
+Esophageal Variceal Hemorrhage Prophylaxis,['Nadolol'],Esophageal varices,"vomiting blood , passing black stool",36,1
+Expectoration,['Acetylcysteine'],,nan,3,1
+Extrapyramidal Reaction,['Diphenhydramine' 'Trihexyphenidyl' 'Artane' 'Cogentin' 'Benztropine'],Bloating,Blood in stool Weight loss Nausea Vomiting Diarrhea Stomach pain,64,5
+Eye Redness,"['Ocular lubricant' 'GenTeal' 'FreshKote' 'Fluorometholone' 'TheraTears'
+ 'Systane Ultra' 'Tears Again']",Episcleritis,"Photophobia , hot/prickly/gritty sensation in eye, Eye redness without pain, Watery eyes",88,7
+Eye Redness/Itching,['Naphazoline / pheniramine' 'Visine-A' 'Opcon-A'],Conjunctivitis,"Reddish eye , scratchiness",26,3
+Eyelash Hypotrichosis,['Bimatoprost' 'Latisse'],,nan,3,2
+GERD,"['Nexium' 'Esomeprazole' 'Lansoprazole' 'Prevacid' 'Pantoprazole'
+ 'Rabeprazole' 'Prilosec' 'Aciphex' 'Omeprazole' 'Kapidex'
+ 'Dexlansoprazole' 'Ranitidine' 'Dexilant' 'Prilosec OTC' 'Zantac 150'
+ 'Sucralfate' 'Protonix' 'Famotidine' 'Omeprazole / sodium bicarbonate'
+ 'Nizatidine' 'Zegerid OTC' 'Axid AR' 'Metoclopramide'
+ 'Aluminum hydroxide / magnesium hydroxide / simethicone' 'Zantac'
+ 'Calcium carbonate' 'Axid' 'Zegerid']",Gastroesophageal reflux disease,"Taste of acid, heartburn , bad breath , chest pain , breathing problems",71,28
+Gallbladder Disease,['Ursodiol'],Gallstone,"None, crampy pain in the right upper abdomen",44,1
+Gas,['E-Z-Gas II' 'Gas-X' 'Di-Gel' 'Bismuth subgallate' 'Simethicone'],,nan,3,5
+Gastric Ulcer Maintenance Treatment,['Ranitidine'],Gastroenteritis,"Diarrhea , vomiting , abdominal pain, fever",43,1
+Gastritis/Duodenitis,['Pantoprazole'],Gastritis,"Upper abdominal pain , nausea , vomiting , bloating, loss of appetite, heartburn",80,1
+Gastroenteritis,['Ondansetron' 'Zofran'],Gastroenteritis,"Diarrhea , vomiting , abdominal pain, fever",43,2
+Gastrointestinal Decontamination,['MoviPrep' 'Polyethylene glycol 3350 with electrolytes'],Paracetamol poisoning,"Early : Non specific, feeling tired, abdominal pain , nausea Later : Yellowish skin , blood clotting problems , confusion",121,2
+Gastrointestinal Hemorrhage,['Omeprazole / sodium bicarbonate' 'Zegerid'],Gastrointestinal bleeding,"Vomiting red blood , vomiting black blood , bloody stool , black stool , feeling tired",86,2
+Gastrointestinal Stromal Tum,['Imatinib' 'Gleevec'],,nan,3,2
+Gastroparesis,['Metoclopramide' 'Metozolv ODT' 'Reglan'],Gastroparesis,"Nausea , vomiting , abdominal pain , feeling full after eating just a few bites",79,3
+Gender Dysphoria,['Testosterone'],Gender dysphoria,"Distress related to one's assigned gender, sex, and/or sex characteristics",74,1
+Generalized Anxiety Disorde,"['Pregabalin' 'Escitalopram' 'Quetiapine' 'Lexapro' 'Paroxetine' 'Paxil'
+ 'Effexor XR' 'Sertraline' 'Duloxetine' 'Citalopram' 'Cymbalta' 'Paxil CR'
+ 'Venlafaxine' 'Lyrica' 'Seroquel' 'Celexa']",,nan,3,16
+Giant Cell Tumor of Bone,['Xgeva'],Tenosynovial giant cell tumor,"Swelling, pain, sensitivity, and/or limited range of motion",59,1
+Giardiasis,['Metronidazole' 'Tinidazole'],Giardiasis,"Diarrhea , abdominal pain , weight loss, nausea",47,2
+Gingivitis,['Chlorhexidine'],Necrotizing gingivitis,"pain , bad breath , fever , bleeding gums",41,1
+Glaucoma,['Brimonidine / timolol' 'Acetazolamide' 'Diamox'],Glaucoma,".mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:"": ""}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:"" · "";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:"" ("";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:"")"";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:"" ""counter(listitem)""\a0 ""}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:"" (""counter(listitem)""\a0 ""} Vision loss eye pain mid-dilated pupil redness of the eye nausea",2402,3
+"Glaucoma, Open Angle","['Zioptan' 'Simbrinza' 'Latanoprost' 'Trusopt' 'Cosopt PF' 'Travatan'
+ 'Timolol' 'Dorzolamide / timolol' 'Lumigan' 'Xalatan']",Glaucoma,".mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:"": ""}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:"" · "";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:"" ("";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:"")"";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:"" ""counter(listitem)""\a0 ""}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:"" (""counter(listitem)""\a0 ""} Vision loss eye pain mid-dilated pupil redness of the eye nausea",2402,10
+Glioblastoma Multi,['Bevacizumab'],Breast cancer,"A lump in a breast, a change in breast shape, dimpling of the skin, fluid from the nipple , a newly inverted nipple, a red scaly patch of skin on the breast",156,1
+Glioblastoma Multiforme,['Avastin'],Glioblastoma,"Initially nonspecific, headaches , personality changes, nausea , symptoms similar to a stroke",93,1
+"Gonococcal Infection, Uncomplicated",['Azithromycin' 'Ceftriaxone'],Urinary tract infection,"Pain with urination , frequent urination, feeling the need to urinate despite having an empty bladder",101,2
+Gout,"['Uloric' 'Allopurinol' 'Febuxostat' 'Krystexxa' 'Probenecid' 'Lesinurad'
+ 'Pegloticase']",Gout,"Joint pain , swelling , and redness",35,7
+"Gout, Acute","['Indomethacin' 'Methylprednisolone' 'Aleve' 'Colchicine' 'Naproxen'
+ 'Colcrys' 'Indocin' 'Ibuprofen' 'Advil']",Gout,"Joint pain , swelling , and redness",35,9
+Gouty Arthritis,['Prednisone' 'Dexamethasone'],Gout,"Joint pain , swelling , and redness",35,2
+HIV Infection,"['Genvoya'
+ 'Cobicistat / elvitegravir / emtricitabine / tenofovir alafenamide'
+ 'Abacavir / dolutegravir / lamivudine' 'Efavirenz'
+ 'Cobicistat / elvitegravir / emtricitabine / tenofovir' 'Intelence'
+ 'Atripla' 'Triumeq' 'Complera' 'Stribild'
+ 'Efavirenz / emtricitabine / tenofovir' 'Emtricitabine / tenofovir'
+ 'Raltegravir' 'Abacavir / lamivudine' 'Tivicay' 'Truvada' 'Dolutegravir'
+ 'Emtricitabine / rilpivirine / tenofovir' 'Isentress' 'Epzicom'
+ 'Prezista' 'Odefsey' 'Darunavir' 'Prezcobix' 'Kaletra' 'Enfuvirtide'
+ 'Cobicistat / darunavir']",HIV/AIDS,"Early : Flu-like illness Later : Large lymph nodes , fever, weight loss",71,27
+Hashimoto's disease,"['Nature-Throid' 'Thyroid desiccated' 'Levothyroxine' 'Tirosint'
+ 'Armour Thyroid' 'Synthroid' 'Westhroid' 'NP Thyroid']",Hashimoto's thyroiditis,"Painless goiter , weight gain , feeling tired , constipation , depression , dry skin , hair loss",96,8
+Head Injury,['Amantadine'],Head injury,Injury to the brain or skull,28,1
+Head Lice,"['Sklice' 'Ivermectin' 'Ovide' 'Natroba' 'Stromectol' 'Malathion'
+ 'Spinosad']",Head lice infestation,Itching that can result in trouble sleeping,43,7
+Headache,"['Acetaminophen / butalbital / caffeine'
+ 'Acetaminophen / dichloralphenazone / isometheptene mucate' 'Fioricet'
+ 'Aspirin / butalbital / caffeine' 'Fiorinal with Codeine' 'Esgic'
+ 'Fioricet with Codeine' 'Acetaminophen / butalbital / caffeine / codeine'
+ 'Esgic-Plus' 'Naproxen' 'Acetaminophen / butalbital'
+ 'Acetaminophen / caffeine' 'Ibuprofen' 'Fiorinal' 'Prodrin'
+ 'Acetaminophen / phenyltoloxamine'
+ 'Acetaminophen / caffeine / isometheptene mucate' 'Advil'
+ 'Aspirin / butalbital / caffeine / codeine' 'Excedrin Quick Tab'
+ 'Excedrin Tension Headache' 'Motrin']",Cluster headache,"Recurrent, severe headaches on one side of the head, eye watering, stuffy nose",78,22
+Heart Attack,"['Metoprolol' 'Plavix' 'Aspirin' 'Clopidogrel' 'Bayer Aspirin'
+ 'Lisinopril' 'Metoprolol Tartrate' 'Altace' 'Nitroglycerin']",Myocardial infarction,"Chest pain , shortness of breath , nausea/vomiting, dizziness or lightheadedness , cold sweat , feeling tired ; arm, neck, back, jaw, or stomach pain, decreased level or total loss of consciousness",197,9
+Heart Failure,"['Carvedilol' 'Sacubitril / valsartan' 'Entresto' 'Corlanor' 'Digoxin'
+ 'Bisoprolol' 'Furosemide' 'Toprol-XL' 'Metoprolol' 'Coreg CR' 'Quinapril'
+ 'Aldactone' 'Coreg' 'Lisinopril']",Heart failure,"Shortness of breath , exhaustion , swollen legs",47,14
+Helicobacter Pylori Infection,"['Pylera' 'Bismuth subcitrate potassium / metronidazole / tetracycline'
+ 'Amoxicillin / clarithromycin / lansoprazole' 'Clarithromycin' 'Prevpac'
+ 'Omeprazole' 'Metronidazole' 'Esomeprazole' 'Biaxin' 'Nexium'
+ 'Tetracycline']",Gastritis,"Upper abdominal pain , nausea , vomiting , bloating, loss of appetite, heartburn",80,11
+Hemophilia A,['Antihemophilic factor'],Haemophilia A,Prolonged bleeding from common injuries,39,1
+Hemophilia B,['Coagulation factor ix'],Haemophilia B,Easy bruising,13,1
+Hemorrhoids,"['Lidocaine' 'Pramoxine' 'Proctofoam' 'Hydrocortisone' 'Analpram-HC'
+ 'Hydrocortisone / pramoxine' 'Anucort-HC' 'Proctosol-HC'
+ 'Phenylephrine / pramoxine']",Hemorrhoid,"Internal : Painless, bright red rectal bleeding External : Pain and swelling around the anus",92,9
+Hepatic Encephalopathy,['Xifaxan' 'Lactulose' 'Rifaximin'],Hepatic encephalopathy,"Altered level of consciousness , mood changes, personality changes, movement problems slurred speech, Sleep problems, Anxiety or irritability, Muscle twitches (myoclonus), Difficulty concentrating or short attention span, Flapping hand motion (asterixis), Reduced alertness, Cognitive impairment (confused thinking or judgment).",328,3
+Hepatitis B,['Tenofovir' 'Viread'],Hepatitis B,"None, yellowish skin , tiredness , dark urine, abdominal pain",61,2
+Hepatitis C,"['Sovaldi' 'Harvoni' 'Sofosbuvir' 'Ledipasvir / sofosbuvir' 'Daklinza'
+ 'Incivek' 'Zepatier' 'Epclusa' 'Daclatasvir' 'Telaprevir'
+ 'Peginterferon alfa-2a' 'Sofosbuvir / velpatasvir'
+ 'Elbasvir / grazoprevir' 'Moderiba' 'Olysio' 'Ribasphere' 'Ribavirin'
+ 'Pegasys']",Hepatitis C,Typically none,14,18
+Hepatocellular Carcinoma,['Sorafenib'],Liver cancer,"Lump or pain in the right side below the rib cage , swelling of the abdomen , yellowish skin , easy bruising, weight loss, weakness",131,1
+Herbal Supplementation,['Milk thistle' 'Chaparral' 'Ginseng' 'Fenugreek' 'Guarana'],Altitude sickness,"Headache , vomiting , feeling tired , trouble sleeping , dizziness",66,5
+Hereditary Angioedema,['Cinryze' 'Firazyr' 'Kalbitor' 'Icatibant' 'Berinert'],Hereditary angioedema,Recurrent attacks of severe swelling,36,5
+Herpes Simplex,['Docosanol' 'Zovirax' 'Lysine' 'Abreva' 'Acyclovir' 'Blistex'],Herpes,"Blisters that break open and form small ulcers , fever, swollen lymph nodes",75,6
+Herpes Simplex Dendritic Keratitis,['Zirgan'],Measles,"Fever, cough, runny nose, inflamed eyes, rash",45,1
+"Herpes Simplex, Mucocutaneous/Immunocompetent Host",['Valtrex' 'Famciclovir' 'Famvir' 'Valacyclovir'],Candidiasis,"White patches or vaginal discharge, itching",43,4
+"Herpes Simplex, Mucocutaneous/Immunocompromised Host",['Valacyclovir'],Herpes,"Blisters that break open and form small ulcers , fever, swollen lymph nodes",75,1
+"Herpes Simplex, Suppression",['Lysine' 'Valacyclovir' 'Valtrex' 'Zovirax' 'Acyclovir'],Genital herpes,"None, small blisters that break open to form painful ulcers , flu-like symptoms",79,5
+Herpes Zoste,['Acyclovir' 'Valacyclovir' 'Valtrex' 'Famvir'],,nan,3,4
+"Herpes Zoster, Prophylaxis",['Zoster vaccine live'],Chickenpox,"Small, itchy blisters , headache , loss of appetite , tiredness , fever",71,1
+Hiccups,['Gabapentin' 'Baclofen' 'Chlorpromazine' 'Thorazine'],,nan,3,4
+Hidradenitis Suppurativa,['Adalimumab'],Hidradenitis suppurativa,Multiple inflamed and swollen skin lesions,42,1
+High Blood Pressure,"['Lisinopril' 'Carvedilol' 'Cozaar' 'Azor' 'Lotrel' 'Metoprolol'
+ 'Amlodipine' 'Ramipril' 'Atenolol' 'Benicar' 'Amlodipine / olmesartan'
+ 'Losartan' 'Adalat CC' 'Tenex' 'Nebivolol' 'Bystolic' 'Clonidine'
+ 'Edarbyclor' 'Exforge' 'Zestril' 'Diovan HCT' 'Olmesartan' 'Coreg'
+ 'Hydrochlorothiazide' 'Minoxidil' 'Nadolol' 'Diltiazem'
+ 'Bisoprolol / hydrochlorothiazide' 'Telmisartan'
+ 'Hydrochlorothiazide / triamterene' 'Exforge HCT' 'Diovan' 'Valsartan'
+ 'Micardis HCT' 'Benazepril / hydrochlorothiazide'
+ 'Amlodipine / benazepril' 'Univasc' 'Benicar HCT'
+ 'Hydrochlorothiazide / lisinopril' 'Norvasc' 'Amlodipine / atorvastatin'
+ 'Hydrochlorothiazide / valsartan' 'Azilsartan medoxomil / chlorthalidone'
+ 'Atenolol / chlorthalidone' 'Tarka' 'Nifedipine'
+ 'Hydrochlorothiazide / olmesartan'
+ 'Amlodipine / hydrochlorothiazide / olmesartan' 'Hytrin' 'Microzide'
+ 'Micardis' 'Eplerenone' 'Minipress' 'Avapro' 'Tenormin' 'Cartia XT'
+ 'Propranolol' 'Quinapril' 'Guanfacine' 'Candesartan'
+ 'Azilsartan medoxomil' 'Altace' 'Tekturna HCT' 'Irbesartan' 'Ziac'
+ 'Prazosin' 'Spironolactone' 'Amlodipine / telmisartan' 'Perindopril'
+ 'Verapamil' 'Hydrochlorothiazide / telmisartan' 'Tekturna' 'Fosinopril'
+ 'Hydrochlorothiazide / losartan' 'Toprol-XL' 'Aliskiren' 'Cardizem'
+ 'Terazosin' 'Dyazide' 'Cardura' 'Zestoretic' 'Avalide' 'Tribenzor'
+ 'Bisoprolol' 'Enalapril' 'Furosemide' 'Aliskiren / hydrochlorothiazide'
+ 'Hydrochlorothiazide / irbesartan' 'Edarbi' 'Atacand']",Hypertension,None,4,90
+High Cholesterol,"['Pravastatin' 'Rosuvastatin' 'Simcor' 'Crestor' 'Lipitor' 'Atorvastatin'
+ 'Praluent' 'Niacin' 'Simvastatin' 'Lovastatin' 'Ezetimibe / simvastatin'
+ 'Niaspan' 'Red yeast rice' 'Livalo' 'Evolocumab' 'Pitavastatin' 'Welchol'
+ 'Trilipix' 'Gemfibrozil' 'Fenofibric acid' 'Vytorin' 'Ezetimibe' 'Zetia'
+ 'Lovastatin / niacin' 'Advicor' 'Repatha' 'Zocor' 'Alirocumab'
+ 'Niacin / simvastatin' 'Slo-Niacin' 'Mevacor']",,nan,3,31
+"High Cholesterol, Familial Heterozygous","['Evolocumab' 'Crestor' 'Repatha' 'Praluent' 'Rosuvastatin' 'Zetia'
+ 'Alirocumab' 'Vytorin']",Dyslipidemia,Atherosclerosis,15,8
+"High Cholesterol, Familial Homozygous",['Evolocumab' 'Repatha'],Dyslipidemia,Atherosclerosis,15,2
+Hirsutism,['Eflornithine' 'Vaniqa' 'Spironolactone'],Polycystic ovary syndrome,"Irregular menstrual periods , heavy periods , excess hair , acne , pelvic pain, difficulty getting pregnant , patches of thick, darker, velvety skin",148,3
+Histoplasmosis,['Itraconazole'],,nan,3,1
+Hot Flashes,"['Esterified estrogens / methyltestosterone' 'Venlafaxine' 'Gabapentin'
+ 'Paroxetine' 'Cymbalta' 'Neurontin' 'Brisdelle' 'Fluoxetine' 'Remeron'
+ 'Duavee' 'Megestrol' 'Duloxetine' 'Bazedoxifene / conjugated estrogens'
+ 'Evening Primrose Oil' 'Estratest H.S.' 'Desvenlafaxine']",Menopause,No menstrual periods for a year,31,16
+Human Papilloma Virus,['Imiquimod' 'Aldara'],Human papillomavirus infection,"None, warts",11,2
+Human Papillomavirus Prophylaxis,['Human papillomavirus vaccine' 'Gardasil'],Human papillomavirus infection,"None, warts",11,2
+Hypercalcemia of Malignancy,['Denosumab'],Hypercalcaemia,"Abdominal pain , bone pain, confusion , depression , weakness",61,1
+Hyperekplexia,['Klonopin' 'Depakote'],Hyperekplexia,"Increased startle response to sudden auditory, visual, or tactile stimulation",77,2
+Hyperhidrosis,"['Oxybutynin' 'Aluminum chloride hexahydrate' 'Drysol' 'Xerac AC'
+ 'Hypercare' 'Clonidine' 'Botox']",Gustatory hyperhidrosis,Excessive sweating after eating certain foods by individuals with particular nerve damage,89,7
+Hyperkalemia,['Kionex'],Hyperkalemia,"Palpitations , muscle pain , muscle weakness , numbness",55,1
+Hyperlipoproteinemia,['Prevalite' 'Simvastatin'],Dyslipidemia,Atherosclerosis,15,2
+"Hyperlipoproteinemia Type IIa, Elevated LDL",['Fenofibrate' 'Colesevelam' 'Welchol' 'TriCor'],Dyslipidemia,Atherosclerosis,15,4
+Hyperphosphatemia of Renal Failure,['Fosrenol' 'Sevelamer'],Chronic kidney disease,"Early : None Later : Leg swelling , feeling tired, vomiting , loss of appetite, confusion",89,2
+Hyperprolactinemia,['Cabergoline' 'Bromocriptine' 'Parlodel'],,nan,3,3
+Hypersomnia,"['Caffeine' 'Nuvigil' 'NoDoz' 'Armodafinil' 'Dextroamphetamine'
+ 'Modafinil' 'Provigil' 'Vivarin']",Narcolepsy,"Excessive daytime sleepiness , involuntary sleep episodes, sudden loss of muscle strength , hallucinations",106,8
+Hypertensive Emergency,['Clonidine'],Hypertension,None,4,1
+Hypertriglyceridemia,"['Vascepa' 'Icosapent' 'TriCor' 'Fenofibrate'
+ 'Omega-3 polyunsaturated fatty acids' 'Trilipix' 'Lovaza']",Dyslipidemia,Atherosclerosis,15,7
+Hypoactive Sexual Desire Disorde,['Addyi'],,nan,3,1
+Hypocalcemia,['Calcitriol' 'Rocaltrol'],Hypocalcemia,"Numbness , muscle spasms , seizures , confusion",47,2
+Hypodermoclysis,['Hylenex'],,nan,3,1
+Hypoestrogenism,"['Estradiol' 'Premarin' 'Conjugated estrogens' 'Estrace Vaginal Cream'
+ 'Climara']",,nan,3,5
+"Hypogonadism, Male","['AndroGel' 'Testosterone' 'Testim' 'Delatestryl' 'Aveed'
+ 'Depo-Testosterone' 'Axiron' 'Fortesta' 'Androderm'
+ 'Chorionic gonadotropin (hcg)' 'Testopel' 'Natesto']",Kallmann syndrome,"Absent or delayed puberty , infertility , inability to smell",60,12
+Hypokalemic Periodic Paralysis,['Acetazolamide'],Sleep paralysis,Awareness but an inability to move during waking or falling asleep hallucinations,81,1
+Hypomagnesemia,['Magnesium oxide' 'Magnesium amino acids chelate'],Magnesium deficiency,"Tremor , poor coordination, nystagmus , seizures",48,2
+Hypoparathyroidism,['Parathyroid hormone' 'Forteo'],Hypoparathyroidism,hypocalcemia,12,2
+Hypotension,['Levophed' 'Midodrine' 'Norepinephrine'],Hypotension,"Dizziness , clumsiness , giddiness , headaches, lightheadedness , fatigue , nausea, blurred vision, shakiness, breathlessness, increased thirst, irregular heartbeat, chest pain, fever, seizures",193,3
+"Hypothyroidism, After Thyroid Removal","['Synthroid' 'Cytomel' 'Tirosint' 'Levothyroxine' 'Liothyronine'
+ 'Armour Thyroid' 'Levoxyl' 'Westhroid' 'Nature-Throid'
+ 'Thyroid desiccated']",Hypothyroidism,"Poor ability to tolerate cold, feeling tired, constipation , weight gain, depression , anxiety , irritability",109,10
+ICU Agitation,['Haloperidol' 'Versed'],Delirium,"Agitation , confusion , drowsiness , hallucinations , delusions , memory problems",81,2
+Idiopathic Thrombocytopenic Purpura,"['Dexamethasone' 'Promacta' 'Romiplostim' 'Nplate'
+ 'Rho (d) immune globulin' 'Cyclosporine' 'Eltrombopag']",Thrombotic thrombocytopenic purpura,"Large bruises , fever , weakness, shortness of breath , confusion, headache",75,7
+Immunosuppression,['Methylprednisolone'],Kaposi's sarcoma,Purple colored skin lesions,27,1
+Impetig,['Altabax' 'Retapamulin'],,nan,3,2
+Indigestion,"['Bismuth subsalicylate' 'Omeprazole' 'Cimetidine'
+ ""Phillips' Milk of Magnesia"" 'Magnesium hydroxide'
+ 'Magaldrate / simethicone' 'Tums Regular Strength' 'Ranitidine'
+ 'Calcium carbonate' 'Pepto-Bismol' 'Prilosec']",Indigestion,Upper abdominal pain,20,11
+Infection Prophylaxis,['Sulfamethoxazole / trimethoprim' 'Bactrim DS'],Gonorrhea,"None, burning with urination , vaginal discharge , discharge from the penis , pelvic pain , testicular pain",107,2
+Inflammatory Bowel Disease,['Prednisone' 'Budesonide' 'Entocort EC' 'Apriso' 'Pentasa'],Crohn's disease,"Abdominal pain , diarrhea (may be bloody), fever , weight loss , fatigue , mouth sores, reduced appetite",104,5
+Inflammatory Conditions,"['Methylprednisolone' 'Meloxicam' 'Prednisone' 'Mobic' 'Solu-Medrol'
+ 'Dexamethasone' 'Betamethasone' 'Doans Pills Extra Strength'
+ 'Medrol Dosepak' 'Prednisolone']",Inflammation,"Heat, pain, redness, swelling",29,10
+Influenza,['Oseltamivir' 'Tamiflu' 'Zanamivir' 'Relenza' 'Coricidin HBP Cold & Flu'],Influenza,"Fever , runny nose , sore throat , muscle pain , headache , coughing , fatigue",78,5
+Influenza Prophylaxis,"['Influenza virus vaccine, inactivated' 'Oseltamivir']",Influenza,"Fever , runny nose , sore throat , muscle pain , headache , coughing , fatigue",78,2
+Insomnia,"['Desyrel' 'Ambien' 'Eszopiclone' 'Belsomra' 'Quetiapine' 'Temazepam'
+ 'Lunesta' 'Rozerem' 'Trazodone' 'Zolpidem' 'Doxepin' 'Flurazepam'
+ 'Mirtazapine' 'Halcion' 'Ramelteon' 'Ativan' 'Melatonin' 'Hetlioz'
+ 'Zaleplon' 'Gabapentin' 'Ambien CR' 'Seroquel' 'Amitriptyline'
+ 'Triazolam' 'Secobarbital' 'Silenor' 'Suvorexant' 'Restoril' 'Somnote'
+ 'Remeron' 'Doxylamine' 'Lorazepam' 'Doral' 'Diphenhydramine' 'Edluar'
+ 'Clonazepam' 'Sominex' 'Seconal Sodium' 'Chloral hydrate'
+ 'Acetaminophen / diphenhydramine' 'Sleep Aid'
+ 'Diphenhydramine / naproxen' 'Estazolam' 'Olanzapine' 'Unisom SleepTabs'
+ 'Zyprexa' 'Excedrin PM' 'Dalmane' 'Simply Sleep' 'Nembutal Sodium'
+ 'Seroquel XR' 'Prosom' 'Butabarbital' 'Elavil' 'Benadryl' 'Tylenol PM'
+ 'Remeron SolTab' 'Klonopin' 'Diphenhydramine / ibuprofen' 'Sonata'
+ 'Seconal' 'Tasimelteon']",Insomnia,"Trouble sleeping , daytime sleepiness, low energy, irritability, depressed mood",79,62
+"Insomnia, Stimulant-Associated",['Clonidine'],Fatal insomnia,"Progressive insomnia, ataxia, double vision, weight loss, high blood pressure, excessive sweating",97,1
+Insulin Resistance Syndrome,['Metformin' 'Glucophage XR' 'Glucophage'],Metabolic syndrome,Obesity,7,3
+Intermittent Claudication,['Trental' 'Pentoxifylline' 'Pletal'],Neurogenic claudication,"Pain, tingling, tiredness, weakness, numbness or heaviness in the legs, hips, glutes and lower back .",101,3
+Interstitial Cystitis,"['Phenazopyridine' 'Pentosan polysulfate sodium' 'Elmiron' 'Pyridium'
+ 'Amitriptyline' 'Uristat' 'Elavil' 'Sanctura']",Interstitial cystitis,"Chronic pain of the bladder, feeling the need to urinate right away , needing to urinate often , pain with sex",110,8
+Intraabdominal Infection,['Metronidazole'],Tertiary peritonitis,"fever, shock, abdominal pain",28,1
+Intraocular Hypertension,['Travoprost' 'Brimonidine' 'Travatan Z' 'Travatan' 'Xalatan' 'Zioptan'],Glaucoma,".mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:"": ""}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:"" · "";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:"" ("";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:"")"";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:"" ""counter(listitem)""\a0 ""}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:"" (""counter(listitem)""\a0 ""} Vision loss eye pain mid-dilated pupil redness of the eye nausea",2402,6
+Iritis,['Loteprednol / tobramycin' 'Prednisolone' 'Lotemax'],Uveitis,"Headaches, red eyes, blurred vision, photophobia, burning and redness of the eye",80,3
+Iron Deficiency Anemia,"['Ferrous sulfate' 'Iron sucrose' 'Poly Iron' 'Feraheme' 'Slow Fe'
+ 'Ferrous fumarate / iron polysaccharide' 'Iron polysaccharide' 'Venofer'
+ 'Ferrous gluconate']",Iron-deficiency anemia,"Feeling tired , weakness, shortness of breath , confusion, pallor",65,9
+Irritable Bowel Syndrome,"['EnteraGam' 'Cholestyramine' 'Eluxadoline' 'Dicyclomine' 'Levsin SL'
+ 'Hyoscyamine' 'Librax' 'Viberzi' 'Linzess'
+ 'Atropine / hyoscyamine / phenobarbital / scopolamine'
+ 'Chlordiazepoxide / clidinium' 'Linaclotide' 'Donnatal' 'Amitiza'
+ 'Tegaserod' 'Venlafaxine' 'Amitriptyline' 'Rifaximin' 'Xifaxan'
+ 'Metamucil' 'Hyosyne' 'Lubiprostone' 'Nortriptyline' 'Bentyl' 'Alosetron'
+ 'Methscopolamine' 'Zelnorm' 'Lotronex' 'Levsin' 'Lexapro'
+ 'Lactobacillus acidophilus' 'Escitalopram' 'Pamine Forte' 'Symax Duotab'
+ 'Konsyl' 'Desipramine' 'Doxepin']",Irritable bowel syndrome,"Diarrhea , constipation , abdominal pain",40,37
+Ischemic Stroke,['Nimodipine'],Stroke,"Inability to move or feel on one side of the body, problems understanding or speaking , dizziness , loss of vision to one side",126,1
+"Ischemic Stroke, Prophylaxis",['Aspirin / dipyridamole' 'Plavix'],Cerebral edema,"Headache, nausea, vomiting, decreased consciousness, seizures",61,2
+Jet Lag,['Melatonin'],,nan,3,1
+Juvenile Idiopathic Arthritis,['Tocilizumab' 'Etanercept' 'Actemra' 'Enbrel' 'Humira'],Arthritis,"Joint pain , stiffness, redness, swelling , decreased range of motion",69,5
+Juvenile Rheumatoid Arthritis,['Celebrex' 'Sulfasalazine' 'Etanercept' 'Enbrel' 'Meloxicam'],Rheumatoid arthritis,"Warm, swollen, painful joints",29,5
+Keratitis,['Lotemax'],Fungal keratitis,"Eye pain, blurred vision , red eye, eye discharge, photophobia , corneal ulceration",83,1
+Keratoconjunctivitis Sicca,['Cyclosporine' 'Restasis'],Dry eye syndrome,"Dry eyes, irritation, redness , discharge, blurred vision",57,2
+Keratosis,"['Zyclara' 'Fluoroplex' 'Fluorouracil' 'Imiquimod' 'Aldara' 'Carac'
+ 'Efudex' 'Collagenase Santyl']",Leukoplakia,"Firmly attached white patch on a mucous membrane , changes with time",68,8
+Kidney Infections,"['Ciprofloxacin' 'Levaquin' 'Cephalexin' 'Cipro'
+ 'Sulfamethoxazole / trimethoprim' 'Levofloxacin' 'Rocephin' 'Keflex']",Pyelonephritis,"Fever , flank tenderness , nausea , burning with urination , frequent urination",79,8
+Labor Induction,['Pitocin' 'Cervidil' 'Dinoprostone'],Pregnancy,"Missed periods, tender breasts, nausea and vomiting , hunger, frequent urination",80,3
+Labor Pain,['Stadol'],Pain,Unpleasant sensory and emotional sensations,43,1
+Lactation Augmentation,['Reglan'],,nan,3,1
+Lactose Intolerance,['Lactaid Ultra'],Lactose intolerance,"Abdominal pain, bloating , diarrhea , flatulence , nausea",57,1
+Left Ventricular Dysfunction,['Carvedilol' 'Coreg' 'Diovan' 'Vasotec'],Heart failure,"Shortness of breath , exhaustion , swollen legs",47,4
+Lennox-Gastaut Syndrome,['Banzel'],Epilepsy,"Periods of loss of consciousness, abnormal shaking, staring, change in vision, mood changes and/or other cognitive disturbances",127,1
+Lichen Planus,['Triamcinolone' 'Clobetasol' 'Prednisone'],Lichen simplex chronicus,"Thick leathery skin, exaggerated skin markings, small bumps , patches, scratch marks , scale",92,3
+Lichen Sclerosus,['Temovate' 'Clobetasol'],Lichen simplex chronicus,"Thick leathery skin, exaggerated skin markings, small bumps , patches, scratch marks , scale",92,2
+Light Anesthesia,['Valium' 'Ativan' 'Lorazepam' 'Versed' 'Diazepam'],,nan,3,5
+Light Sedation,"['Thorazine' 'Diazepam' 'Seconal' 'Meperidine' 'Valium' 'Promethazine'
+ 'Midazolam' 'Demerol' 'Versed']",,nan,3,9
+Lipodystrophy,['Egrifta' 'Tesamorelin'],Congenital generalized lipodystrophy,"Mild specific body features, absence of subcutaneous fat , muscle hypertrophy , insulin resistance , gigantism / acromegaly , large appetite",140,2
+Liver Magnetic Resonance Imaging,['Gadoxetate disodium'],,nan,3,1
+Local Anesthesia,['Lidocaine' 'Solarcaine Burn Relief' 'Bupivacaine'],Hernia,"Pain especially with coughing, bulging area",43,3
+Lyme Disease,['Doxycycline' 'Doxy 100' 'Cefuroxime'],Lyme disease,"Expanding area of redness at the site of a tick bite, fever , headache , tiredness",82,3
+"Lyme Disease, Erythema Chronicum Migrans",['Azithromycin'],Lyme disease,"Expanding area of redness at the site of a tick bite, fever , headache , tiredness",82,1
+"Lyme Disease, Neurologic",['Ceftriaxone' 'Penicillin g benzathine' 'Bicillin L-A' 'Doxycycline'],Lyme disease,"Expanding area of redness at the site of a tick bite, fever , headache , tiredness",82,4
+Lymphocytic Colitis,['Mesalamine' 'Asacol'],Microscopic colitis,Persistent diarrhea,19,2
+Lymphoma,['Prednisone'],Lymphoma,"Enlarged lymph nodes , fever , sweats , unintended weight loss, itching , feeling tired",87,1
+Macular Degeneration,['Ranibizumab' 'Lucentis' 'Aflibercept' 'Eylea' 'Pegaptanib'],Macular degeneration,Blurred or no vision in the center of the visual field,54,5
+Macular Edema,['Ranibizumab' 'Lucentis'],Diabetic retinopathy,"Often asymptomatic, but can cause spots in the eye and vision loss.",67,2
+Major Depressive Disorde,"['Wellbutrin' 'Sertraline' 'Fluoxetine' 'Zoloft' 'Remeron' 'Venlafaxine'
+ 'Wellbutrin XL' 'Desvenlafaxine' 'Vortioxetine' 'Seroquel XR'
+ 'Vilazodone' 'Effexor XR' 'Trazodone' 'Prozac' 'Trintellix' 'Bupropion'
+ 'Cymbalta' 'Duloxetine' 'Quetiapine' 'Olanzapine' 'Aripiprazole'
+ 'Effexor' 'Mirtazapine' 'Levomilnacipran' 'Fetzima' 'Escitalopram'
+ 'Abilify' 'Viibryd' 'Lexapro' 'Rexulti' 'Brexpiprazole' 'Wellbutrin SR'
+ 'Oleptro' 'Paroxetine' 'Pristiq' 'Emsam' 'Paxil' 'Selegiline'
+ 'Nefazodone' 'Symbyax' 'Budeprion SR' 'Sinequan' 'Zyprexa']",,nan,3,43
+Malaria,['Doxycycline' 'Halofantrine' 'Coartem' 'Atovaquone' 'Halfan'],Malaria,"Fever, vomiting, headache, yellow skin",38,5
+Malaria Prevention,['Atovaquone / proguanil' 'Malarone' 'Mefloquine' 'Doxycycline'],Malaria,"Fever, vomiting, headache, yellow skin",38,4
+Mania,"['Divalproex sodium' 'Risperidone' 'Chlorpromazine' 'Depakote' 'Lithium'
+ 'Valproic acid' 'Risperdal']",,nan,3,7
+Mantle Cell Lymphoma,['Ibrutinib' 'Imbruvica'],Lymphoma,"Enlarged lymph nodes , fever , sweats , unintended weight loss, itching , feeling tired",87,2
+Melanoma,['Nivolumab'],Melanoma,"Mole that is increasing in size, has irregular edges, change in color, itchiness, or skin breakdown .",101,1
+"Melanoma, Metastatic",['Keytruda'],Melanoma,"Mole that is increasing in size, has irregular edges, change in color, itchiness, or skin breakdown .",101,1
+Melasma,['Tri-Luma' 'Fluocinolone / hydroquinone / tretinoin'],Addison's disease,"Abdominal pain, weakness, weight loss, darkening of the skin",60,2
+Meniere's Disease,['Diazepam' 'Valium'],Ménière's disease,"Feeling like the world is spinning , ringing in the ears , hearing loss , fullness in the ear",93,2
+Menopausal Disorders,['Esterified estrogens / methyltestosterone' 'Estratest H.S.'],Menopause,No menstrual periods for a year,31,2
+Menorrhagia,['Tranexamic acid' 'Natazia' 'Lysteda' 'Dienogest / estradiol'],Heavy menstrual bleeding,bleeding more than usual,24,4
+Menstrual Disorders,"['Yaz' 'Lysteda' 'Tranexamic acid' 'Drospirenone / ethinyl estradiol'
+ 'femhrt' 'Ethinyl estradiol / norethindrone' 'Gianvi' 'Loestrin 24 Fe'
+ 'Microgestin Fe 1 / 20' 'Loestrin 21 1 / 20' 'Gildess Fe 1 / 20' 'Yasmin'
+ 'Ocella' 'Microgestin Fe 1.5 / 30' 'Loryna']",Heavy menstrual bleeding,bleeding more than usual,24,15
+Methicillin-Resistant Staphylococcus Aureus Infection,['Linezolid' 'Zyvox' 'Vancomycin'],,nan,3,3
+Migraine,"['Rizatriptan' 'Eletriptan' 'Relpax' 'Amerge' 'Sumatriptan' 'Cambia'
+ 'Reglan' 'Gabapentin' 'Metoclopramide' 'Diclofenac'
+ 'Acetaminophen / aspirin / caffeine' 'Naproxen / sumatriptan'
+ 'Methylergonovine' 'Fiorinal' 'Maxalt-MLT' 'Zomig-ZMT' 'Frova'
+ 'Almotriptan' 'Imitrex' 'Dihydroergotamine' 'Cyproheptadine'
+ 'Aspirin / butalbital / caffeine' 'Zomig' 'Treximet' 'Cafergot'
+ 'Frovatriptan' 'Maxalt' 'Migranal' 'Cyclobenzaprine'
+ ""Goody's Extra-Strength Headache Powders"" 'Zolmitriptan' 'Naratriptan'
+ 'Imitrex Nasal' 'Botox' 'Imitrex Statdose' 'Flexeril' 'D.H.E. 45'
+ 'Sumavel DosePro' 'Methergine' 'Orphenadrine' 'Neurontin' 'Excedrin'
+ 'Axert' 'Amrix' 'Caffeine / ergotamine' 'Migergot'
+ 'Acetaminophen / aspirin / caffeine / salicylamide' 'OnabotulinumtoxinA'
+ 'Zecuity']",Migraine,"Headaches , nausea , sensitivity to light , sound , and smell",61,49
+Migraine Prevention,"['Amitriptyline' 'Inderal' 'Riboflavin' 'Topiramate' 'Topamax' 'Pamelor'
+ 'Depakote ER' 'Propranolol' 'Zonisamide' 'Nortriptyline' 'Baclofen'
+ 'Botox' 'Divalproex sodium' 'Lamotrigine' 'OnabotulinumtoxinA'
+ 'Lisinopril' 'Metoprolol' 'Amlodipine' 'Nadolol' 'Clonazepam' 'Bupropion'
+ 'Verapamil' 'Depakote' 'Atenolol' 'Elavil' 'Catapres' 'Norvasc'
+ 'Candesartan' 'Lyrica' 'Inderal LA' 'Pregabalin' 'Vitamin B2'
+ 'Olmesartan' 'Tenormin' 'Zonegran']",Migraine,"Headaches , nausea , sensitivity to light , sound , and smell",61,35
+Mild Cognitive Impairment,['Donepezil'],Mild cognitive impairment,"Can include memory impairments (amnestic) or cognitive problems like impaired decision making, language, or visuospatial skills (non-amnestic)",142,1
+Mitral Valve Prolapse,"['Toprol-XL' 'Atenolol' 'Inderal LA' 'Propranolol' 'Nebivolol' 'Bystolic'
+ 'Metoprolol']",Mitral valve prolapse,"Palpitations , atypical precordial pain, dyspnea on exertion, low BMI , electrocardiogram abnormalities ( ventricular tachycardia ), syncope , low blood pressure , headaches, lightheadedness, other signs suggestive of autonomic nervous system dysfunction ( dysautonomia )",271,7
+Mixed Connective Tissue Disease,['Prednisone'],Undifferentiated connective tissue disease,"dry eyes, dry mouth, haïr lost, joint inflammation, joint pain, mouth ulcers, positive ANA test, raynaud's phenomenon, sun-sensitive rash, ...",142,1
+Mononucleosis,['Acyclovir'],Infectious mononucleosis,"Fever , sore throat, enlarged lymph nodes in the neck, fatigue",62,1
+Motion Sickness,"['Marezine' 'Scopolamine' 'Dimenhydrinate' 'Bonine' 'Transderm-Scop'
+ 'Meclizine' 'Dramamine' 'Phenergan' 'Cyclizine']",Motion sickness,"Nausea , vomiting , cold sweat, increased salivation",52,9
+Mountain Sickness / Altitude Sickness,['Diamox' 'Acetazolamide'],Altitude sickness,"Headache , vomiting , feeling tired , trouble sleeping , dizziness",66,2
+Mucositis,['Chlorhexidine' 'NeutraSal' 'Periogard' 'Saliva substitutes'],Mucositis,Red burn-like sores or ulcers throughout the mouth,50,4
+Multiple Myeloma,['Lenalidomide'],Multiple myeloma,"Bone pain , fatigue : 653",25,1
+Multiple Sclerosis,"['Dalfampridine' 'Avonex Pen' 'Copaxone' 'Glatiramer' 'Tecfidera'
+ 'Teriflunomide' 'Natalizumab' 'Avonex' 'Interferon beta-1a' 'Tysabri'
+ 'Fingolimod' 'Gilenya' 'Interferon beta-1b' 'Dimethyl fumarate'
+ 'Cyclophosphamide' 'Ampyra' 'Betaseron' 'Lemtrada' 'Rebif' 'Aubagio'
+ 'Rebif Rebidose' 'Provigil' 'Modafinil' 'Mycophenolate mofetil'
+ 'Novantrone' 'Plegridy']",Multiple sclerosis,"Variable, including almost any neurological symptom or sign, with autonomic , visual, motor, and sensory problems being the most common.",136,26
+Muscle Pain,"['Aspirin / carisoprodol' 'Medrox' 'Ibuprofen' 'Methyl salicylate'
+ 'Diclofenac' 'Aleve' 'Lidocaine / menthol' 'Naproxen' 'Acetaminophen'
+ 'Acetaminophen / caffeine / magnesium salicylate' 'Voltaren' 'Naprelan'
+ 'Salonpas Pain Patch' 'Capsaicin / menthol / methyl salicylate'
+ 'Aspirin / caffeine / orphenadrine' 'KneeRelief' 'Advil' 'Norgesic']",Piriformis syndrome,Buttock pain that is worse with sitting,39,18
+Muscle Spasm,"['Cyclobenzaprine' 'Orphenadrine' 'Tizanidine' 'Soma' 'Valium'
+ 'Metaxalone' 'Diazepam' 'Carisoprodol' 'Baclofen' 'Chlorzoxazone'
+ 'Methocarbamol' 'Flexeril' 'Skelaxin' 'Lorzone' 'Zanaflex' 'Robaxin'
+ 'Soma Compound' 'Robaxin-750' 'Aspirin / carisoprodol' 'Norflex'
+ 'Diazepam Intensol' 'Lioresal' 'Amrix' 'Parafon Forte DSC'
+ 'Aspirin / caffeine / orphenadrine' 'Soma Compound with Codeine'
+ 'Aspirin / carisoprodol / codeine']",Tetanus,"fever , cramped-up jaw, muscle spasms , headache , seizures , sweating, and trouble swallowing",94,27
+Myasthenia Gravis,"['Pyridostigmine' 'Imuran' 'Mestinon' 'Mycophenolate mofetil'
+ 'Prostigmin Bromide' 'CellCept']",Myasthenia gravis,"Varying degrees muscle weakness , double vision , drooping eyelids , trouble talking, trouble walking",101,6
+"Mycobacterium avium-intracellulare, Treatment",['Zithromax'],,nan,3,1
+Mycoplasma Pneumonia,['Azithromycin' 'Clarithromycin'],Pneumonia,"Cough, shortness of breath , chest pain, fever",46,2
+Myelodysplastic Syndrome,['Azacitidine' 'Vidaza'],Myelodysplastic syndrome,"None, feeling tired , shortness of breath , easy bleeding , frequent infections",79,2
+Myelofibrosis,['Jakafi'],Essential thrombocythemia,"Fatigue , insomnia , migraines , headache , and dizziness .",59,1
+Myeloproliferative Disorders,['Gleevec'],,nan,3,1
+Myotonia Congenita,['Mexiletine'],Myotonia congenita,"Delayed relaxation of muscles, falls, difficulty swallowing",59,1
+NSAID-Induced Gastric Ulce,['Esomeprazole' 'Lansoprazole' 'Nexium'],,nan,3,3
+Narcolepsy,"['Nuvigil' 'Sodium oxybate' 'Methylphenidate' 'Ritalin' 'Adderall XR'
+ 'Provigil' 'Dextrostat' 'Modafinil' 'Armodafinil' 'Xyrem'
+ 'Amphetamine / dextroamphetamine' 'Ephedrine' 'Dexedrine' 'Adderall'
+ 'Methylin' 'Lisdexamfetamine' 'Desvenlafaxine' 'Dextroamphetamine'
+ 'Vyvanse']",Narcolepsy,"Excessive daytime sleepiness , involuntary sleep episodes, sudden loss of muscle strength , hallucinations",106,19
+Nasal Carriage of Staphylococcus aureus,['Bactroban'],Mastitis,"Localized breast pain and redness, fever",40,1
+Nasal Congestion,"['Pseudoephedrine' 'Xylometazoline' 'Claritin-D' 'Oxymetazoline'
+ 'Eyebright' 'Sudafed PE Congestion' 'Afrin'
+ 'Chlorcyclizine / phenylephrine' 'Dexbrompheniramine / pseudoephedrine'
+ 'Phenylephrine' 'Nexafed Nasal Decongestant' 'Privine' 'Naphazoline'
+ 'Vicks Sinex Nasal Spray (old formulation)' 'Drixoral Cold and Allergy'
+ 'Dallergy' 'Drixoral Decongestant Non-Drowsy'
+ 'Loratadine / pseudoephedrine' 'Norel SR' 'Neo-Synephrine Nasal'
+ 'Afrin 4 Hour Extra Moisturizing' 'Nostrilla'
+ ""Children's Dimetapp Decongestant Infant""
+ 'Vicks Sinex 12-Hour Decongestant Nasal Spray']",Rhinitis medicamentosa,Nasal congestion,16,24
+Nasal Polyps,['Fluticasone' 'Veramyst' 'Mometasone'],Nasal polyp,"Trouble breathing through the nose, loss of smell , decreased taste, post nasal drip , runny nose",97,3
+Nausea/Vomiting,"['Promethazine' 'Zofran' 'Ondansetron' 'Phenergan' 'Metoclopramide'
+ 'Phosphorated carbohydrate solution' 'Emetrol' 'Transderm-Scop'
+ 'Prochlorperazine' 'Reglan' 'Compazine' 'Scopolamine' 'Zofran ODT'
+ 'Vistaril' 'Dimenhydrinate' 'Diphenhydramine' 'Lorazepam' 'Haldol'
+ 'Ativan' 'Dramamine' 'Trimethobenzamide' 'Benadryl' 'Ginger' 'Atarax'
+ 'Cyclizine']",Vomiting,Nausea,6,25
+Nausea/Vomiting of Pregnancy,['Diclegis' 'Doxylamine / pyridoxine'],Morning sickness,"Nausea , vomiting",17,2
+"Nausea/Vomiting, Chemotherapy Induced","['Aprepitant' 'Lorazepam' 'Ondansetron' 'Sancuso' 'Dronabinol' 'Emend'
+ 'Marinol' 'Dexamethasone']",Vomiting,Nausea,6,8
+"Nausea/Vomiting, Postoperative",['Ondansetron'],Vomiting,Nausea,6,1
+Neck Pain,['Naproxen'],Neck-tongue syndrome,"Neck pain , occipital neuralgia , numbness or tingling in the tongue.",69,1
+Nephrotic Syndrome,['Prednisone'],Nephrotic syndrome,"Swelling , weight gain, feeling tired, foamy urine",50,1
+Neuralgia,['Lyrica' 'Pregabalin' 'Nortriptyline' 'Methylprednisolone' 'Baclofen'],Trigeminal neuralgia,"Typical : episodes of severe, sudden, shock-like pain in one side of the face that lasts for seconds to minutes Atypical : constant burning pain",144,5
+Neuropathic Pain,['Pregabalin' 'Lyrica' 'Gabapentin' 'Lidocaine'],Peripheral neuropathy,"Shooting pain , numbness , tingling, tremors, bladder problems, unsteadiness",76,4
+Neutropenia,['Neupogen'],Autoimmune neutropenia,"Weak immune system, mouth ulcers, sore throat, lethargy, high fever and chills",78,1
+Neutropenia Associated with Chemotherapy,['Pegfilgrastim' 'Neulasta'],Myelodysplastic syndrome,"None, feeling tired , shortness of breath , easy bleeding , frequent infections",79,2
+New Daily Persistent Headache,['Keppra' 'Sumatriptan'],Migraine,"Headaches , nausea , sensitivity to light , sound , and smell",61,2
+Night Terrors,['Clonazepam' 'Valium'],Night terror,"feelings of panic or dread, sudden motor activity, thrashing, sweating, rapid breathing, increased heart rate",109,2
+Nightmares,['Prazosin'],,nan,3,1
+Nocturnal Leg Cramps,['Carisoprodol' 'Quinine' 'Verapamil'],Cramp,sudden muscle pain and a paralysis-like immobility,50,3
+Non-Hodgkin's Lymphoma,['Rituxan' 'Rituximab'],Non-Hodgkin lymphoma,"Enlarged lymph nodes , fever , night sweats , weight loss , tiredness , itching",79,2
+Non-Small Cell Lung Cance,"['Gefitinib' 'Tarceva' 'Nivolumab' 'Erlotinib' 'Paclitaxel' 'Xalkori'
+ 'Crizotinib' 'Iressa' 'Pemetrexed' 'Opdivo' 'Ceritinib']",Acute lymphoblastic leukemia,"Feeling tired, pale color, fever, easy bleeding or bruising, bone pain, enlarged lymph nodes",92,11
+Noninfectious Colitis,['Dicyclomine'],Gastroenteritis,"Diarrhea , vomiting , abdominal pain, fever",43,1
+Nonoccupational Exposure,['Sustiva'],HIV/AIDS,"Early : Flu-like illness Later : Large lymph nodes , fever, weight loss",71,1
+Obesity,"['Phentermine' 'Phentermine / topiramate' 'Orlistat' 'Contrave' 'Qsymia'
+ 'Bupropion / naltrexone' 'Lorcaserin' 'Liraglutide' 'Belviq' 'Saxenda'
+ 'Adipex-P' 'Phendimetrazine' 'Topamax' 'Meridia' 'Tenuate Dospan'
+ 'Tenuate' 'Alli' 'Xenical' 'Topiramate' 'Phendiet' 'Diethylpropion'
+ 'Lomaira' 'Bontril Slow Release' 'Victoza' 'Wellbutrin SR' 'Pristiq'
+ 'Desoxyn' 'Benzphetamine' 'Chorionic gonadotropin (hcg)' 'Adipost'
+ 'Methamphetamine' 'Bupropion' 'Didrex' 'Wellbutrin XL' 'Zantryl' 'Fastin']",Obesity,Increased fat,13,36
+Obsessive Compulsive Disorde,"['Zoloft' 'Sertraline' 'Quetiapine' 'Fluvoxamine' 'Prozac' 'Abilify'
+ 'Mirtazapine' 'Anafranil' 'Fluoxetine' 'Luvox' 'Clomipramine'
+ 'Aripiprazole' 'Escitalopram' 'Lexapro' 'Venlafaxine' 'Citalopram'
+ 'Effexor XR' 'Olanzapine' 'Paroxetine' 'Effexor' 'Paxil' 'Seroquel'
+ 'Seroquel XR']",,nan,3,23
+Obstructive Sleep Apnea/Hypopnea Syndrome,['Armodafinil' 'Modafinil' 'Nuvigil' 'Provigil'],Sleep apnea,"Pauses breathing or periods of shallow breathing during sleep , snoring , tired during the day",94,4
+Occipital Neuralgia,['Gabapentin' 'Pregabalin'],Cluster headache,"Recurrent, severe headaches on one side of the head, eye watering, stuffy nose",78,2
+Oligospermia,['Clomiphene' 'Clomid'],,nan,3,2
+"Onychomycosis, Fingernail",['Ciclopirox' 'Fluconazole' 'Terbinafine' 'Lamisil'],Onychomycosis,"White or yellow nail discoloration, thickening of the nail",58,4
+"Onychomycosis, Toenail","['Terbinafine' 'Fluconazole' 'Efinaconazole' 'Lamisil' 'Jublia'
+ 'Ciclopirox' 'Tavaborole' 'Itraconazole' 'Ketoconazole' 'Kerydin']",Onychomycosis,"White or yellow nail discoloration, thickening of the nail",58,10
+Oophorectomy,['Estradiol Patch' 'Premarin'],,nan,3,2
+Ophthalmic Surgery,['Gatifloxacin' 'Vigamox'],Astigmatism,"Distorted or blurred vision at all distances, eyestrain , headaches",67,2
+Opiate Adjunct,['Promethazine' 'Phenergan'],Opioid use disorder,"Strong desire to use opioids, increased tolerance to opioids, failure to meet obligations, trouble with reducing use, withdrawal syndrome with discontinuation",158,2
+Opiate Dependence,"['Buprenorphine / naloxone' 'Suboxone' 'Vivitrol' 'Naltrexone'
+ 'Buprenorphine' 'Zubsolv' 'Subutex' 'Bunavail' 'Revia']",Opioid use disorder,"Strong desire to use opioids, increased tolerance to opioids, failure to meet obligations, trouble with reducing use, withdrawal syndrome with discontinuation",158,9
+Opiate Withdrawal,"['Methadone' 'Catapres' 'Robaxin-750' 'Clonidine' 'Methocarbamol'
+ 'Methadose' 'Methadone Diskets' 'Chlordiazepoxide']",Opioid use disorder,"Strong desire to use opioids, increased tolerance to opioids, failure to meet obligations, trouble with reducing use, withdrawal syndrome with discontinuation",158,8
+Opioid Overdose,['Narcan Injection' 'Naloxone'],Opioid overdose,"Respiratory depression , small pupils , unconsciousness",55,2
+Opioid-Induced Constipation,['Naloxegol' 'Movantik' 'Methylnaltrexone'],Constipation,"Infrequent or hard to pass bowel movements , abdominal pain, bloating",69,3
+Oppositional Defiant Disorde,['Lisdexamfetamine'],,nan,3,1
+Oral Thrush,['Fluconazole' 'Nystatin'],Candidiasis,"White patches or vaginal discharge, itching",43,2
+"Organ Transplant, Rejection Prophylaxis",['Tacrolimus' 'Prograf' 'CellCept' 'Mycophenolate mofetil'],,nan,3,4
+"Organ Transplant, Rejection Reversal",['Tacrolimus'],Type 1 diabetes,"Frequent urination , increased thirst , increased hunger , weight loss , blurred vision , fatigue and weakness , Bed-wetting in children who previously didn't wet the bed during the night",187,1
+Osteoarthritis,"['Acetaminophen / codeine' 'Sodium hyaluronate' 'Duloxetine' 'Etodolac'
+ 'Celebrex' 'Limbrel' 'Lodine' 'Synvisc' 'Synvisc-One' 'Euflexxa'
+ 'Meloxicam' 'Orthovisc' 'Hylan g-f 20' 'Diclofenac' 'Celecoxib'
+ 'Voltaren' 'Hyaluronan' 'Voltaren Gel' 'Naproxen' 'Arthrotec' 'Mobic'
+ 'Salonpas Pain Patch' 'Supartz' 'Aspirin' 'Famotidine / ibuprofen'
+ 'Diclofenac / misoprostol' 'Kenalog-40' 'S-adenosylmethionine' 'Pennsaid'
+ 'Tylenol with Codeine #4' 'Disalcid' 'Relafen'
+ 'Chondroitin / glucosamine / methylsulfonylmethane' 'Ketoprofen'
+ 'Prednisone' 'Piroxicam' 'Vimovo' 'Capsaicin'
+ 'Bioflavonoids / zinc glycinate' 'Naprelan' 'Zostrix'
+ 'Methylprednisolone' 'Oxaprozin' 'Triamcinolone' 'Nabumetone'
+ 'Esomeprazole / naproxen' 'Cymbalta' 'Zorvolex' 'Duexis'
+ 'Chondroitin / glucosamine' 'Motrin' 'Acetaminophen / aspirin / caffeine'
+ 'Bextra' 'Indocin']",Osteoarthritis,"Joint pain , stiffness, joint swelling , decreased range of motion",66,54
+Osteolytic Bone Lesions of Multiple Myeloma,['Zoledronic acid' 'Zometa'],Multiple myeloma,"Bone pain , fatigue : 653",25,2
+Osteolytic Bone Metastases of Solid Tumors,['Zometa' 'Zoledronic acid'],,nan,3,2
+Osteoporosis,"['Teriparatide' 'Denosumab' 'Prolia' 'Premarin' 'Risedronate'
+ 'Zoledronic acid' 'Boniva' 'Forteo' 'Actonel' 'Ibandronate' 'Calci-Chew'
+ 'Miacalcin Nasal' 'Atelvia' 'Caltrate 600+D' 'Reclast']",Osteoporosis,Increased risk of a broken bone,31,15
+Otitis Externa,['Ciprofloxacin / dexamethasone' 'Vosol HC' 'Acetic acid / hydrocortisone'],Otitis externa,"Ear pain , swelling of the ear canal, decreased hearing , difficulty chewing",76,3
+Otitis Media,"['Antipyrine / benzocaine' 'Cefdinir' 'Azithromycin'
+ 'Amoxicillin / clavulanate' 'Augmentin' 'Levaquin'
+ 'Ciprofloxacin / dexamethasone' 'Clarithromycin' 'Ciprodex' 'A / B Otic'
+ 'Zithromax' 'Levofloxacin' 'Omnicef' 'Amoxicillin' 'Cephalexin']",Otitis media,"Ear pain, fever, hearing loss",29,15
+Ovarian Cysts,"['Ethinyl estradiol / levonorgestrel' 'Seasonique' 'Ortho Tri-Cyclen Lo'
+ 'Mononessa' 'Sprintec' 'Previfem' 'Ethinyl estradiol / norgestimate'
+ 'Tri-Sprintec' 'Orsythia' 'Quasense']",Ovarian cyst,"None, bloating, lower abdominal pain, lower back pain",53,10
+Overactive Bladde,"['Mirabegron' 'Myrbetriq' 'OnabotulinumtoxinA' 'Tolterodine' 'Oxytrol'
+ 'VESIcare' 'Botox' 'Toviaz' 'Detrol' 'Sanctura' 'Enablex' 'Solifenacin'
+ 'Detrol LA' 'Fesoterodine' 'Flomax' 'Oxybutynin' 'Flavoxate' 'Trospium'
+ 'Gelnique' 'B & O Supprettes' 'Belladonna / opium' 'Tamsulosin']",,nan,3,22
+Ovulation Induction,['Clomiphene' 'Chorionic gonadotropin (hcg)' 'Clomid'],Polycystic ovary syndrome,"Irregular menstrual periods , heavy periods , excess hair , acne , pelvic pain, difficulty getting pregnant , patches of thick, darker, velvety skin",148,3
+Paget's Disease,['Risedronate' 'Zoledronic acid'],Extramammary Paget's disease,"Rash, Itchiness, Eczematous lesions, Pain",41,2
+Pain,"['Duloxetine' 'Ultram' 'Acetaminophen / hydrocodone' 'Oxycodone' 'Demerol'
+ 'Nalbuphine' 'Gabapentin' 'Tramadol' 'Buprenex' 'Fentanyl' 'Percocet'
+ 'OxyContin' 'Flector Patch' 'Avinza' 'Oxymorphone' 'Toradol' 'Ketorolac'
+ 'Norco' 'Opana' 'Meperidine' 'Hysingla ER' 'Amitriptyline'
+ 'Acetaminophen / oxycodone' 'Fentanyl Transdermal System' 'Zipsor'
+ 'Vicodin' 'Methadone' 'Nucynta ER' 'Zohydro ER' 'Tapentadol'
+ 'Nortriptyline' 'Dilaudid' 'Motrin IB' 'Hydromorphone'
+ 'Tylenol with Codeine #3' 'Talwin Nx' 'Hydroxyzine' 'Butrans'
+ 'Diclofenac' 'Imipramine' 'Panlor DC' 'Endocet' 'Roxicodone' 'Etodolac'
+ 'Opana ER' 'Advil' 'Lortab' 'Fiorinal' 'Indomethacin' 'Nubain'
+ 'Buprenorphine' 'Methadose' 'Ultram ER' 'Nucynta' 'Pregabalin' 'Elavil'
+ 'Toradol IV / IM' 'Lyrica' 'Acetaminophen / codeine' 'Lidocaine'
+ 'Acetaminophen / caffeine / dihydrocodeine' 'Naproxen' 'Neurontin'
+ 'Celecoxib' 'Naprosyn' 'Hydrocodone / ibuprofen' 'Morphine' 'Stadol'
+ 'Lidoderm' 'Balacet' 'Voltaren Gel' 'Indocin SR'
+ 'Acetaminophen / tramadol' 'Cymbalta' 'Kadian' 'Tylox' 'Ibuprofen'
+ 'Motrin Infant Drops' 'Xylocaine Jelly' 'Embeda' 'Propoxyphene'
+ 'Morphine / naltrexone' 'Dolophine' 'Camphor / menthol' 'Myophen'
+ 'Naloxone / pentazocine' 'Advil Liqui-Gels' 'Panlor SS' 'Ketoprofen'
+ 'Celebrex' 'Hydrocodone' 'Butorphanol' 'Acetaminophen' 'Ultracet'
+ 'Indocin' 'Feldene' 'MS Contin' 'Roxicet' 'Codeine'
+ 'Acetaminophen / propoxyphene' 'Magnesium salicylate' 'Vicoprofen'
+ 'Ryzolt' 'Darvon' 'Naprelan' 'Bextra' 'Tylenol PM' 'Cataflam' 'Exparel'
+ 'Acetaminophen / phenyltoloxamine' 'Ketamine' 'Orudis KT' 'Belbuca'
+ 'Anacin' 'Voltaren' 'Acetaminophen / aspirin / caffeine / salicylamide'
+ 'Duragesic' 'Fentora' 'Levorphanol' 'Bupivacaine liposome'
+ 'Choline salicylate / magnesium salicylate' 'Orudis'
+ 'Acetaminophen / aspirin' 'Lidocaine Viscous' 'Tylenol'
+ 'Aspirin / oxycodone' 'Sprix' 'Vicodin ES' 'Methadone Diskets' 'Trezix'
+ 'Reprexain' 'Acetaminophen / diphenhydramine' 'Magnacet' 'Exalgo' 'Actiq'
+ 'Ponstel' 'Capsaicin' 'Levacet' 'Vistaril' 'Diphenhydramine / naproxen'
+ 'Tylenol 8 Hour' 'Pamelor' 'Levo-Dromoran' 'Pentazocine' 'Vicodin HP'
+ 'ConZip' ""Children's Motrin"" 'Motrin' 'Dilaudid-HP' 'Sublimaze' 'Oxydose'
+ 'Sulindac' 'Zorvolex' 'Trilisate' 'Pramoxine' 'Tylenol with Codeine #4'
+ 'Aspirin / caffeine']",Pain,Unpleasant sensory and emotional sensations,43,157
+Pain/Feve,['Acetaminophen / aspirin / caffeine'],,nan,3,1
+Pancreatic Cance,['Sunitinib'],Type 1 diabetes,"Frequent urination , increased thirst , increased hunger , weight loss , blurred vision , fatigue and weakness , Bed-wetting in children who previously didn't wet the bed during the night",187,1
+Pancreatic Exocrine Dysfunction,['Zenpep' 'Pancrelipase'],Pancreatitis,Pain in the upper abdomen nausea vomiting fever fatty stool,59,2
+Panic Disorde,"['Clonazepam' 'BuSpar' 'Klonopin' 'Paroxetine' 'Sertraline' 'Pristiq'
+ 'Buspirone' 'Xanax' 'Desvenlafaxine' 'Alprazolam' 'Zoloft' 'Effexor XR'
+ 'Ativan' 'Venlafaxine' 'Lorazepam' 'Lorazepam Intensol' 'Celexa'
+ 'Fluoxetine' 'Propranolol' 'Bupropion' 'Xanax XR' 'Klonopin Wafer'
+ 'Paxil' 'Paxil CR' 'Pamelor' 'Citalopram' 'Nortriptyline' 'Prozac'
+ 'Clomipramine' 'Alprazolam Intensol' 'Wellbutrin' 'Nefazodone']",,nan,3,32
+Paranoid Disorde,"['Risperidone' 'Olanzapine' 'Zyprexa Zydis' 'Clozapine' 'Zyprexa'
+ 'Ziprasidone']",,nan,3,6
+Parkinson's Disease,"['Stalevo' 'Neupro' 'Rotigotine' 'Carbidopa / levodopa' 'Amantadine'
+ 'Azilect' 'Bromocriptine' 'Exelon' 'Apomorphine' 'Entacapone' 'Zelapar'
+ 'Rytary' 'Carbidopa / entacapone / levodopa' 'Pramipexole' 'Sinemet'
+ 'Ropinirole' 'Requip XL' 'Apokyn' 'Eldepryl']",Parkinson's disease,"Rigidity , slowness of movement , tremor , difficulty walking",61,19
+Parkinsonism,['Kemadrin'],Parkinson's disease,"Rigidity , slowness of movement , tremor , difficulty walking",61,1
+Pe,['Propranolol'],,nan,3,1
+Pediatric Growth Hormone Deficiency,['Somatropin' 'Tev-Tropin'],Growth hormone deficiency,Short height,12,2
+Pelvic Inflammatory Disease,['Metronidazole' 'Doxycycline'],Pelvic inflammatory disease,"Lower abdominal pain, vaginal discharge , fever , burning with urination , pain with sex , irregular menstruation",113,2
+Pemphigoid,['Dapsone'],Gestational pemphigoid,"Blisters , itch , hives",23,1
+Pemphigus,['Rituximab'],Hailey–Hailey disease,"Rashes and blisters on the skin, could be painful to the touch with a possibility of acantholysis, erythema and hyperkeratosis.",127,1
+Peptic Ulce,['Chlordiazepoxide / clidinium' 'Pantoprazole' 'Famotidine'],,nan,3,3
+Percutaneous Coronary Intervention,['Eptifibatide' 'Clopidogrel' 'Angiomax'],Coronary artery disease,"Chest pain , shortness of breath",32,3
+Performance Anxiety,['Inderal'],,nan,3,1
+Perimenopausal Symptoms,['Clonidine' 'Progesterone'],Menopause,No menstrual periods for a year,31,2
+Period Pain,"['Naproxen' 'Ponstel' 'Naprelan' 'Ibuprofen' 'Diclofenac' 'Ansaid'
+ 'Cataflam' 'Mefenamic acid' 'Aleve']",Dysmenorrhea,"Pain during first few days of menstruation , diarrhea, nausea",61,9
+Periodic Limb Movement Disorde,['Neurontin' 'Clonazepam' 'Klonopin' 'Ropinirole' 'Mirapex' 'Gabapentin'],,nan,3,6
+Periodontitis,['Chlorhexidine' 'Peridex'],Periodontal disease,"Red, swollen, painful, bleeding gums, loose teeth, bad breath",61,2
+Perioral Dermatitis,['Pimecrolimus' 'Protopic'],Perioral dermatitis,"Papules , pustules , red skin",29,2
+Peripheral Neuropathy,"['Gabapentin' 'Pregabalin' 'Duloxetine' 'Lyrica' 'Gabarone' 'Neurontin'
+ 'Levocarnitine' 'Cymbalta']",Peripheral neuropathy,"Shooting pain , numbness , tingling, tremors, bladder problems, unsteadiness",76,8
+Peritonitis,['Vancomycin' 'Clindamycin'],Peritonitis,"Severe pain, swelling of the abdomen, fever",43,2
+Persistent Depressive Disorde,['Sertraline' 'Bupropion'],,nan,3,2
+Pertussis,['Clarithromycin'],Whooping cough,"Runny nose, fever, cough",24,1
+Pertussis Prophylaxis,['Clarithromycin'],Tetanus,"fever , cramped-up jaw, muscle spasms , headache , seizures , sweating, and trouble swallowing",94,1
+Pharyngitis,['Prednisone'],Pharyngitis,"Sore throat , fever , runny nose, cough , headache, hoarse voice",64,1
+Photoaging of the Skin,['Tretinoin' 'Retin-A'],,nan,3,2
+Pityriasis rubra pilaris,['Triamcinolone'],Pityriasis rosea,"Single red and slightly scaly area, followed",44,1
+Plaque Psoriasis,"['Ixekizumab' 'Cosentyx' 'Humira' 'Taltz' 'Otezla' 'Apremilast'
+ 'Taclonex Scalp' 'Adalimumab' 'Etanercept' 'Siliq' 'Enbrel' 'Secukinumab'
+ 'Brodalumab' 'Betamethasone / calcipotriene' 'Betamethasone' 'Taclonex']",Psoriasis,"Red (purple on darker skin), itchy, scaly patches of skin",57,16
+Platelet Aggregation Inhibition,['Clopidogrel'],,nan,3,1
+Pneumococcal Disease Prophylaxis,['Pneumococcal 13-valent vaccine' 'Prevnar 13'],Sickle cell disease,"Attacks of pain, anemia , swelling in the hands and feet , bacterial infections , stroke",88,2
+Pneumonia,"['Clarithromycin' 'Moxifloxacin' 'Avelox' 'Biaxin XL' 'Levofloxacin'
+ 'Cefuroxime' 'Azithromycin' 'Doxycycline' 'Rocephin' 'Biaxin'
+ 'Ceftriaxone' 'Levaquin' 'Ciprofloxacin' 'Piperacillin / tazobactam'
+ 'Amoxicillin / clavulanate' 'Cefprozil' 'Amoxil' 'Metronidazole' 'Vantin'
+ 'Flagyl']",Pneumonia,"Cough, shortness of breath , chest pain, fever",46,20
+Polycystic Ovary Syndrome,"['Drospirenone / ethinyl estradiol' 'Necon 1 / 35' 'Metformin'
+ 'Junel Fe 1 / 20' 'Desogestrel / ethinyl estradiol'
+ 'Ethinyl estradiol / levonorgestrel' 'Loestrin 24 Fe' 'Apri' 'Kariva'
+ 'Falmina' 'Drospirenone / ethinyl estradiol / levomefolate calcium'
+ 'Ortho-Novum 1 / 35' 'Ethinyl estradiol / norethindrone'
+ 'Microgestin Fe 1 / 20' 'Glucophage' 'Yaz']",Polycystic ovary syndrome,"Irregular menstrual periods , heavy periods , excess hair , acne , pelvic pain, difficulty getting pregnant , patches of thick, darker, velvety skin",148,16
+Post Traumatic Stress Disorde,"['Prazosin' 'Minipress' 'Zoloft' 'Sertraline' 'Venlafaxine' 'Paroxetine'
+ 'Saphris' 'Quetiapine' 'Aripiprazole' 'Amitriptyline' 'Asenapine'
+ 'Elavil' 'Risperidone' 'Lamotrigine' 'Abilify' 'Dronabinol' 'Paxil'
+ 'Mirtazapine' 'Fluvoxamine' 'Desvenlafaxine' 'Pristiq' 'Seroquel']",,nan,3,22
+Post-Cholecystectomy Diarrhea,['Cholestyramine'],Gallstone,"None, crampy pain in the right upper abdomen",44,1
+Postherpetic Neuralgia,"['Gabapentin enacarbil' 'Pregabalin' 'Gabapentin' 'Horizant' 'Capsaicin'
+ 'Lidocaine' 'Lyrica' 'Gralise' 'Neurontin']",Postherpetic neuralgia,"burning or stabbing pain, pain doesn't end after the shingles subsides.",71,9
+Postmenopausal Symptoms,"['Drospirenone / estradiol' 'Estradiol' 'Estropipate' 'Estradiol Patch'
+ 'Cenestin' 'Minivelle' 'Ethinyl estradiol / norethindrone' 'Angeliq'
+ 'Premphase' 'femhrt' 'Conjugated estrogens / medroxyprogesterone'
+ 'Climara' 'Vivelle-Dot' 'Activella' 'Estradiol / norethindrone' 'Evamist'
+ 'Premarin' 'Conjugated estrogens' 'Desvenlafaxine' 'Elestrin'
+ 'Bazedoxifene / conjugated estrogens' 'Evening Primrose Oil' 'Prempro'
+ 'Femring' 'Esterified estrogens / methyltestosterone' 'Estrace' 'Enjuvia'
+ 'Esterified estrogens' 'Pristiq' 'Divigel' 'Estradiol / levonorgestrel']",Menopause,No menstrual periods for a year,31,31
+Postoperative Increased Intraocular Pressure,['Ilevro'],Glaucoma,".mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:"": ""}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:"" · "";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:"" ("";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:"")"";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:"" ""counter(listitem)""\a0 ""}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:"" (""counter(listitem)""\a0 ""} Vision loss eye pain mid-dilated pupil redness of the eye nausea",2402,1
+Postoperative Ocular Inflammation,['Ketorolac' 'Alrex' 'Diclofenac' 'Prolensa' 'Acuvail' 'Difluprednate'],Glaucoma,".mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:"": ""}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:"" · "";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:"" ("";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:"")"";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:"" ""counter(listitem)""\a0 ""}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:"" (""counter(listitem)""\a0 ""} Vision loss eye pain mid-dilated pupil redness of the eye nausea",2402,6
+Postoperative Pain,['Toradol' 'Ketorolac' 'Bupivacaine'],Pain,Unpleasant sensory and emotional sensations,43,3
+Postpartum Depression,"['Venlafaxine' 'Zoloft' 'Paroxetine' 'Effexor XR' 'Sertraline'
+ 'Citalopram' 'Paxil']",Postpartum depression,"Extreme sadness, low energy , anxiety , changes in sleeping or eating patterns, crying episodes, irritability",109,7
+Postural Orthostatic Tachycardia Syndrome,['Fludrocortisone' 'Midodrine' 'Florinef'],Postural orthostatic tachycardia syndrome,"More often with standing: lightheadedness , trouble thinking , tachycardia , weakness, palpitations , heat intolerance , acrocyanosis",133,3
+Pre-Exposure Prophylaxis,['Emtricitabine / tenofovir'],,nan,3,1
+Precocious Puberty,['Histrelin' 'Lupron Depot-PED'],,nan,3,2
+Premature Ejaculation,['Clomipramine'],,nan,3,1
+Premature Lab,['Progesterone' 'Hydroxyprogesterone' 'Terbutaline' 'Makena'],,nan,3,4
+Premature Ventricular Depolarizations,['Metoprolol'],Arrhythmia,"Palpitations , dizziness or lightheadedness , passing out , shortness of breath , chest pain , decreased level of consciousness",127,1
+Premenstrual Dysphoric Disorde,"['Zoloft' 'Drospirenone / ethinyl estradiol / levomefolate calcium'
+ 'Fluoxetine' 'Yaz' 'Prozac' 'Drospirenone / ethinyl estradiol'
+ 'Citalopram' 'Sertraline' 'Yasmin' 'Paroxetine' 'Gianvi' 'Sarafem'
+ 'Escitalopram' 'Celexa' 'Beyaz' 'Bupropion']",,nan,3,16
+Premenstrual Syndrome,"['Ethinyl estradiol / levonorgestrel' 'Premsyn PMS' 'Pamabrom'
+ 'LoSeasonique']",Premenstrual syndrome,"Fatigue , irritability and other mood changes, tender breasts , abdominal bloating",82,4
+Prevention of Bladder infection,['Macrodantin' 'Methenamine' 'Nitrofurantoin' 'Bactrim' 'Macrobid'],Urinary tract infection,"Pain with urination , frequent urination, feeling the need to urinate despite having an empty bladder",101,5
+Prevention of Cardiovascular Disease,['Atorvastatin' 'Crestor'],Cardiovascular disease,"Chest pain , shortness of breath , fatigue , loss of consciousness",66,2
+Prevention of Dental Caries,['Fluoride'],Tooth decay,"Pain, tooth loss, difficulty eating",35,1
+Prevention of Hypokalemia,['Klor-Con'],Cardiac arrest,"Decreased level or total loss of consciousness , abnormal or no breathing , no pulse",84,1
+Prevention of Osteoporosis,['Zoledronic acid' 'Reclast'],Osteoporosis,Increased risk of a broken bone,31,2
+Prevention of Thromboembolism in Atrial Fibrillation,"['Pradaxa' 'Eliquis' 'Rivaroxaban' 'Dabigatran' 'Apixaban' 'Warfarin'
+ 'Coumadin']",Atrial fibrillation,"None, heart palpitations , fainting , shortness of breath , chest pain",70,7
+Primary Hyperaldosteronism,['Spironolactone'],Primary aldosteronism,"High blood pressure , poor vision, headaches , muscular weakness, muscle spasms",79,1
+Primary Immunodeficiency Syndrome,"['Immune globulin intravenous and subcutaneous' 'Hizentra'
+ 'Immune globulin subcutaneous' 'Gamunex-C' 'Immune globulin intravenous']",HIV/AIDS,"Early : Flu-like illness Later : Large lymph nodes , fever, weight loss",71,5
+Primary Nocturnal Enuresis,['Desmopressin' 'DDAVP'],Primary polydipsia,"Xerostomia , polydipsia , fluid-seeking behavior",48,2
+Primary Ovarian Failure,['Estradiol' 'Vivelle-Dot' 'Premarin'],Fragile X-associated primary ovarian insufficiency,Elevated follicle stimulating hormone (FSH) and loss of menstrual cycles before age 40,86,3
+Progesterone Insufficiency,['Progesterone'],,nan,3,1
+Prostate Cance,"['Leuprolide' 'Eligard' 'Radium 223 dichloride' 'Zytiga' 'Casodex'
+ 'Abiraterone' 'Provenge' 'Bicalutamide' 'Lupron' 'Degarelix'
+ 'Lupron Depot' 'Triptorelin' 'Zoladex']",,nan,3,13
+Prostatitis,"['Ciprofloxacin' 'Sulfamethoxazole / trimethoprim' 'Levofloxacin' 'Cipro'
+ 'Doxycycline' 'Bactrim DS' 'Levaquin' 'Oxybutynin']",,nan,3,8
+Pruritus,"['Pramoxine' 'Atarax' 'Crotamiton' 'Hydroxyzine' 'Benzocaine' 'Gabapentin'
+ 'Hydrocortisone' 'Cortizone-10' 'Calamine']",Itch,Compulsion to scratch an irritated area of skin,47,9
+Pseudobulbar Affect,['Dextromethorphan / quinidine' 'Nuedexta'],Pseudobulbar affect,"Episodes of uncontrollable laughing, crying, or other emotional displays that may not match the patient's mental state",118,2
+Pseudotumor Cerebri,['Acetazolamide' 'Diamox Sequels' 'Diamox'],Idiopathic intracranial hypertension,"Headache , vision problems, ringing in the ears with the heartbeat",66,3
+Psoriasis,"['Elocon' 'Methotrexate' 'Ustekinumab' 'Ammonium lactate / halobetasol'
+ 'Halobetasol' 'Clobetasol' 'Stelara' 'Humira' 'Enbrel' 'Adalimumab'
+ 'Dovonex' 'Lidex' 'Taclonex' 'Fluocinonide'
+ 'Betamethasone / calcipotriene' 'Vectical' 'Calcipotriene' 'Calcitriol'
+ 'Clobex' 'Pramosone' 'Temovate' 'Desonide' 'Flurandrenolide' 'Etanercept'
+ 'Hydrocortisone / pramoxine' 'Psoriasin' 'Triamcinolone' 'Taclonex Scalp'
+ 'MG217 Medicated Tar' 'Cyclosporine' 'Mometasone' 'Topicort' 'Olux'
+ 'Acitretin' 'Kenalog']",Psoriasis,"Red (purple on darker skin), itchy, scaly patches of skin",57,35
+Psoriatic Arthritis,"['Humira' 'Enbrel' 'Apremilast' 'Adalimumab' 'Ustekinumab' 'Sulfasalazine'
+ 'Infliximab' 'Simponi' 'Otezla' 'Etanercept' 'Methotrexate' 'Cimzia'
+ 'Remicade' 'Golimumab' 'Leflunomide' 'Stelara']",Arthritis,"Joint pain , stiffness, redness, swelling , decreased range of motion",69,16
+Psychosis,"['Haldol' 'Thiothixene' 'Prolixin' 'Trilafon' 'Chlorpromazine'
+ 'Perphenazine' 'Haloperidol' 'Fluphenazine' 'Iloperidone'
+ 'Prochlorperazine']",Psychosis,"False beliefs , seeing or hearing things that others do not see or hear , incoherent speech and behavior",104,10
+Pudendal Neuralgia,['Amitriptyline'],Nerve compression syndrome,"pain, tingling, dull ache, numbness, shooting pain, muscle weakness",67,1
+Pulmonary Edema,['Furosemide'],Pulmonary edema,"Progressive dyspnea, cough, fever, cyanosis, tachycardia",56,1
+Pulmonary Embolism,['Xarelto' 'Apixaban' 'Rivaroxaban' 'Eliquis' 'Arixtra'],Pulmonary embolism,"Shortness of breath , chest pain , coughing up blood",52,5
+"Pulmonary Embolism, First Event",['Warfarin'],Pulmonary embolism,"Shortness of breath , chest pain , coughing up blood",52,1
+Pulmonary Hypertension,"['Uptravi' 'Treprostinil' 'Opsumit' 'Epoprostenol' 'Letairis' 'Macitentan'
+ 'Adcirca' 'Flolan' 'Sildenafil' 'Ambrisentan' 'Tadalafil' 'Revatio'
+ 'Selexipag' 'Tyvaso']",Pulmonary hypertension,"Chest pain, fatigue",19,14
+Rat-bite Feve,['Penicillin v potassium'],,nan,3,1
+Raynaud's Syndrome,"['Nitroglycerin' 'Nifedipine' 'DynaCirc CR' 'Felodipine'
+ 'Trolamine salicylate']",Raynaud syndrome,"An affected part turning white , then blue , then red, burning",62,5
+Reflex Sympathetic Dystrophy Syndrome,"['Lyrica' 'Trazodone' 'Amitriptyline' 'Pregabalin' 'Gabapentin'
+ 'Neurontin' 'Savella']",Complex regional pain syndrome,"Pain , allodynia , hypo - or hyperesthesia , skin temperature abnormalities, atrophy , stiffness",96,7
+Renal Cell Carcinoma,"['Sutent' 'Aldesleukin' 'Nivolumab' 'Pazopanib' 'Sunitinib' 'Votrient'
+ 'Nexavar' 'Provera']",Kidney cancer,"Blood in the urine , lump in the abdomen , back pain",52,8
+Renal Tubular Acidosis,['Potassium citrate'],,nan,3,1
+Restless Legs Syndrome,"['Ropinirole' 'Sinemet' 'Clonazepam' 'Carbidopa / levodopa' 'Horizant'
+ 'Pramipexole' 'Tramadol' 'Mirapex' 'Gabapentin' 'Pregabalin' 'Requip'
+ 'Klonopin' 'Ultram' 'Gabapentin enacarbil' 'Neupro' 'Rotigotine'
+ 'Neurontin' 'Lyrica']",Restless legs syndrome,Unpleasant feeling in the legs that briefly improves with moving them,69,18
+Reversal of Opioid Sedation,['Naloxone' 'Evzio'],,nan,3,2
+Rheumatoid Arthritis,"['Tofacitinib' 'Prednisone' 'Humira' 'Etanercept' 'Hydroxychloroquine'
+ 'Methotrexate' 'Adalimumab' 'Simponi Aria' 'Actemra' 'Simponi' 'Remicade'
+ 'Gold sodium thiomalate' 'Meloxicam' 'Enbrel' 'Vicodin' 'Motrin'
+ 'Orencia' 'Diclofenac' 'Golimumab' 'Acetaminophen / hydrocodone'
+ 'Xeljanz' 'Naprosyn' 'Plaquenil' 'Methylprednisolone' 'Kenalog-40'
+ 'Voltaren' 'Naproxen' 'Abatacept' 'Rituximab' 'Celebrex' 'Leflunomide'
+ 'Diclofenac / misoprostol' 'Tramadol' 'Fenoprofen' 'Relafen'
+ 'Esomeprazole / naproxen' 'Cimzia' 'Celecoxib' 'Sulfazine' 'Arthrotec'
+ 'Tolectin DS' 'Vimovo' 'Indomethacin' 'Triamcinolone' 'Rituxan'
+ 'Mycophenolate mofetil' 'Infliximab' 'Arava' 'Sulfasalazine' 'Dolobid'
+ 'Duexis' 'Aristospan' 'Daypro' 'Piroxicam' 'Mobic' 'Tocilizumab'
+ 'Advil Liqui-Gels' 'Feldene' 'Sulindac' 'Lortab']",Rheumatoid arthritis,"Warm, swollen, painful joints",29,60
+Rhinitis,['Flonase' 'Veramyst' 'Allerx Dose Pack DF' 'Fluticasone' 'Allergy DN PE'],Allergic rhinitis,"Stuffy itchy nose, sneezing , red, itchy, and watery eyes, swelling around the eyes, itchy ears",95,5
+Rhinorrhea,['Ipratropium' 'Atrovent Nasal'],Cerebrospinal fluid rhinorrhoea,"clear, colourless liquid draining from nose",43,2
+Rosacea,"['Ivermectin' 'Metronidazole' 'Rosula' 'Minocycline' 'MetroCream'
+ 'Soolantra' 'Finacea' 'Azelaic acid' 'Doxycycline' 'Oracea'
+ 'Sulfacetamide sodium / sulfur' 'Brimonidine' 'MetroGel' 'Noritate'
+ 'Prascion RA' 'Doryx' 'Isotretinoin' 'Azelex' 'Mirvaso' 'Oxymetazoline'
+ 'Rosac' 'Rozex']",Rosacea,"Facial redness , swelling , and small and superficial dilated blood vessels",75,22
+Salmonella Gastroenteritis,['Ciprofloxacin'],Gastroenteritis,"Diarrhea , vomiting , abdominal pain, fever",43,1
+Sarcoidosis,['Prednisone' 'Corticotropin' 'Kenalog-40'],Sarcoidosis,"Depends on the organ involved Lungs : wheezing , cough, shortness of breath , chest pain Skin : lumps, ulcers, discolored skin Children : weight loss, bone pain, feeling tired",175,3
+Scabies,['Permethrin'],Scabies,"itchiness , pimple -like rash",29,1
+Schilling Test,['Vitamin B12'],,nan,3,1
+Schizoaffective Disorde,"['Seroquel' 'Abilify' 'Risperdal' 'Carbamazepine' 'Asenapine'
+ 'Paliperidone' 'Ziprasidone' 'Geodon' 'Lamotrigine' 'Latuda' 'Lamictal'
+ 'Lurasidone' 'Quetiapine' 'Olanzapine' 'Aripiprazole' 'Invega'
+ 'Risperidone' 'Saphris' 'Fluoxetine' 'Lithium' 'Invega Sustenna'
+ 'Valproic acid' 'Lithobid' 'Seroquel XR' 'Zyprexa']",,nan,3,25
+Schizophrenia,"['Lurasidone' 'Ziprasidone' 'Paliperidone' 'Olanzapine' 'Vraylar'
+ 'Clozapine' 'Invega' 'Seroquel' 'Brexpiprazole' 'Risperdal'
+ 'Aripiprazole' 'Geodon' 'Abilify Maintena' 'Cariprazine' 'Saphris'
+ 'Risperidone' 'Latuda' 'Trifluoperazine' 'Fanapt' 'Abilify' 'Quetiapine'
+ 'Thioridazine' 'Thorazine' 'Invega Trinza' 'Clozaril' 'Invega Sustenna'
+ 'Iloperidone' 'Seroquel XR' 'Asenapine' 'Risperdal Consta' 'Zyprexa']",Schizophrenia,"Hallucinations (usually hearing voices ), delusions , social isolation , flat affect , confused thinking",104,31
+Schnitzler Syndrome,['Kineret' 'Anakinra'],Chronic spontaneous urticaria,"Urticaria , angioedema , headache , fatigue , joint pain or swelling , gastrointestinal symptoms flushing , wheezing , and palpitations .",137,2
+Sciatica,"['Flexeril' 'Naproxen' 'Aleve' 'Diclofenac' 'Arthrotec' 'Indomethacin'
+ 'Indocin' 'Cyclobenzaprine' 'Advil' 'Ibuprofen' 'Voltaren-XR'
+ 'Nabumetone' 'Cataflam' 'Voltaren' 'Diclofenac / misoprostol' 'Amrix'
+ 'Relafen']",Sciatica,"Pain going down the leg from the lower back , weakness or numbness of the affected leg",86,17
+Seasonal Affective Disorde,['Bupropion'],,nan,3,1
+Seasonal Allergic Conjunctivitis,['Olopatadine' 'Patanol' 'Ketorolac'],Conjunctivitis,"Reddish eye , scratchiness",26,3
+Seborrheic Dermatitis,"['Xolegel' 'Rosula' 'Derma-Smoothe / FS (Scalp)' 'Loprox' 'Ketoconazole'
+ 'Ciclopirox' 'Pyrithione zinc']",Seborrhoeic dermatitis,"Flaking, dry or greasy, red, itchy, and inflamed skin",53,7
+Secondary Hyperparathyroidism,['Cinacalcet'],Hyperparathyroidism,"None, kidney stones , weakness, depression, bone pains, confusion, increased urination",86,1
+Sedation,"['Hydroxyzine' 'Ativan' 'Trazodone' 'Lorazepam' 'Vistaril' 'Promethazine'
+ 'Fentanyl' 'Phenergan']",,nan,3,8
+Seizure Prevention,"['Topiramate' 'Klonopin' 'Clonazepam' 'Lamictal' 'Lamotrigine' 'Topamax'
+ 'Valium' 'Diazepam']",Seizure,Variable,8,8
+Seizures,"['Levetiracetam' 'Phenobarbital' 'Luminal' 'Vimpat' 'Keppra' 'Lacosamide'
+ 'Trileptal' 'Zonisamide' 'Briviact' 'Oxcarbazepine' 'Mysoline' 'Diazepam'
+ 'Progesterone' 'Topiramate' 'Dilantin' 'Primidone' 'Zonegran' 'Aptiom'
+ 'Eslicarbazepine' 'Phenytoin' 'Perampanel' 'Zarontin' 'Fycompa'
+ 'Tiagabine']",Seizure,Variable,8,24
+"Sexual Dysfunction, SSRI Induced",['Sildenafil' 'Yohimbine' 'Viagra' 'Bupropion' 'Buspirone' 'Dexedrine'],Erectile dysfunction,Inability to gain or maintain an erection,41,6
+Shift Work Sleep Disorde,['Armodafinil' 'Nuvigil' 'Provigil' 'Modafinil'],,nan,3,4
+Sinus Symptoms,"['Advil Cold and Sinus' 'Sine-Off Maximum Strength'
+ 'Advil Cold and Sinus Liqui-Gels' 'VisRx Dose Pack'
+ 'Dexbrompheniramine / pseudoephedrine' 'Ibuprofen / pseudoephedrine'
+ 'Drixoral Cold and Allergy' 'Guaifenesin / phenylephrine'
+ 'Acetaminophen / dexbrompheniramine / pseudoephedrine' 'Ornex'
+ 'Mometasone' 'Chlorpheniramine / methscopolamine / pseudoephedrine']",Silent sinus syndrome,"facial asymmetry , vision problems, headache",44,12
+Sinusitis,"['Cefuroxime' 'Levofloxacin' 'Cefdinir' 'Azithromycin' 'Clarithromycin'
+ 'Avelox' 'Prednisone' 'Azithromycin Dose Pack'
+ 'Amoxicillin / clavulanate' 'Sulfamethoxazole / trimethoprim'
+ 'Moxifloxacin' 'Zithromax' 'Augmentin' 'Biaxin' 'Levaquin' 'Cipro'
+ 'Cedax' 'Cefprozil' 'Clindamycin' 'Omnicef' 'Amoxicillin' 'Bactrim'
+ 'Augmentin XR' 'Ceftin' 'Cefzil' 'Ceftibuten' 'Ciprofloxacin']",Sinusitis,"Thick nasal mucus, plugged nose, pain in the face, fever, sore throat, frequent attacks of cough",96,27
+Sjogren's Syndrome,['Hydroxychloroquine' 'Plaquenil' 'Evoxac'],Sjögren syndrome,"Dry mouth , dry eyes , other areas of dryness",45,3
+Skin Cance,['Fluorouracil'],Hives,"Red, raised, itchy bumps",24,1
+"Skin Disinfection, Preoperative",['pHisoHex' 'Hexachlorophene' 'Chlorhexidine'],,nan,3,3
+Skin Rash,['Prednisone'],Dermatomyositis,"Rash, muscle weakness, weight loss, fever",41,1
+Skin and Structure Infection,"['Mupirocin' 'Zyvox' 'Linezolid' 'Amoxicillin / clavulanate' 'Bactroban'
+ 'Gentamicin' 'Augmentin' 'Cefepime' 'Minocycline']",Boil,Painful small rough skin growth,31,9
+Skin or Soft Tissue Infection,"['Clindamycin' 'Levofloxacin' 'Amoxicillin / clavulanate' 'Cephalexin'
+ 'Erythromycin' 'Flagyl' 'Keflex' 'Azithromycin' 'Augmentin' 'Amoxil'
+ 'Doxycycline' 'Azithromycin Dose Pack' 'Ciprofloxacin']",Necrotizing fasciitis,"Severe pain , fever , purple colored skin in the affected area",62,13
+Smoking Cessation,"['Chantix' 'Nicoderm CQ' 'Bupropion' 'Varenicline' 'Nicotine' 'Zyban'
+ 'Nicotrol Inhaler' 'Nicorette' 'Commit' 'Buproban' 'Nortriptyline'
+ 'Habitrol' 'Nicotrol NS']",Chronic obstructive pulmonary disease,"Shortness of breath , chronic cough",35,13
+Social Anxiety Disorde,"['Zoloft' 'Strattera' 'Paroxetine' 'Sertraline' 'Venlafaxine' 'Paxil'
+ 'Paxil CR' 'Risperdal' 'Fluvoxamine' 'Atomoxetine']",,nan,3,10
+Soft Tissue Sarcoma,['Pazopanib' 'Votrient'],,nan,3,2
+Somat,['Amitriptyline'],,nan,3,1
+Spondyloarthritis,['Golimumab' 'Adalimumab' 'Infliximab'],Ankylosing spondylitis,"Back pain , joint stiffness",27,3
+Spondylolisthesis,['Gabapentin'],Spinal stenosis,"Pain, numbness , or weakness in the arms or legs",48,1
+Squamous Cell Carcinoma,['Cetuximab'],Cutaneous squamous-cell carcinoma,Hard lump with a scaly top or ulceration .,42,1
+Status Epilepticus,['Lorazepam'],Status epilepticus,"Regular pattern of contraction and extension of the arms and legs, movement of one part of the body, unresponsive",113,1
+Steroid Responsive Inflammatory Conditions,['Fluorometholone'],Ulcerative colitis,"Abdominal pain , diarrhea mixed with blood , weight loss , fever , anemia , dehydration , loss of appetite, fatigue , sores on the skin, urgency to defecate, inability to defecate despite urgency, rectal pain",208,1
+Still's Disease,['Kineret'],,nan,3,1
+Stomach Cance,['Xeloda'],,nan,3,1
+Stomach Ulce,"['Protonix IV' 'Sucralfate' 'Omeprazole' 'Lansoprazole' 'Aciphex'
+ 'Tums Regular Strength' 'Protonix' 'Prevacid' 'Pantoprazole' 'Zegerid']",,nan,3,10
+Strabismus,['Botox'],Strabismus,Nonaligned eyes,15,1
+Strep Throat,"['Amoxicillin / clavulanate' 'Penicillin v potassium' 'Clarithromycin'
+ 'Biaxin' 'Erythromycin' 'Gemifloxacin' 'Penicillin VK' 'Augmentin'
+ 'Cefdinir' 'Erythrocin' 'Factive']",Streptococcal pharyngitis,"Fever, sore throat, enlarged lymph nodes",40,11
+Streptococcal Infection,['Penicillin v potassium' 'Levofloxacin'],Streptococcal pharyngitis,"Fever, sore throat, enlarged lymph nodes",40,2
+Strongyloidiasis,['Ivermectin'],Strongyloidiasis,"abdominal pain , diarrhea , weight loss , itching and rash",58,1
+Subarachnoid Hemorrhage,['Nimotop'],Subarachnoid hemorrhage,"Severe headache of rapid onset , vomiting , decreased level of consciousness",76,1
+Submental Fullness,['Deoxycholic acid'],,nan,3,1
+Sunburn,['Solarcaine Burn Relief'],,nan,3,1
+Supraventricular Tachycardia,"['Diltiazem' 'Cardizem CD' 'Tenormin' 'Metoprolol' 'Adenosine'
+ 'Bisoprolol' 'Atenolol']",Supraventricular tachycardia,"Palpitations , feeling faint, sweating, shortness of breath , chest pain .",74,7
+Surgical Prophylaxis,['Clindamycin' 'Cefuroxime' 'Metronidazole'],,nan,3,3
+Swine Flu,['Oseltamivir' 'Tamiflu'],Influenza,"Fever , runny nose , sore throat , muscle pain , headache , coughing , fatigue",78,2
+Syringomyelia,['Tramadol'],Cleidocranial dysostosis,"Missing collarbone , prominent forehead, flat nose, shorter",59,1
+Systemic Lupus Erythematosus,"['CellCept' 'Hydroxychloroquine' 'Plaquenil' 'Benlysta' 'Belimumab'
+ 'Imuran' 'Azathioprine' 'Prednisone']",Lupus,"Painful and swollen joints , fever , chest pain , hair loss , mouth ulcers , swollen lymph nodes , feeling tired , red rash",123,8
+Systemic Mastocytosis,['Cromolyn' 'Rydapt'],Acute myeloid leukemia,"Feeling tired, shortness of breath , easy bruising and bleeding, increased risk of infection",92,2
+Systemic Sclerosis,['Methotrexate'],Raynaud syndrome,"An affected part turning white , then blue , then red, burning",62,1
+TSH Suppression,['Levothyroxine' 'NP Thyroid' 'Armour Thyroid' 'Thyroid desiccated'],Hashimoto's thyroiditis,"Painless goiter , weight gain , feeling tired , constipation , depression , dry skin , hair loss",96,4
+Temporomandibular Joint Disorde,['Diazepam' 'Piroxicam' 'Clonazepam' 'Cyclobenzaprine'],,nan,3,4
+Tendonitis,"['Meloxicam' 'Indocin SR' 'Naprosyn' 'Trolamine salicylate' 'Naproxen'
+ 'Anaprox' 'Indomethacin' 'Mobic']",Tendinopathy,"Pains, swelling",15,8
+Thrombocythemia,['Hydroxyurea'],Essential thrombocythemia,"Fatigue , insomnia , migraines , headache , and dizziness .",59,1
+Thyroid Cance,['Sorafenib' 'Armour Thyroid' 'Nature-Throid' 'Thyroid desiccated'],Type 1 diabetes,"Frequent urination , increased thirst , increased hunger , weight loss , blurred vision , fatigue and weakness , Bed-wetting in children who previously didn't wet the bed during the night",187,4
+Thyrotoxicosis,['Inderal'],Hyperthyroidism,"Irritability, muscle weakness, sleeping problems, fast heartbeat , heat intolerance , diarrhea , enlargement of the thyroid , weight loss",137,1
+Tinea Corporis,['Zeasorb-AF' 'Oxistat' 'Clotrimazole' 'Econazole' 'Undecylenic acid'],Tinea cruris,"Itch, rash in groin",19,5
+Tinea Cruris,"['Undecylenic acid' 'Fulvicin U / F' 'Miconazole' 'Naftifine' 'Lamisil AT'
+ 'Gris-PEG']",Tinea cruris,"Itch, rash in groin",19,6
+Tinea Pedis,['Ertaczo' 'Terbinafine' 'Econazole' 'Miconazole' 'Lamisil' 'Naftin'],Athlete's foot,"Itching, scaling, redness of the foot",37,6
+Tinea Versicol,"['Ketoconazole' 'Fluconazole' 'Econazole' 'Selenium sulfide' 'Tolnaftate'
+ 'Selsun Blue']",,nan,3,6
+Tinnitus,['Alprazolam' 'Xanax'],Tinnitus,Hearing sound when no external sound is present,47,2
+Tonsillitis/Pharyngitis,"['Omnicef' 'Cefdinir' 'Clarithromycin' 'Azithromycin' 'Amoxicillin'
+ 'Cefzil']",Tonsillitis,"Sore throat , fever , enlargement of the tonsils, trouble swallowing, large lymph nodes around the neck",103,6
+Topical Disinfection,['Silver nitrate'],Topical steroid withdrawal,"Red skin , burning sensation, desquamation, itchiness",53,1
+Tourette's Syndrome,"['Abilify' 'Clonidine' 'Guanfacine' 'Pimozide' 'Orap' 'Haldol'
+ 'Quetiapine' 'Zyprexa' 'Aripiprazole']",Tourette syndrome,Tics,4,9
+Transient Ischemic Attack,['Clopidogrel'],Transient global amnesia,Memory impairment,17,1
+Traveler's Diarrhea,['Rifaximin' 'Loperamide'],Travelers' diarrhea,"Unformed stool while traveling, fever, abdominal cramps, headache",65,2
+Trichomoniasis,['Metronidazole' 'Tindamax'],Trichomoniasis,"Itching in the genital area , bad smelling thin vaginal discharge , burning with urination, pain with sex",105,2
+Trichotillomania,['Paxil'],Trichotillomania,"Visible hair loss , distress",28,1
+Trigeminal Neuralgia,"['Carbamazepine' 'Tegretol' 'Oxcarbazepine' 'Baclofen' 'Tegretol XR'
+ 'Topiramate' 'Carbatrol' 'Topamax' 'Gabapentin' 'Neurontin' 'Trileptal']",Trigeminal neuralgia,"Typical : episodes of severe, sudden, shock-like pain in one side of the face that lasts for seconds to minutes Atypical : constant burning pain",144,11
+"Tuberculosis, Latent",['Isoniazid' 'Rifampin'],Tuberculosis,"Chronic cough , fever , cough with bloody mucus , weight loss",61,2
+Tympanostomy Tube Placement Surgery,['Ciprofloxacin'],Pierre Robin sequence,"Micrognathia , glossoptosis , obstruction of the upper airway , sometimes cleft palate",86,1
+Ulcerative Colitis,"['Mesalamine' 'Infliximab' 'Asacol' 'Colazal' 'CellCept' 'Uceris'
+ 'Prednisone' 'Mycophenolate mofetil' 'Sulfasalazine' 'Imuran'
+ 'Budesonide' 'Vedolizumab' 'Simponi' 'Humira' 'Azathioprine' 'Adalimumab'
+ 'Dexamethasone' 'Remicade' 'Balsalazide' 'Lialda' 'Sulfazine' 'Rowasa'
+ 'Salofalk']",Ulcerative colitis,"Abdominal pain , diarrhea mixed with blood , weight loss , fever , anemia , dehydration , loss of appetite, fatigue , sores on the skin, urgency to defecate, inability to defecate despite urgency, rectal pain",208,23
+"Ulcerative Colitis, Active","['Mesalamine' 'Lialda' 'Balsalazide' 'Asacol HD' 'Cyclosporine'
+ 'Budesonide' 'Asacol']",Ulcerative colitis,"Abdominal pain , diarrhea mixed with blood , weight loss , fever , anemia , dehydration , loss of appetite, fatigue , sores on the skin, urgency to defecate, inability to defecate despite urgency, rectal pain",208,7
+"Ulcerative Colitis, Maintenance",['Asacol' 'Asacol HD' 'Apriso' 'Mercaptopurine' 'Mesalamine'],Ulcerative colitis,"Abdominal pain , diarrhea mixed with blood , weight loss , fever , anemia , dehydration , loss of appetite, fatigue , sores on the skin, urgency to defecate, inability to defecate despite urgency, rectal pain",208,5
+Ulcerative Proctitis,['Pentasa' 'Canasa' 'Mesalamine'],Ulcerative colitis,"Abdominal pain , diarrhea mixed with blood , weight loss , fever , anemia , dehydration , loss of appetite, fatigue , sores on the skin, urgency to defecate, inability to defecate despite urgency, rectal pain",208,3
+Underactive Thyroid,"['Levothyroxine' 'Liothyronine' 'Thyroid desiccated' 'NP Thyroid'
+ 'Armour Thyroid' 'Synthroid' 'Levoxyl' 'WP Thyroid' 'Tirosint']",Hypothyroidism,"Poor ability to tolerate cold, feeling tired, constipation , weight gain, depression , anxiety , irritability",109,9
+Undifferentiated Connective Tissue Disease,['Hydroxychloroquine'],Undifferentiated connective tissue disease,"dry eyes, dry mouth, haïr lost, joint inflammation, joint pain, mouth ulcers, positive ANA test, raynaud's phenomenon, sun-sensitive rash, ...",142,1
+Upper Limb Spasticity,['OnabotulinumtoxinA'],Cerebral palsy,Poor coordination Stiff or loose muscles Weak muscles Tremors,61,1
+Upper Respiratory Tract Infection,"['Doryx' 'Azithromycin Dose Pack' 'Amoxicillin / clavulanate' 'Augmentin'
+ 'Clarithromycin' 'Amoxicillin' 'Doxycycline' 'Azithromycin'
+ 'Erythromycin' 'Zithromax' 'Cephalexin' 'Cefuroxime' 'Ceftin'
+ 'Cefpodoxime' 'Sulfamethoxazole / trimethoprim' 'Keflex' 'E.E.S.-400']",Bell's palsy,"Inability to move the facial muscles on one side, change in taste , pain around the ear",87,17
+Urinary Incontinence,"['VESIcare' 'Oxybutynin' 'Trospium' 'Duloxetine' 'Mirabegron'
+ 'Sanctura XR' 'Sanctura' 'Oxytrol' 'OnabotulinumtoxinA' 'Solifenacin'
+ 'Hyoscyamine' 'Darifenacin' 'Enablex' 'Myrbetriq' 'Toviaz' 'Fesoterodine']",Overactive bladder,"Frequent feeling of needing to urinate , incontinence",53,16
+Urinary Retention,['Bethanechol'],Urinary retention,"Sudden onset : Inability to urinate, low abdominal pain Long term : Frequent urination, loss of bladder control, urinary tract infection",136,1
+Urinary Tract Infection,"['Bactrim' 'Ciprofloxacin' 'Macrobid' 'Cipro'
+ 'Sulfamethoxazole / trimethoprim' 'Hiprex' 'Cefuroxime' 'Bactrim DS'
+ 'Nitrofurantoin' 'Rocephin' 'Ceftin' 'Levaquin' 'Amoxicillin'
+ 'Trimethoprim' 'Uribel' 'Ceftriaxone' 'Lactobacillus acidophilus'
+ 'Levofloxacin' 'Macrodantin'
+ 'Hyoscyamine / methenamine / methylene blue / phenyl salicylate / sodium biphosphate'
+ 'Doripenem' 'Doxycycline' 'Doribax' 'Cefixime' 'Unasyn' 'SMZ-TMP DS'
+ 'Amoxicillin / clavulanate' 'Methenamine' 'Septra' 'Vibramycin'
+ 'Hyoscyamine / methenamine / methylene blue / phenyl salicylate']",Urinary tract infection,"Pain with urination , frequent urination, feeling the need to urinate despite having an empty bladder",101,31
+Urinary Tract Stones,['Tamsulosin' 'Flomax' 'Allopurinol'],Kidney stone disease,"Severe pain in the lower back or abdomen, blood in the urine, vomiting, nausea",78,3
+Urticaria,"['Xyzal' 'Cetirizine' 'Benadryl Allergy' 'Zyrtec' 'Loratadine'
+ 'Fexofenadine' 'Levocetirizine' 'Omalizumab' 'Doxepin' 'Clarinex'
+ 'Xolair' 'Allegra' 'Cyproheptadine' 'Diphenhydramine']",Hives,"Red, raised, itchy bumps",24,14
+Uterine Bleeding,['Progesterone'],Abnormal uterine bleeding,"Irregular, abnormally frequent, prolonged, or excessive amounts of uterine bleeding",83,1
+Uterine Fibroids,['Lupron Depot' 'Leuprolide'],Uterine fibroid,Painful or heavy periods,24,2
+Uveitis,['Durezol' 'Difluprednate' 'Infliximab' 'Dexamethasone'],Uveitis,"Headaches, red eyes, blurred vision, photophobia, burning and redness of the eye",80,4
+Vaginal Yeast Infection,"['Miconazole' 'Tioconazole' 'Terconazole'
+ 'Monistat 3-Day Combination Pack' 'Fluconazole' 'Diflucan' 'Monistat 7'
+ 'Monistat 7-Day Combination Pack' 'Sporanox' 'Lactobacillus acidophilus'
+ 'Acidophilus' 'Gynazole-1' 'Ketoconazole' 'Terazol 3'
+ 'Monistat 1-Day or Night Combination Pack' 'Vagistat-1']",Vaginal yeast infection,"Vaginal itching, burning with urination , white and thick vaginal discharge , pain with sex, redness around the vagina",118,16
+Varicella-Zoste,['Valtrex' 'Valacyclovir'],,nan,3,2
+Ventricular Arrhythmia,['Betapace'],Arrhythmia,"Palpitations , dizziness or lightheadedness , passing out , shortness of breath , chest pain , decreased level of consciousness",127,1
+Ventricular Fibrillation,['Amiodarone'],Ventricular fibrillation,Cardiac arrest with loss of consciousness and no pulse,54,1
+Ventricular Tachycardia,['Inderal' 'Propafenone' 'Ethmozine' 'Tambocor'],Ventricular tachycardia,"Lightheadedness, palpitations , chest pain",42,4
+Vertig,['Meclizine' 'Promethazine' 'Bonine'],,nan,3,3
+Vitamin B12 Deficiency,['Vitamin B12' 'Cyanocobalamin'],Vitamin B12 deficiency,"Decreased ability to think, feeling tired , depression , irritability, abnormal sensations , changes in reflexes",112,2
+Vitamin D Deficiency,['Vitamin D2' 'Ergocalciferol'],Vitamin D deficiency,Usually asymptomatic,20,2
+Vitamin/Mineral Supplementation and Deficiency,"['Multivitamin with minerals' 'Multivitamin with iron'
+ 'Chromium picolinate' 'Ferrous sulfate']",Vitamin D deficiency,Usually asymptomatic,20,4
+Vitamin/Mineral Supplementation during Pregnancy/Lactation,"['Prenatal Plus' 'Multivitamin, prenatal' 'CitraNatal 90 DHA'
+ 'Prenatabs FA' 'Vitafol Ultra']",,nan,3,5
+Vulvodynia,"['Nortriptyline' 'Gabapentin' 'Desipramine' 'Neurontin' 'Amitriptyline'
+ 'Topiramate']",Vaginismus,Pain with sex,13,6
+Warts,['Duofilm' 'Wart Remover'],Wart,"skin growth usually occurring on the hands, feet, or genitals",61,2
+Wegener's Granulomatosis,['Rituximab'],,nan,3,1
+Weight Loss,"['Contrave' 'Phentermine' 'Belviq' 'Adipex-P' 'Liraglutide' 'Qsymia'
+ 'Phentermine / topiramate' 'Bupropion / naltrexone' 'Lorcaserin' 'Fastin'
+ 'Saxenda' 'Victoza' 'Megestrol' 'Suprenza' 'Megace ES']",,nan,3,15
+Wolff-Parkinson-White Syndrome,['Flecainide'],Wolff–Parkinson–White syndrome,"Abnormally fast heartbeat , palpitations , shortness of breath , lightheadedness, loss of consciousness",103,1
+Xerostomia,['Saliva substitutes' 'Pilocarpine' 'Salagen' 'SalivaMAX'],Angular cheilitis,"Redness , skin breakdown and crusting at the corner of the mouth",64,4
+Yellow Fever Prophylaxis,['Yellow fever vaccine'],Rheumatic fever,"Fever , multiple painful joints , involuntary muscle movements , erythema marginatum",84,1
+Zollinger-Ellison Syndrome,['Prilosec'],Peptic ulcer disease,"Heartburn , upper abdominal pain , nausea , belching , vomiting , blood in the stool , weight loss , weight gain , bloating , loss of appetite , yellowing of the skin and whites of the eyes , difficulty swallowing",213,1
+acial Wrinkles,['OnabotulinumtoxinA' 'AbobotulinumtoxinA' 'Botox Cosmetic'],,nan,3,3
+actor IX Deficiency,['Cyklokapron'],Haemophilia B,Easy bruising,13,1
+amilial Cold Autoinflammatory Syndrome,['Arcalyst'],,nan,3,1
+atigue,"['Amphetamine / dextroamphetamine' 'Modafinil' 'Provigil'
+ 'Dextroamphetamine' 'Methylphenidate']",,nan,3,5
+cal Segmental Glomerulosclerosis,['Corticotropin'],,nan,3,1
+emale Infertility,['Clomiphene' 'Clomid' 'Femara' 'Leuprolide' 'Metformin'],,nan,3,5
+eve,['Tylenol' 'Ibuprofen' 'Acetaminophen'],,nan,3,3
+ibrocystic Breast Disease,['Danocrine'],,nan,3,1
+ibromyalgia,"['Gabapentin' 'Lyrica' 'Milnacipran' 'Savella' 'Cyclobenzaprine'
+ 'Amitriptyline' 'Duloxetine' 'Mucinex' 'Pregabalin' 'Venlafaxine'
+ 'Naltrexone' 'Cymbalta' 'Guaifenesin' 'Nuvigil' 'Pristiq' 'Ultram ER'
+ 'Metaxalone' 'Escitalopram' 'Skelaxin' 'Topiramate' 'Trazodone' 'Effexor'
+ 'Armodafinil' 'Ultram' 'Effexor XR' 'Tramadol' 'Lexapro' 'Desyrel'
+ 'Elavil' 'Neurontin' 'Prozac' 'Prednisone' 'Topamax' 'Meloxicam'
+ 'Sodium oxybate' 'Desvenlafaxine' 'Amrix' 'Xyrem' 'Flexeril'
+ 'Sterapred DS']",,nan,3,40
+lic Acid Deficiency,['Deplin' 'L-methylfolate'],,nan,3,2
+llicle Stimulation,['Menotropins' 'Gonal-f' 'Follicle stimulating hormone' 'Menopur'],,nan,3,4
+m Pain Disorde,['Amitriptyline'],,nan,3,1
+mance Anxiety,['Propranolol'],,nan,3,1
+me,['Bevacizumab'],,nan,3,1
+von Willebrand's Disease,['Desmopressin'],Haemophilia,Easy and prolonged bleeding,27,1
+zen Shoulde,['Diclofenac' 'Voltaren' 'Aleve' 'Relafen'],,nan,3,4
