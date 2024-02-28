@@ -1,0 +1,531 @@
+,Disease,Preprocessed_Symptoms
+0,Attention deficit hyperactivity disorder,inattention carelessness hyperactivity executive dysfunction disinhibition emotional dysregulation impulsivity impaired working memory
+1,HIV/AIDS,early flulike illness later large lymph node fever weight loss
+2,Abnormal uterine bleeding,irregular abnormally frequent prolonged excessive amount uterine bleeding
+4,Paracetamol poisoning,early non specific feeling tired abdominal pain nausea later yellowish skin blood clotting problem confusion
+5,Acne,blackhead whitehead pimple oily skin scarring
+6,Actinic keratosis,actinic keratoses ak commonly present white scaly plaque variable thickness surrounding redness notable sandpaperlike texture felt gloved hand skin nearby lesion often show evidence solar damage characterized notable pigmentary alteration yellow pale color area hyperpigmentation deep wrinkle coarse texture purpura ecchymosis dry skin scattered telangiectasias also characteristic
+7,Acute coronary syndrome,symptom acute coronary syndrome similar cardinal symptom critically decreased blood flow heart chest pain experienced tightness pressure burning localisation commonly around chest may radiate located arm shoulder neck back upper abdomen jaw may associated sweating nausea shortness breath previously word atypical used describe chest pain typically heartrelated however word recommended replaced noncardiac describe chest pain indicate low likelihood heartrelated pain
+8,Acute lymphoblastic leukemia,feeling tired pale color fever easy bleeding bruising bone pain enlarged lymph node
+9,Acute myeloid leukemia,feeling tired shortness breath easy bruising bleeding increased risk infection
+10,Acute promyelocytic leukemia,symptom tend similar aml general following possible symptom
+11,Addison's disease,abdominal pain weakness weight loss darkening skin
+12,Adrenal insufficiency,sign symptom include hypoglycemia hyperpigmentation dehydration weight loss disorientation additional sign symptom include weakness tiredness dizziness low blood pressure fall standing orthostatic hypotension cardiovascular collapse muscle ache nausea vomiting diarrhea problem may develop gradually insidiously addisons disease present tanning skin may patchy even body characteristic site tanning skin crease eg hand inside cheek buccal mucosa goitre vitiligo may also present eosinophilia may also occur hyponatremia sign secondary insufficiency
+13,Growth hormone deficiency,short height
+14,Psychosis,false belief seeing hearing thing others see hear incoherent speech behavior
+15,Psychomotor agitation,people experiencing psychomotor agitation may feel following emotion following action action inherently bad maladaptive maladaptively excessive version example selfhugging therapeutically advisable selfhugging component set motor agitation movement sign psychomotor agitation
+16,Alcoholism,drinking large amount alcohol long period difficulty cutting acquiring drinking alcohol taking lot time usage resulting problem withdrawal occurring stopping
+17,Alcohol withdrawal syndrome,anxiety shakiness sweating vomiting fast heart rate mild fever
+18,Allergy,red eye itchy rash vomiting runny nose shortness breath swelling sneezing cough
+19,Allergic rhinitis,stuffy itchy nose sneezing red itchy watery eye swelling around eye itchy ear
+20,Hives,red raised itchy bump
+21,Allergy,red eye itchy rash vomiting runny nose shortness breath swelling sneezing cough
+22,Hair loss,loss hair part head body
+23,Alpha-1 antitrypsin deficiency,shortness breath wheezing yellowish skin
+24,Alzheimer's disease,memory loss problem language disorientation mood swing
+25,Amoebiasis,bloody diarrhea abdominal pain
+26,Hypoestrogenism,presentation low estrogen level include hot flash sudden intense feeling heat predominantly upper body causing skin redden blushing believed occur due narrowing thermonuclear zone hypothalamus making body sensitive body temperature change night disturbance also common symptom associated hypoestrogenism people may experience difficulty falling asleep waking several time night early awakening different variability race ethnic group
+27,Anal fistula,anal fistula present following symptom
+28,Candidiasis,white patch vaginal discharge itching
+29,Pattern hair loss,pattern hair loss classified form nonscarring hair loss
+30,Anemia,feeling tired pale skin weakness shortness breath feeling faint
+31,Chronic kidney disease,early none later leg swelling feeling tired vomiting loss appetite confusion
+32,Aplastic anemia,pale skin fatigue fast heart rate rash dizziness headache frequent prolonged infection nosebleed bleeding gum prolonged bleeding cut unexplained easy bruising hematoma
+33,Sickle cell disease,attack pain anemia swelling hand foot bacterial infection stroke
+35,Angina,angina pectoris quite painful many patient angina complain chest discomfort rather actual pain discomfort usually described pressure heaviness tightness squeezing burning choking sensation apart chest discomfort anginal pain may also experienced epigastrium upper central abdomen back neck area jaw shoulder explained concept referred pain spinal level receives visceral sensation heart simultaneously receives cutaneous sensation part skin specified spinal nerve dermatome without ability discriminate two typical location referred pain arm often inner left arm shoulder neck jaw angina typically precipitated exertion emotional stress exacerbated full stomach cold temperature pain may accompanied breathlessness sweating nausea case case pulse rate blood pressure increase chest pain lasting second normally angina precordial catch syndrome
+36,Aortic stenosis,decreased ability exercise loss consciousness shortness breath heart related chest pain leg swelling
+37,Ankylosing spondylitis,back pain joint stiffness
+38,Anorexia nervosa,fear gaining weight strong desire thin food restriction body image disturbance
+39,Anthrax,skin form small blister surrounding swelling inhalational form fever chest pain shortness breath intestinal form nausea vomiting diarrhea abdominal pain injection form fever abscess
+40,Antiphospholipid syndrome,antiphospholipid syndrome known causing arterial venous blood clot organ system pregnancy related complication blood clot pregnancy complication common diagnostic symptom associated aps organ body part may affected like platelet level heart kidney brain skin also people aps may symptom associated autoimmune disease like lupus erythematosus caused aps aps occur time autoimmune disease
+41,Anxiety disorder,worrying fast heart rate shakiness
+42,Post-traumatic stress disorder,disturbing thought feeling dream related event mental physical distress traumarelated cue effort avoid traumarelated situation increased fightorflight response
+44,Aplastic anemia,pale skin fatigue fast heart rate rash dizziness headache frequent prolonged infection nosebleed bleeding gum prolonged bleeding cut unexplained easy bruising hematoma
+45,Arrhythmia,palpitation dizziness lightheadedness passing shortness breath chest pain decreased level consciousness
+46,Asperger syndrome,problem social interaction nonverbal communication restricted interest repetitive behavior
+47,Aspergillosis,fungus ball lung may cause symptom may discovered chest xray may cause repeated coughing blood chest pain occasionally severe even fatal bleeding rapidly invasive aspergillus infection lung often cause cough fever chest pain difficulty breathing
+48,Asthma,recurring episode wheezing coughing chest tightness shortness breath
+49,Asthma,recurring episode wheezing coughing chest tightness shortness breath
+50,Acute severe asthma,anxiety panic laboring breath tightened neck chest muscle difficulty performing normal daily activity
+51,Atopic dermatitis,itchy red swollen cracked skin
+52,Atrial fibrillation,none heart palpitation fainting shortness breath chest pain
+54,Geographic tongue,burning sensation rare
+55,Atrophic vaginitis,pain sex vaginal itchiness dryness urge urinate
+57,Autism spectrum,difficulty social interaction verbal nonverbal communication presence repetitive behavior restricted interest
+58,Autoimmune hepatitis,often asymptomatic fatigue right upper abdominal pain anorexia nausea jaundice joint pain rash
+59,Vitamin B12 deficiency,decreased ability think feeling tired depression irritability abnormal sensation change reflex
+60,Low back pain,common presentation acute low back pain pain develops movement involve lifting twisting forwardbending symptom may start soon movement upon waking following morning description symptom may range tenderness particular point diffuse pain may may worsen certain movement raising leg position sitting standing pain radiating leg known sciatica may present first experience acute low back pain typically age 20 40 often person first reason see medical professional adult recurrent episode occur half people repeated episode generally painful first
+61,Bloodstream infections,bacteremia typically transient quickly removed blood immune system
+62,Infective endocarditis,fever small area bleeding skin heart murmur feeling tired low red blood cell
+63,Conjunctivitis,reddish eye scratchiness
+64,Boil,painful small rough skin growth
+65,Bacterial vaginosis,vaginal discharge often smell like fish burning urination
+66,Barrett's esophagus,nausea
+67,Basal-cell carcinoma,painless raised area skin may shiny small blood vessel running ulceration
+68,Behçet's disease,mouth sore genital sore inflammation eye arthritis chronic fatigue
+70,Benign prostatic hyperplasia,frequent urination trouble starting urinate weak stream inability urinate loss bladder control
+71,Benzodiazepine withdrawal syndrome,withdrawal symptom occur dose reduction may include insomnia anxiety distress weight loss dizziness night sweat shake muscle twitch aphasia panic attack depression derealization paranoia indigestion diarrhea photophobia withdrawal progress patient often find physical mental health improves improved mood improved cognition
+72,Primary biliary cholangitis,cholestasis pruritus fatigue
+76,Urinary tract infection,pain urination frequent urination feeling need urinate despite empty bladder
+78,Blepharitis,crusty eyelid
+80,Osteomyelitis,pain specific bone overlying redness fever weakness
+82,Irritable bowel syndrome,diarrhea constipation abdominal pain
+83,Pain,unpleasant sensory emotional sensation
+85,Paget's disease of the breast,paget disease breast affect nipple areola nipple typically affected first skin change spread areola common symptom wax wane symptom typically affect one breast may include
+86,Metastasis,initially nearby lymph node struck early lung liver brain bone common metastasis location solid tumor
+87,Cancer,lump abnormal bleeding prolonged cough unexplained weight loss change bowel movement
+88,Breast cancer,lump breast change breast shape dimpling skin fluid nipple newly inverted nipple red scaly patch skin breast
+89,Bronchitis,coughing mucus wheezing shortness breath chest discomfort
+90,Exercise-induced bronchoconstriction,shortness breath vigorous exercise
+91,Bulimia nervosa,eating large amount food short amount time followed vomiting use laxative often normal weight
+92,Bullous pemphigoid,clinically earliest lesion may appear hive like red raised rash could also appear dermatitic targetoid lichenoid nodular even without rash essential pruritus tense bulla eventually erupt commonly inner thigh upper arm trunk extremity frequently involved part skin surface involved oral lesion present minority case disease may acute last month year period exacerbation remission
+93,Burning mouth syndrome,definition bm sign sometimes affected person attribute symptom sore mouth fact normal anatomic structure eg lingual papilla varix symptom bm variable typical clinical picture given considered according socrates pain assessment method see table clinical sign visible another explanation burning sensation may present erythema redness edema swelling papilla tip tongue may sign tongue habitually pressed teeth number size filiform papilla may reduced tongue red smooth likely local systemic cause eg erythematous candidiasis anemia
+94,Burn,first degree red without blister second degree blister pain third degree area stiff painful fourth degree bone tendon loss
+95,Bursitis,bursitis commonly affect superficial bursa include subacromial prepatellar retrocalcaneal pe anserinus bursa shoulder knee heel shin etc see symptom vary localized warmth erythema redness joint pain stiffness stinging pain surround joint around inflamed bursa condition pain usually worse activity bursa surrounding joint becomes stiff next morning
+96,Human betaherpesvirus 5,human betaherpesvirus 5 infection classic triad symptom fever peaking late afternoon early evening pharyngitis usually exudative symmetrical adenopathy
+97,Chronic obstructive pulmonary disease,shortness breath chronic cough
+98,Acute exacerbation of chronic obstructive pulmonary disease,acute exacerbation copd associated increased frequency severity coughing often accompanied worsened chest congestion discomfort shortness breath wheezing present many case exacerbation may accompanied increased amount cough sputum production change appearance sputum abrupt worsening copd symptom may cause rupture airway lung turn may cause spontaneous pneumothorax
+99,Chronic obstructive pulmonary disease,shortness breath chronic cough
+100,Cachexia,sudden weight loss altered eating signal
+102,Cataplexy,cataplexy manifest muscular weakness may range barely perceptible slackening facial muscle complete muscle paralysis postural collapse attack brief lasting second couple minute typically involve dropping jaw neck weakness andor buckling knee even fullblown collapse people usually able avoid injury learn notice feeling cataplectic attack approaching fall usually slow progressive speech may slurred vision may impaired double vision inability focus hearing awareness remain normal
+103,Spastic cerebral palsy,people spastic type cp typically muscle tight stiff due high muscle tone symptom spastic cerebral palsy vary disability affect individual differently however typically appear infancy early childhood child diagnosed first two year life main indicator spastic cerebral palsy delay reaching motor milestone following common early sign though presence listed symptom definitively mean child spastic cp
+104,Spasmodic torticollis,initial symptom spasmodic torticollis usually mild feel invisible tremor head month onset head may turn pull tilt jerky movement sustain prolonged position involuntarily time involuntary spasm neck muscle increase frequency strength reach plateau symptom also worsen patient walking period increased stress symptom include muscle hypertrophy neck pain dysarthria tremor study shown 75 patient report neck pain 33 40 experience tremor head
+105,Chlamydia,none vaginal discharge discharge penis burning urination
+106,Myalgic encephalomyelitis/chronic fatigue syndrome,worsening symptom activity longterm fatigue sleep problem others
+108,Chronic inflammatory demyelinating polyneuropathy,traditional manifestation chronic inflammatory demyelinating polyneuropathy characterized symmetric progressive limb weakness sensory loss typically start leg patient report trouble getting chair walking climbing stair falling problem gripping object tying shoe lace using utensil brought upper limb involvement proximal limb weakness fundamental clinical characteristic set apart chronic inflammatory demyelinating polyneuropathy vast majority distal polyneuropathies far common proprioception impairment distal paresthesia loss feeling poor balance brought sensory involvement small percentage case involve neuropathic pain
+109,Chronic lymphocytic leukemia,early none later nonpainful lymph node swelling feeling tired fever weight loss
+110,Chronic myelogenous leukemia,way cml present depends stage disease diagnosis known skip stage case
+111,Myofascial pain syndrome,primary symptom include
+112,Chronic pain,pain last longer expected period recovery
+113,Chronic pancreatitis,nausea vomiting
+114,Hereditary spastic paraplegia,symptom depend type hsp inherited main feature disease progressive spasticity lower limb due pyramidal tract dysfunction also result brisk reflex extensor plantar reflex muscle weakness variable bladder disturbance furthermore among core symptom hsp also included abnormal gait difficulty walking decreased vibratory sense ankle paresthesia individual hsp experience extreme fatigue associated central nervous system neuromuscular disorder disabling initial symptom typically difficulty balance stubbing toe stumbling symptom hsp may begin age infancy older 60 year symptom begin teenage year later spastic gait disturbance usually progress many year cane walker wheelchair may eventually required although people never require assistance device disability described progressing rapidly adult onset form
+115,Anaerobic infection,anaerobe found infection throughout human body frequency host patient recovery depends employment proper method collection specimen transportation microbiology laboratory cultivation recovery organism depends site infection related adjacent mucous membrane microbial flora
+116,Cluster headache,recurrent severe headache one side head eye watering stuffy nose
+117,Coccidioidomycosis,estimated 60 people infected fungi responsible coccidioidomycosis minimal symptom 40 range possible clinical symptom develop symptom primary infection often respiratory symptom resembling bronchitis pneumonia resolve matter week endemic region coccidioidomycosis responsible 20 case communityacquired pneumonia notable coccidioidomycosis sign symptom include profound feeling tiredness loss smell taste fever cough headache rash muscle pain joint pain fatigue persist many month initial infection classic triad coccidioidomycosis known desert rheumatism includes combination fever joint pain erythema nodosum
+118,Cold sore,burning pain followed small blister sore
+119,Common cold,cough sore throat runny nose fever
+122,Genital wart,small bump skin genital area varying size shape typically protrude burning itch
+123,Conjunctivitis,reddish eye scratchiness
+124,Allergic conjunctivitis,conjunctiva thin membrane cover eye allergen irritates conjunctiva common symptom occur eye include ocular itching eyelid swelling tearing photophobia watery discharge foreign body sensation pain
+125,Conjunctivitis,reddish eye scratchiness
+126,Constipation,infrequent hard pas bowel movement abdominal pain bloating
+127,Constipation,infrequent hard pas bowel movement abdominal pain bloating
+128,Constipation,infrequent hard pas bowel movement abdominal pain bloating
+129,Constipation,infrequent hard pas bowel movement abdominal pain bloating
+130,Astigmatism,distorted blurred vision distance eyestrain headache
+131,Costochondritis,chest pain
+132,Whooping cough,runny nose fever cough
+133,Rhinovirus,rhinovirus primary cause common cold symptom include sore throat runny nose nasal congestion sneezing cough sometimes accompanied muscle ache fatigue malaise headache muscle weakness loss appetite fever extreme exhaustion le common rhinovirus infection compared influenza
+134,Crohn's disease,abdominal pain diarrhea may bloody fever weight loss fatigue mouth sore reduced appetite
+135,Crohn's disease,abdominal pain diarrhea may bloody fever weight loss fatigue mouth sore reduced appetite
+136,Inflammatory bowel disease,spite crohn uc different disease may present following symptom abdominal pain diarrhea rectal bleeding severe internal crampsmuscle spasm region pelvis weight loss anemia prevalent extraintestinal complication inflammatory bowel disease associated complaint disease include arthritis pyoderma gangrenosum primary sclerosing cholangitis nonthyroidal illness syndrome ntis association deep vein thrombosis dvt bronchiolitis obliterans organizing pneumonia boop also reported diagnosis generally assessment inflammatory marker stool followed colonoscopy biopsy pathological lesion
+137,Candidiasis,white patch vaginal discharge itching
+138,Cutaneous T-cell lymphoma,presentation depends mycosis fungoides sézary syndrome common though type among symptom aforementioned type enlarged lymph node enlarged liver spleen nonspecific dermatitis
+139,Cyclic vomiting syndrome,affected individual may vomit retch 6–12 time hour episode may last hour three week case month median episode duration 41 hour stomach acid bile vomiting severe blood may vomited condition ingest water reduce irritation bile acid esophagus emesis episode affected individual usually normal healthy otherwise weak state fatigue experience muscle pain approximately half case attack episode occur timerelated manner attack stereotypical given individual timing frequency severity attack similar affected people experience episode progressively get worse left untreated occurring frequently reduced symptom free phase
+140,Uveitis,headache red eye blurred vision photophobia burning redness eye
+142,Cystic fibrosis,difficulty breathing coughing mucus poor growth fatty stool
+143,Dandruff,itchy flaking skin scalp
+144,Anaerobic infection,anaerobe found infection throughout human body frequency host patient recovery depends employment proper method collection specimen transportation microbiology laboratory cultivation recovery organism depends site infection related adjacent mucous membrane microbial flora
+145,Deep vein thrombosis,pain swelling redness enlarged vein affected limb
+146,Deep vein thrombosis,pain swelling redness enlarged vein affected limb
+147,Deep vein thrombosis,pain swelling redness enlarged vein affected limb
+148,Deep vein thrombosis,pain swelling redness enlarged vein affected limb
+149,Deep vein thrombosis,pain swelling redness enlarged vein affected limb
+150,Dental abscess,pain continuous may described extreme growing sharp shooting throbbing putting pressure warmth tooth may induce extreme pain area may sensitive touch possibly swollen well swelling may present either base tooth gum andor cheek sometimes reduced applying ice pack
+151,Depression (mood),low mood aversion activity loss interest loss feeling pleasure
+152,Dercum's disease,painful fatty tumor extremity
+153,Dermatitis,itchiness red skin rash
+154,Janeway lesion,painless red flat papule palm sol
+155,Psoriasis,red purple darker skin itchy scaly patch skin
+156,Dermatomyositis,rash muscle weakness weight loss fever
+157,Dermatophytosis,red itchy scaly circular skin rash
+158,Diabetes insipidus,large amount dilute urine increased thirst
+159,Type 1 diabetes,frequent urination increased thirst increased hunger weight loss blurred vision fatigue weakness bedwetting child previously didnt wet bed night
+160,Type 2 diabetes,increased thirst frequent urination unexplained weight loss increased hunger
+161,Diabetic nephropathy,albuminuria peripheral edema high blood pressure tiredness
+162,Diabetic retinopathy,often asymptomatic cause spot eye vision loss
+163,Diabetic neuropathy,diabetic neuropathy affect peripheral nerve including sensory neuron motor neuron autonomic nervous system therefore diabetic neuropathy potential affect essentially organ system cause range symptom several distinct syndrome based organ system affected
+166,Diarrhea,loose frequent bowel movement dehydration
+167,Gastroenteritis,diarrhea vomiting abdominal pain fever
+168,Diarrhea,loose frequent bowel movement dehydration
+169,Anismus,symptom include
+170,Chromium deficiency,claimed symptom chromium deficiency caused longterm total parenteral nutrition severely impaired glucose tolerance weight loss peripheral neuropathy confusion
+172,Diverticulitis,abdominal pain fever nausea diarrhea constipation blood stool
+173,Dry eye syndrome,dry eye irritation redness discharge blurred vision
+174,Xeroderma,low skin moisture itching scaling skin cracking
+175,Dumping syndrome,symptom early late dumping syndrome different vary person person early dumping syndrome symptom may include
+177,Dysautonomia,anhidrosis hyperhidrosis blurry vision tunnel vision orthostatic hypotension constipation diarrhea dysphagia bowel incontinence urinary retention urinary incontinence dizziness brain fog exercise intolerance tachycardia vertigo weakness pruritus
+178,Dyspareunia,experience pelvic pain upon attempted vaginal intercourse describe pain many way reflects many different overlapping cause dyspareunia location nature time course pain help understand potential cause treatment
+179,Dystonia,symptom vary according kind dystonia involved case dystonia tends lead abnormal posturing particular movement many individual condition continuous pain cramping relentless muscle spasm due involuntary muscle movement motor symptom possible including lip smacking
+180,Hemorrhagic cystitis,hemorrhaging hematuria dysuria
+181,Ear pain,ear pain present one ear may may accompanied symptom fever sensation world spinning ear itchiness sense fullness ear pain may may worsen chewing pain may also continuous intermittent
+182,Dermatitis,itchiness red skin rash
+183,Edema,skin feel tight area may feel heavy
+184,Ehrlichiosis,fever chill severe headache muscle ache nausea vomiting diarrhea loss appetite confusion splotchy pinpoint rash severe symptom include brain nervous system damage respiratory failure uncontrollable bleeding organ failure death
+186,Gestational diabetes,typically symptom
+187,Endometrial cancer,vaginal bleeding pain urination sexual intercourse pelvic pain
+188,Endometriosis,pelvic pain infertility
+190,Eosinophilic esophagitis,eoe often present difficulty swallowing food impaction stomach pain regurgitation vomiting decreased appetite although typical onset eoe childhood disease found age group symptom vary depending age presentation addition young child eoe may present feeding difficulty poor weight gain common male affect adult child
+191,Epididymitis,pain back testicle swelling testicle burning urination frequent urination
+192,Epilepsy,period loss consciousness abnormal shaking staring change vision mood change andor cognitive disturbance
+193,Erectile dysfunction,inability gain maintain erection
+194,Esophagitis,symptom esophagitis include
+195,Esophageal varices,vomiting blood passing black stool
+196,Plastic bronchitis,clinical presentation plastic bronchitis beyond expectoration cast includes productive cough dyspnea fever wheezing focal wheezing characteristic specific physical examination finding cast completely obstruct airway breath sound decreased dullness present percussion partial obstruction “ fan sound ” “ flag flapping ” sound heard auscultation bronchial cast sometimes fill airway almost entire lung present acute lifethreatening emergency
+197,Bloating,blood stool weight loss nausea vomiting diarrhea stomach pain
+198,Episcleritis,photophobia hotpricklygritty sensation eye eye redness without pain watery eye
+199,Conjunctivitis,reddish eye scratchiness
+200,Monilethrix,indicator monilethrix small bump skin mainly scalp neck arm case firm dark papule covered dark scale crust appears skin especially scalp affected individual would beaded hair strand possible area hair loss eyebrow eyelash limb pubic region hair strand usually dull dry brittle strand prone mild severe breakage causing onset alopecia especially pregnancy fingernail toenail tend appear abnormal onset disease varies person person frequency monilethrix currently unknown
+201,Gastroesophageal reflux disease,taste acid heartburn bad breath chest pain breathing problem
+202,Gallbladder disease,gallbladder disease present chiefly abdominal pain located right upper abdomen pain described biliary colic pain typically occurs suddenly radiates right shoulder back depending several factor including specific disease either constant episodic last minute hour pain described biliary colic pain common symptom gallbladder disease biliary colic nausea vomiting condition cholecystitis choledocholithiasis fever may present
+204,Colitis,sign symptom colitis quite variable dependent cause given colitis factor modify course severity
+205,Gastritis,upper abdominal pain nausea vomiting bloating loss appetite heartburn
+206,Gastroenteritis,diarrhea vomiting abdominal pain fever
+207,Paracetamol poisoning,early non specific feeling tired abdominal pain nausea later yellowish skin blood clotting problem confusion
+208,Gastrointestinal bleeding,vomiting red blood vomiting black blood bloody stool black stool feeling tired
+210,Gastroparesis,nausea vomiting abdominal pain feeling full eating bite
+211,Gender dysphoria,distress related one assigned gender sex andor sex characteristic
+213,Giant-cell tumor of bone,patient usually present pain limited range motion caused tumor proximity joint space swelling may occur well tumor growing long time patient may asymptomatic develop pathologic fracture site tumor usually originate epiphysis long bone rare case may arise anterior arc rib symptom may include muscular ache pain arm leg abdominal pain patient may also experience nerve pain feel like electric shock due weight bearing
+214,Giardiasis,diarrhea abdominal pain weight loss nausea
+215,Gingivitis,symptom gingivitis somewhat nonspecific manifest gum tissue classic sign inflammation
+216,Glaucoma,intense eye pain nausea vomiting red eye headache tenderness around eye seeing ring around light blurred vision
+217,Glaucoma,intense eye pain nausea vomiting red eye headache tenderness around eye seeing ring around light blurred vision
+218,Breast cancer,lump breast change breast shape dimpling skin fluid nipple newly inverted nipple red scaly patch skin breast
+219,Glioblastoma,initially nonspecific headache personality change nausea symptom similar stroke
+220,Urinary tract infection,pain urination frequent urination feeling need urinate despite empty bladder
+221,Gout,joint pain swelling redness
+222,Gout,joint pain swelling redness
+223,Gout,joint pain swelling redness
+224,HIV/AIDS,early flulike illness later large lymph node fever weight loss
+225,Hashimoto's thyroiditis,painless goiter weight gain feeling tired constipation depression dry skin hair loss
+226,Head injury,injury brain skull
+227,Head lice infestation,itching result trouble sleeping
+228,Cluster headache,recurrent severe headache one side head eye watering stuffy nose
+229,Myocardial infarction,chest pain shortness breath nauseavomiting dizziness lightheadedness cold sweat feeling tired arm neck back jaw stomach pain decreased level total loss consciousness
+230,Heart failure,shortness breath exhaustion swollen leg
+232,Haemophilia,easy prolonged bleeding
+233,Haemophilia B,easy bruising
+234,Hemorrhoid,internal painless bright red rectal bleeding external pain swelling around anus
+235,Hepatic encephalopathy,altered level consciousness mood change personality change movement problem slurred speech sleep problem anxiety irritability muscle twitch myoclonus difficulty concentrating short attention span flapping hand motion asterixis reduced alertness cognitive impairment confused thinking judgment
+236,Hepatitis B,none yellowish skin tiredness dark urine abdominal pain
+237,Hepatitis C,typically none
+238,Hepatocellular carcinoma,case hcc occur people already sign symptom chronic liver disease may present worsening symptom without symptom time cancer detection hcc may present nonspecific symptom abdominal pain nausea vomiting feeling tired symptom closely associated liver disease include yellow skin also called jaundice abdominal swelling due fluid abdominal cavity easy bruising blood clotting abnormality loss appetite unintentional weight loss abdominal pain nausea vomiting feeling tired
+239,Altitude sickness,headache vomiting feeling tired trouble sleeping dizziness
+240,Hereditary angioedema,recurrent attack severe swelling
+241,Herpes,blister break open form small ulcer fever swollen lymph node
+242,Herpes simplex keratitis,primary infection commonly manifest blepharoconjunctivitis ie infection lid conjunctiva heals without scarring lid vesicle conjunctivitis seen primary infection corneal involvement rarely seen primary infection
+243,Candidiasis,white patch vaginal discharge itching
+244,Herpes,blister break open form small ulcer fever swollen lymph node
+245,Herpes esophagitis,people herpes esophagitis experience pain eating trouble swallowing symptom include food impaction hiccup weight loss fever rare occasion upper gastrointestinal bleeding noted image tracheoesophageal fistula frequently one see herpetiform lesion mouth lip
+247,Herpes esophagitis,people herpes esophagitis experience pain eating trouble swallowing symptom include food impaction hiccup weight loss fever rare occasion upper gastrointestinal bleeding noted image tracheoesophageal fistula frequently one see herpetiform lesion mouth lip
+248,Hiccup,hiccup consists single series breathing diaphragm spasm variable spacing duration brief le one half second unexpected shoulder abdomen throat full body tremor
+249,Hidradenitis suppurativa,multiple inflamed swollen skin lesion
+250,Hypertension,none
+251,Hypercholesterolemia,although hypercholesterolemia asymptomatic longstanding elevation serum cholesterol lead atherosclerosis buildup fatty plaque artery socalled hardening artery period decade elevated serum cholesterol contributes formation atheromatous plaque artery lead progressive narrowing involved artery alternatively smaller plaque may rupture cause clot form obstruct blood flow sudden blockage coronary artery may result heart attack blockage artery supplying brain cause stroke development stenosis occlusion gradual blood supply tissue organ slowly diminishes organ function becomes impaired point tissue ischemia restriction blood supply may manifest specific symptom example temporary ischemia brain commonly referred transient ischemic attack may manifest temporary loss vision dizziness impairment balance difficulty speaking weakness numbness tingling usually one side body insufficient blood supply heart may cause chest pain ischemia eye may manifest transient visual loss one eye insufficient blood supply leg may manifest calf pain walking intestine may present abdominal pain eating meal
+252,Familial hypercholesterolemia,high cholesterol level normally cause symptom yellow deposit cholesterolrich fat may seen various place body around eyelid known xanthelasma palpebrarum outer margin iris known arcus senilis cornea tendon hand elbow knee foot particularly achilles tendon known tendon xanthoma
+253,Familial hypercholesterolemia,high cholesterol level normally cause symptom yellow deposit cholesterolrich fat may seen various place body around eyelid known xanthelasma palpebrarum outer margin iris known arcus senilis cornea tendon hand elbow knee foot particularly achilles tendon known tendon xanthoma
+254,Hypertrichosis,primary characteristic form hypertrichosis excessive hair hair hypertrichosis usually longer expected may consist hair type lanugo vellus terminal patterned form hypertrichosis cause hair growth pattern generalized form hypertrichosis result hair growth entire body circumscribed localized form lead hair growth restricted certain area
+255,Histoplasmosis,symptom histoplasmosis infection occur start within 3 17 day exposure typical time 12–14 day affected individual clinically silent manifestation show apparent ill effect acute phase histoplasmosis characterized nonspecific respiratory symptom often cough flulike chest xray finding normal 40–70 case chronic histoplasmosis case resemble tuberculosis disseminated histoplasmosis affect multiple organ system fatal unless treated
+256,Hot flash,hot flash common symptom menopause perimenopause typically experienced feeling intense heat sweating rapid heartbeat may typically last two thirty minute occurrence ending rapidly began sensation heat usually begin face chest although may appear elsewhere back neck spread throughout whole body people feel going faint addition internal sensation surface skin especially face becomes hot touch origin alternative term hot flush since sensation heat often accompanied visible reddening face
+257,Human papillomavirus infection,none wart
+258,Human papillomavirus infection,none wart
+259,Hypercalcaemia,abdominal pain bone pain confusion depression weakness
+260,Hyperekplexia,increased startle response sudden auditory visual tactile stimulation
+261,Gustatory hyperhidrosis,excessive sweating eating certain food individual particular nerve damage
+262,Hyperkalemia,palpitation muscle pain muscle weakness numbness
+263,Familial dysbetalipoproteinemia,sign familial dysbetaproteinemia include xanthoma striatum palmare orange yellow discoloration palm tuberoeruptive xanthoma elbow knee disease lead premature atherosclerosis therefore possible early onset coronary artery disease peripheral vascular disease leading heart attack ie myocardial infarction chest pain exercise ie angina pectoris stroke young adult middle aged patient
+264,Hypercholesterolemia,although hypercholesterolemia asymptomatic longstanding elevation serum cholesterol lead atherosclerosis buildup fatty plaque artery socalled hardening artery period decade elevated serum cholesterol contributes formation atheromatous plaque artery lead progressive narrowing involved artery alternatively smaller plaque may rupture cause clot form obstruct blood flow sudden blockage coronary artery may result heart attack blockage artery supplying brain cause stroke development stenosis occlusion gradual blood supply tissue organ slowly diminishes organ function becomes impaired point tissue ischemia restriction blood supply may manifest specific symptom example temporary ischemia brain commonly referred transient ischemic attack may manifest temporary loss vision dizziness impairment balance difficulty speaking weakness numbness tingling usually one side body insufficient blood supply heart may cause chest pain ischemia eye may manifest transient visual loss one eye insufficient blood supply leg may manifest calf pain walking intestine may present abdominal pain eating meal
+265,Chronic kidney disease,early none later leg swelling feeling tired vomiting loss appetite confusion
+266,Hyperprolactinaemia,woman high blood level prolactin typically associated hypoestrogenism anovulatory infertility change menstruation menstruation disturbance experienced woman commonly manifest amenorrhea oligomenorrhea latter case irregular menstrual flow may result abnormally heavy prolonged bleeding menorrhagia woman pregnant nursing may also unexpectedly begin producing breast milk galactorrhea condition always associated high prolactin level instance many premenopausal woman experiencing hyperprolactinemia experience galactorrhea woman experience galactorrhea diagnosed hyperprolactinemia thus galactorrhea may observed individual normal prolactin level necessarily indicate hyperprolactinemia phenomenon likely due galactorrhea requiring adequate level progesterone estrogen prepare breast tissue additionally woman may also experience loss libido breast pain particularly prolactin level rise initially hormone promotes tissue change breast
+267,Idiopathic hypersomnia,individual ih share common symptom including excessive daytime sleepiness sleep inertia brain fog long sleep period
+268,Hypertensive emergency,symptom may include headache nausea vomiting chest pain may occur due increased workload heart resulting inadequate delivery oxygen meet heart muscle metabolic need kidney may affected resulting blood protein urine acute kidney failure people decreased urine production fluid retention confusion
+269,Hypertriglyceridemia,people elevated triglyceride experience symptom form primary hypertriglyceridemia lead specific symptom familial chylomicronemia primary mixed hyperlipidemia include skin symptom eruptive xanthoma eye abnormality lipemia retinalis hepatosplenomegaly enlargement liver spleen neurological symptom experience attack abdominal pain may mild episode pancreatitis eruptive xanthoma 2–5 mm papule often red ring around occur cluster skin trunk buttock extremity familial dysbetalipoproteinemia cause larger tuberous xanthoma red orange occur elbow knee palmar crease xanthoma may also occur
+271,Hypocalcemia,numbness muscle spasm seizure confusion
+273,Hypoestrogenism,presentation low estrogen level include hot flash sudden intense feeling heat predominantly upper body causing skin redden blushing believed occur due narrowing thermonuclear zone hypothalamus making body sensitive body temperature change night disturbance also common symptom associated hypoestrogenism people may experience difficulty falling asleep waking several time night early awakening different variability race ethnic group
+274,Hypogonadism,woman hypogonadism begin menstruating may affect height breast development onset woman puberty cause cessation menstruation lowered libido loss body hair hot flash men cause impaired muscle body hair development gynecomastia decreased height erectile dysfunction sexual difficulty hypogonadism caused disorder central nervous system eg brain tumor known central hypogonadism sign symptom central hypogonadism may involve headache impaired vision double vision milky discharge breast symptom caused hormone problem
+275,Hypokalemic periodic paralysis,hypokalemic periodic paralysis condition cause episode extreme muscle weakness typically beginning childhood adolescence often episode involve temporary inability move muscle arm leg attack cause severe weakness paralysis usually last hour day people may episode almost every day others experience weekly monthly rarely attack occur without warning triggered factor rest exercise viral illness certain medication often large carbohydraterich meal vigorous exercise evening trigger attack upon waking following morning although affected individual usually regain muscle strength attack develop persistent muscle weakness later life
+276,Magnesium deficiency,tremor poor coordination nystagmus seizure
+277,Hypoparathyroidism,hypocalcemia
+278,Hypotension,dizziness clumsiness giddiness headache lightheadedness fatigue nausea blurred vision shakiness breathlessness increased thirst irregular heartbeat chest pain fever seizure
+279,Hypothyroidism,poor ability tolerate cold feeling tired constipation weight gain depression anxiety irritability
+280,Delirium,agitation confusion drowsiness hallucination delusion memory problem
+281,Immune thrombocytopenic purpura,sign itp include spontaneous formation bruise purpura petechia tiny bruise especially extremity additionally bleeding nostril andor gum well menorrhagia excessive menstrual bleeding may occur platelet count fall 20000 per μl platelet count 10000 per μl lead spontaneous formation hematoma blood mass mouth mucous membrane furthermore bleeding time minor laceration abrasion usually prolonged
+282,Kaposi's sarcoma,purple colored skin lesion
+284,Indigestion,upper abdominal pain
+285,Gonorrhea,none burning urination vaginal discharge discharge penis pelvic pain testicular pain
+286,Inflammatory bowel disease,spite crohn uc different disease may present following symptom abdominal pain diarrhea rectal bleeding severe internal crampsmuscle spasm region pelvis weight loss anemia prevalent extraintestinal complication inflammatory bowel disease associated complaint disease include arthritis pyoderma gangrenosum primary sclerosing cholangitis nonthyroidal illness syndrome ntis association deep vein thrombosis dvt bronchiolitis obliterans organizing pneumonia boop also reported diagnosis generally assessment inflammatory marker stool followed colonoscopy biopsy pathological lesion
+287,Inflammation,heat pain redness swelling
+288,Influenza,fever runny nose sore throat muscle pain headache coughing fatigue
+289,Influenza,fever runny nose sore throat muscle pain headache coughing fatigue
+290,Insomnia,trouble sleeping daytime sleepiness low energy irritability depressed mood
+291,Fatal insomnia,progressive insomnia ataxia double vision weight loss high blood pressure excessive sweating
+292,Metabolic syndrome,obesity
+293,Intermittent claudication,one hallmark arterial claudication occurs intermittently disappears brief rest patient start walking pain recurs following sign general sign atherosclerosis lower extremity artery
+294,Interstitial cystitis,chronic pain bladder feeling need urinate right away needing urinate often pain sex
+295,Intra-abdominal infection,suspected iais usually acute onset abdominal pain sign local generalised inflammation pain tenderness pain touching fever tachycardia increased heart rate tachypnea increased breathing rate severe case organ failure sign hypotension low blood pressure oliguria reduced urine output sudden onset altered level consciousness lactic acidosis appear
+296,Glaucoma,intense eye pain nausea vomiting red eye headache tenderness around eye seeing ring around light blurred vision
+297,Uveitis,headache red eye blurred vision photophobia burning redness eye
+298,Iron-deficiency anemia,feeling tired weakness shortness breath confusion pallor
+299,Irritable bowel syndrome,diarrhea constipation abdominal pain
+300,Stroke,inability move feel one side body problem understanding speaking dizziness loss vision one side
+301,Cerebral edema,headache nausea vomiting decreased consciousness seizure
+302,Jet lag,symptom jet lag quite varied depending amount time zone alteration time day individual difference sleep disturbance occurs poor sleep upon arrival andor sleep disruption trouble falling asleep flying east early awakening flying west trouble remaining asleep cognitive effect include poorer performance mental task concentration dizziness nausea insomnia confusion anxiety increased fatigue headache irritability problem digestion including indigestion change frequency defecation consistency faeces reduced interest enjoyment food symptom caused circadian rhythm sync day–night cycle destination well possibility internal desynchronisation jet lag measured simple analogue scale study shown relatively blunt assessing problem associated jet lag liverpool jet lag questionnaire developed measure symptom jet lag several time day dedicated measurement tool used ass jet lag athlete
+303,Juvenile idiopathic arthritis,arthritis mean inflammation within joint usually recognised swelling pain stiffness restricted joint movement symptom jia vary individual individual mainly jia umbrella term several subtypes jia differ according number affected joint severity disease presence absence inflammation part body
+304,Juvenile idiopathic arthritis,arthritis mean inflammation within joint usually recognised swelling pain stiffness restricted joint movement symptom jia vary individual individual mainly jia umbrella term several subtypes jia differ according number affected joint severity disease presence absence inflammation part body
+305,Herpes simplex keratitis,primary infection commonly manifest blepharoconjunctivitis ie infection lid conjunctiva heals without scarring lid vesicle conjunctivitis seen primary infection corneal involvement rarely seen primary infection
+306,Dry eye syndrome,dry eye irritation redness discharge blurred vision
+307,Keratosis pilaris,kp result small rough bump surface skin skincolored bump size grain sand many surrounded slight pink color lightskinned people dark spot darkskinned people people kp symptom bump skin occasionally itchy irritation due scratching kp bump result redness inflammation
+308,Pyelonephritis,fever flank tenderness nausea burning urination frequent urination
+309,Pregnancy,missed period tender breast nausea vomiting hunger frequent urination
+310,Childbirth,prominent sign labour strong repetitive uterine contraction pain contraction described feeling similar strong menstrual cramp crowning may experienced intense stretching burning lamaze method childbirth teach making noise moaning groaning grunting repeating word sound one body may wish naturally make may help relieve pain help labour progress according lamaze medium would believe birthing woman scream reality common noise say screaming may sign labouring woman beginning panic support team help back regulated breathing
+311,Childbirth,prominent sign labour strong repetitive uterine contraction pain contraction described feeling similar strong menstrual cramp crowning may experienced intense stretching burning lamaze method childbirth teach making noise moaning groaning grunting repeating word sound one body may wish naturally make may help relieve pain help labour progress according lamaze medium would believe birthing woman scream reality common noise say screaming may sign labouring woman beginning panic support team help back regulated breathing
+312,Lactose intolerance,abdominal pain bloating diarrhea flatulence nausea
+313,Heart failure,shortness breath exhaustion swollen leg
+314,Lennox–Gastaut syndrome,symptom vary progress age characterized triad seizure including tonic seizure cognitive dysfunction eeg finding triad may fully emerge 1–2 year first seizure episode
+315,Lichen planus,although lichen planus present variety lesion common presentation well defined area purplecoloured itchy flattopped papule interspersed lacy white line wickhams stria description known characteristic 6 p lichen planus planar flattopped purple polygonal pruritic papule plaque rash regressing likely leave area hyperpigmentation slowly fade said variety lesion also occur
+316,Lichen sclerosus,l occur without symptom white patch l body area itching pain dyspareunia genital l easier bruising cracking tearing peeling hyperkeratosis common symptom men woman woman condition commonly occurs vulva around anus ivorywhite elevation may flat glistening
+317,Anesthesia awareness,intraoperative awareness present variety sign symptom large proportion patient report vague dreamlike experience others report specific intraoperative event
+319,Congenital generalized lipodystrophy,mild specific body feature absence subcutaneous fat muscle hypertrophy insulin resistance gigantism acromegaly large appetite
+321,Hernia,pain especially coughing bulging area
+322,Lyme disease,expanding area redness site tick bite fever headache tiredness
+323,Lyme disease,expanding area redness site tick bite fever headache tiredness
+324,Lyme disease,expanding area redness site tick bite fever headache tiredness
+325,Microscopic colitis,persistent diarrhea
+326,Lymphoma,enlarged lymph node fever sweat unintended weight loss itching feeling tired
+327,Macular degeneration,blurred vision center visual field
+328,Diabetic retinopathy,often asymptomatic cause spot eye vision loss
+330,Malaria,fever vomiting headache yellow skin
+331,Malaria,fever vomiting headache yellow skin
+332,Mania,manic episode defined american psychiatric association diagnostic manual distinct period abnormally persistently elevated expansive irritable mood abnormally persistently increased activity energy lasting least 1 week present day nearly every day duration hospitalization necessary mood caused drugsmedication nonmental medical illness eg hyperthyroidism causing obvious difficulty work social relationship activity b requires admission hospital protect person others c person psychosis
+333,Mantle cell lymphoma,people mantle cell lymphoma typically present symptom later life median age onset 60 70 year age western country mcl account around 7 adult nonhodgkins lymphoma 4 8 per case per million diagnosed year incidence mcl increase age united state median age diagnosis 68 year threequarters patient men addition patient likely caucasian
+334,Melanoma,mole increasing size irregular edge change color itchiness skin breakdown
+335,Melanoma,mole increasing size irregular edge change color itchiness skin breakdown
+336,Melasma,symptom melasma dark irregular welldemarcated hyperpigmented macule patch patch often develop gradually time melasma cause symptom beyond cosmetic discoloration patch vary size 05 cm larger 10 cm depending person location categorized centrofacial malar mandibular common centrofacial patch appear cheek nose upper lip forehead chin mandibular category account patch bilateral ramus malar location account patch nose cheek
+337,Ménière's disease,feeling like world spinning ringing ear hearing loss fullness ear
+338,Menopause,menstrual period year
+339,Heavy menstrual bleeding,bleeding usual
+340,Heavy menstrual bleeding,bleeding usual
+341,Methicillin-resistant Staphylococcus aureus,human staphylococcus aureus part normal microbiota present upper respiratory tract skin gut mucosa however along similar bacterial specie colonize act symbiotically cause disease begin take tissue colonized invade tissue resultant infection called pathobiont
+342,Migraine,headache nausea sensitivity light sound smell
+343,Migraine,headache nausea sensitivity light sound smell
+344,Mild cognitive impairment,include memory impairment amnestic cognitive problem like impaired decision making language visuospatial skill nonamnestic
+345,Mitral valve prolapse,palpitation atypical precordial pain dyspnea exertion low bmi electrocardiogram abnormality ventricular tachycardia syncope low blood pressure headache lightheadedness sign suggestive autonomic nervous system dysfunction dysautonomia
+346,Mixed connective tissue disease,mctd combine feature scleroderma polymyositis systemic lupus erythematosus rheumatoid arthritis source adding myositis dermatomyositis inclusion body myositis thus considered overlap syndrome
+347,Infectious mononucleosis,fever sore throat enlarged lymph node neck fatigue
+348,Motion sickness,nausea vomiting cold sweat increased salivation
+349,Decompression sickness,bubble form anywhere body dc frequently observed shoulder elbow knee ankle joint pain bend account 60 70 altitude dc case shoulder common site altitude bounce diving knee hip joint saturation compressed air work neurological symptom present 10 15 dc case headache visual disturbance common symptom skin manifestation present 10 15 case pulmonary dc choke rare diver observed much le frequently aviator since introduction oxygen prebreathing protocol table show symptom different dc type
+350,Mucositis,red burnlike sore ulcer throughout mouth
+351,Multiple myeloma,bone pain fatigue 653
+352,Multiple sclerosis,variable including almost neurological symptom sign autonomic visual motor sensory problem common
+353,Delayed onset muscle soreness,soreness perceived dull aching pain affected muscle often combined tenderness stiffness pain typically felt muscle stretched contracted put pressure rest 63 tenderness characteristic symptom doms also referred muscular mechanical hyperalgesia
+354,Tetanus,fever crampedup jaw muscle spasm headache seizure sweating trouble swallowing
+355,Myasthenia gravis,varying degree muscle weakness double vision drooping eyelid trouble talking trouble walking
+356,Mycobacterium avium-intracellulare infection,pulmonary involvement symptom similar tuberculosis tb include fever fatigue weight loss coughing blood diarrhea abdominal pain associated gastrointestinal involvement
+357,Mycoplasma pneumonia,pneumoniae known cause host symptom primary atypical pneumonia tracheobronchitis upper respiratory tract disease primary atypical pneumonia one severe type manifestation tracheobronchitis common symptom another 15 case usually adult remain asymptomatic symptomatic infection tend develop period several day manifestation pneumonia confused number bacterial pathogen condition cause pneumonia tracheobronchitis common child due reduced immune system capacity 18 infected child require hospitalization common mild symptom include sore throat wheezing coughing fever headache rhinitis myalgia feeling unease symptom intensity duration limited early treatment antibiotic rarely pneumoniae pneumonia result death due lesion ulceration epithelial lining pulmonary edema bronchiolitis obliterans extrapulmonary symptom autoimmune response central nervous system complication dermatological disorder associated pneumoniae infection 25 case
+358,Myelodysplastic syndrome,none feeling tired shortness breath easy bleeding frequent infection
+359,Primary myelofibrosis,primary feature primary myelofibrosis bone marrow fibrosis often accompanied
+360,Primary myelofibrosis,primary feature primary myelofibrosis bone marrow fibrosis often accompanied
+361,Myotonia congenita,delayed relaxation muscle fall difficulty swallowing
+363,Narcolepsy,excessive daytime sleepiness involuntary sleep episode sudden loss muscle strength hallucination
+364,Methicillin-resistant Staphylococcus aureus,human staphylococcus aureus part normal microbiota present upper respiratory tract skin gut mucosa however along similar bacterial specie colonize act symbiotically cause disease begin take tissue colonized invade tissue resultant infection called pathobiont
+365,Rhinitis medicamentosa,nasal congestion
+366,Nasal polyp,trouble breathing nose loss smell decreased taste post nasal drip runny nose
+367,Vomiting,nausea
+368,Morning sickness,nausea vomiting
+369,Vomiting,nausea
+370,Vomiting,nausea
+371,Neck-tongue syndrome,neck pain occipital neuralgia numbness tingling tongue
+372,Nephrotic syndrome,swelling weight gain feeling tired foamy urine
+373,Trigeminal neuralgia,typical episode severe sudden shocklike pain one side face last second minute atypical constant burning pain
+374,Peripheral neuropathy,shooting pain numbness tingling tremor bladder problem unsteadiness
+375,Neutropenia,sign symptom neutropenia include fever painful swallowing gingival pain skin abscess otitis symptom may exist individual neutropenia often infection
+376,Neutropenia,sign symptom neutropenia include fever painful swallowing gingival pain skin abscess otitis symptom may exist individual neutropenia often infection
+377,New daily persistent headache,headache vary greatly clinical presentation duration
+378,Night terror,feeling panic dread sudden motor activity thrashing sweating rapid breathing increased heart rate
+379,Nightmare,nightmare experience abnormal sleep architecture impact nightmare night found similar insomnia thought caused frequent nocturnal awakening fear falling asleep nightmare disorder symptom include repeated awakening major sleep period nap detailed recall extended extremely frightening dream usually involving threat survival security selfesteem awakening generally occur second half sleep period
+380,Cramp,sudden muscle pain paralysislike immobility
+381,Non-Hodgkin lymphoma,enlarged lymph node fever night sweat weight loss tiredness itching
+382,Acute lymphoblastic leukemia,feeling tired pale color fever easy bleeding bruising bone pain enlarged lymph node
+383,Arthropathy,joint pain common nonspecific sign joint disease sign depend specific disease may even vary common sign may include
+384,HIV/AIDS,early flulike illness later large lymph node fever weight loss
+385,Obesity,increased fat
+387,Obstructive sleep apnea,common symptom osa syndrome include unexplained daytime sleepiness restless sleep loud snoring period silence followed gasp le common symptom morning headache insomnia trouble concentrating mood change irritability anxiety depression forgetfulness increased heart rate blood pressure decreased sex drive unexplained weight gain increased urinary frequency nocturia frequent heartburn gastroesophageal reflux heavy night sweat
+388,Occipital neuralgia,patient presenting headache originating posterior skull base evaluated condition typically present paroxysmal lancinating stabbing pain lasting second minute therefore continuous aching pain likely indicates different diagnosis bilateral symptom present onethird case
+389,Hypospermia,common sign hypospermia low volume semen ejaculation diagnosis confirmed one semen volume le 20 ml least two successive spermograms hypospermia caused retrograde ejaculation sign include cloudy urine orgasm may symptom hypospermia unless caused abnormality
+390,Onychomycosis,white yellow nail discoloration thickening nail
+391,Onychomycosis,white yellow nail discoloration thickening nail
+392,Ovarian remnant syndrome,ovarian hormone present ovary removed sign ovarian tissue still remains sign symptom may include pelvic pain pelvic mass absence menopause oophorectomy factor may include pelvic adhesion limiting ability see ovary causing adhere tissue anatomic variation bleeding surgery poor surgical technique treatment indicated people symptom typically involves surgery remove residual tissue therapy refuse surgery surgery pelvic mass may include hormonal therapy suppress ovarian function
+393,Astigmatism,distorted blurred vision distance eyestrain headache
+394,Opioid use disorder,strong desire use opioids increased tolerance opioids failure meet obligation trouble reducing use withdrawal syndrome discontinuation
+395,Opioid use disorder,strong desire use opioids increased tolerance opioids failure meet obligation trouble reducing use withdrawal syndrome discontinuation
+396,Opioid withdrawal,withdrawal opioid produce similar sign symptom however severity duration withdrawal depend type dose opioid taken duration frequency use
+397,Opioid overdose,respiratory depression small pupil unconsciousness
+400,Oral candidiasis,sign symptom dependent upon type oral candidiasis often apart appearance lesion usually sign symptom type oral candidiasis painless burning sensation may occur case candidiasis therefore sometimes misdiagnosed burning mouth syndrome burning sensation likely erythematous atrophic candidiasis whilst hyperplastic candidiasis normally entirely asymptomatic acute atrophic candidiasis may feel like mouth scalded hot liquid another potential symptom metallic acidic salty bitter taste mouth pseudomembranous type rarely cause symptom apart possibly discomfort bad taste due presence membrane sometimes patient describes raised pseudomembranes blister occasionally dysphagia difficulty swallowing indicates candidiasis involves oropharynx esophagus well mouth trachea larynx may also involved oral candidiasis may cause hoarseness voice
+402,Type 1 diabetes,frequent urination increased thirst increased hunger weight loss blurred vision fatigue weakness bedwetting child previously didnt wet bed night
+403,Osteoarthritis,joint pain stiffness joint swelling decreased range motion
+404,Multiple myeloma,bone pain fatigue 653
+405,Bone metastasis,bone metastasis cause severe pain bone fracture spinal cord compression hypercalcemia anemia spinal instability decreased mobility rapid degradation quality life patient patient described pain dull ache grows worse time intermittent period sharp jagged pain even controlled pain management period breakthrough pain occur rapidly without warning several time day pain may worse night partially relieved activity metastasis weightbearing bone may become symptomatic early course disease compared metastasis flat bone rib sternum
+406,Osteoporosis,increased risk broken bone
+407,Otitis externa,ear pain swelling ear canal decreased hearing difficulty chewing
+408,Otitis media,ear pain fever hearing loss
+409,Ovarian cyst,none bloating lower abdominal pain lower back pain
+412,Paget's disease of bone,mild early case paget asymptomatic people diagnosed paget disease incidentally medical evaluation another problem approximately 35 patient paget symptom related disease first diagnosed overall common symptom bone pain symptom occur may confused arthritis disorder diagnosis may delayed paget may first noticed increasing deformity person bone
+413,Pain,unpleasant sensory emotional sensation
+415,Type 1 diabetes,frequent urination increased thirst increased hunger weight loss blurred vision fatigue weakness bedwetting child previously didnt wet bed night
+416,Exocrine pancreatic insufficiency,loss pancreatic enzyme lead maldigestion malabsorption symptom may include
+419,Parkinson's disease,rigidity slowness movement tremor difficulty walking
+420,Parkinsonism,parkinsonism clinical syndrome characterized four motor symptom found parkinson disease tremor bradykinesia slowed movement rigidity postural instability
+422,Growth hormone deficiency,short height
+423,Pelvic inflammatory disease,lower abdominal pain vaginal discharge fever burning urination pain sex irregular menstruation
+424,Bullous pemphigoid,clinically earliest lesion may appear hive like red raised rash could also appear dermatitic targetoid lichenoid nodular even without rash essential pruritus tense bulla eventually erupt commonly inner thigh upper arm trunk extremity frequently involved part skin surface involved oral lesion present minority case disease may acute last month year period exacerbation remission
+425,Pemphigus vulgaris,pemphigus vulgaris commonly present oral blister buccal palatine mucosa especially also includes cutaneous blister mucosal surface conjunctiva nose esophagus penis vulva vagina cervix anus may also affected flaccid blister skin frequently seen sparing skin covering palm sol
+427,Coronary artery disease,chest pain shortness breath
+428,Test anxiety,researcher believe feeling anxiety arise prepare person threat human anxiety symptom distributed along continuum different symptom level anxiety predict outcome response consist increased heart rate stress hormone secretion restlessness vigilance fear potentially dangerous environment anxiety prepares body physically cognitively behaviourally detect deal threat survival result person body begin hyperventilate allow oxygen enter bloodstream divert blood muscle sweat cool skin individual degree anxiety response developed based probability bad thing happening environment individual ability cope case test taking might failing exam grade prevents student accepted postsecondary institution person belief competency form selfknowledge play important role analyzing situation might threatening person feeling low competence ability likely anticipate negative outcome failure uncertain condition thus evaluative situation including test exam perceived threatening student low competency
+429,Menopause,menstrual period year
+430,Dysmenorrhea,pain first day menstruation diarrhea nausea
+432,Periodontal disease,red swollen painful bleeding gum loose teeth bad breath
+433,Perioral dermatitis,papule pustule red skin
+434,Peripheral neuropathy,shooting pain numbness tingling tremor bladder problem unsteadiness
+435,Peritonitis,severe pain swelling abdomen fever
+437,Whooping cough,runny nose fever cough
+438,Tetanus,fever crampedup jaw muscle spasm headache seizure sweating trouble swallowing
+439,Pharyngitis,sore throat fever runny nose cough headache hoarse voice
+440,Actinic elastosis,actinic elastosis usually appears thickened dry wrinkled skin several clinical variant recorded one readily identifiable thickened deeply fissured skin seen back chronically sunexposed neck known cutis rhomboidalis nucha feature part constellation change seen photoaged skin
+441,Keratosis pilaris,kp result small rough bump surface skin skincolored bump size grain sand many surrounded slight pink color lightskinned people dark spot darkskinned people people kp symptom bump skin occasionally itchy irritation due scratching kp bump result redness inflammation
+442,Psoriasis,red purple darker skin itchy scaly patch skin
+444,Meningococcal disease,flulike symptom stiff neck altered mental status seizure purpura
+445,Pneumonia,cough shortness breath chest pain fever
+446,Polycystic ovary syndrome,irregular menstrual period heavy period excess hair acne pelvic pain difficulty getting pregnant patch thick darker velvety skin
+448,Gallstone,none crampy pain right upper abdomen
+449,Postherpetic neuralgia,burning stabbing pain pain doesnt end shingle subsides
+450,Menopause,menstrual period year
+451,Glaucoma,intense eye pain nausea vomiting red eye headache tenderness around eye seeing ring around light blurred vision
+452,Glaucoma,intense eye pain nausea vomiting red eye headache tenderness around eye seeing ring around light blurred vision
+453,Pain,unpleasant sensory emotional sensation
+454,Postpartum depression,extreme sadness low energy anxiety change sleeping eating pattern cry episode irritability
+455,Postural orthostatic tachycardia syndrome,often standing lightheadedness trouble thinking tachycardia weakness palpitation heat intolerance acrocyanosis
+458,Delayed ejaculation,delayed ejaculation mild men still experience orgasm intercourse certain condition moderate ejaculate intercourse fellatio handjob severe ejaculate alone severe ejaculate form may result sense sexual frustration case delayed ejaculation present condition man climax ejaculate masturbation sexual intercourse 2015 dsmv us term delayed ejaculation instead older term inhibited ejaculation impotent ejaculation retarded ejaculation determine amount time count delayed one source us measurement mean time man achieve ejaculation study 500 couple heterosexual vaginal intercourse 8 minute standard deviation 71 minute due men reputation reliably able ejaculate sex case man face delayed ejaculation woman may perceive due attractive due fault sexual technique
+460,Premature ventricular contraction,although many possible symptom associated pvc pvc may also symptom pvc may perceived skipped heart beat strong beat palpitation lightheadedness may also cause chest pain faint feeling fatigue hyperventilation exercise symptom may pronounced time stress woman may aware pvc time menstrual period
+462,Premenstrual syndrome,fatigue irritability mood change tender breast abdominal bloating
+463,Urinary tract infection,pain urination frequent urination feeling need urinate despite empty bladder
+464,Cardiovascular disease,chest pain shortness breath fatigue loss consciousness
+465,Tooth decay,pain tooth loss difficulty eating
+466,Gitelman syndrome,affected individual may symptom case symptomatic individual present symptom almost identical patient thiazide diuretic given affected transporter target thiazide
+467,Osteoporosis,increased risk broken bone
+468,Atrial fibrillation,none heart palpitation fainting shortness breath chest pain
+469,Primary aldosteronism,high blood pressure poor vision headache muscular weakness muscle spasm
+470,Primary immunodeficiency,precise symptom primary immunodeficiency depend type defect generally symptom sign lead diagnosis immunodeficiency include recurrent persistent infection developmental delay result infection particular organ problem eg disease involving skin heart facial development skeletal system may present certain condition others predispose autoimmune disease immune system attack body tissue tumour sometimes specific form cancer lymphoma nature infection well additional feature may provide clue exact nature immune defect
+471,Enuresis,nocturnal enuresis usually present voiding urine sleep child difficult wake may accompanied bladder dysfunction day termed nonmono symptomatic enuresis day time enuresis also known urinary incontinence may also accompanied bladder dysfunction
+472,Primary ovarian insufficiency,sign symptom poi seen part continuum change leading menopause poi contrast ageappropriate menopause age onset degree symptom sporadic return normal ovarian function woman retain partial ovarian function symptom may severe regular menopause others particularly coexistent depression symptom decreased quality life severe
+473,Primary ovarian insufficiency,sign symptom poi seen part continuum change leading menopause poi contrast ageappropriate menopause age onset degree symptom sporadic return normal ovarian function woman retain partial ovarian function symptom may severe regular menopause others particularly coexistent depression symptom decreased quality life severe
+475,Acute prostatitis,men acute prostatitis often chill fever pain lower back perineum genital area urinary frequency urgency often night burning painful urination body ache demonstrable infection urinary tract evidenced white blood cell bacteria urine acute prostatitis may complication prostate biopsy often prostate gland tender palpation rectum
+476,Itch,compulsion scratch irritated area skin
+477,Pseudobulbar affect,episode uncontrollable laughing cry emotional display may match patient mental state
+478,Idiopathic intracranial hypertension,headache vision problem ringing ear heartbeat
+479,Psoriasis,red purple darker skin itchy scaly patch skin
+480,Psoriatic arthritis,pain swelling stiffness one joint commonly present psoriatic arthritis psoriatic arthritis inflammatory affected joint generally red warm touch asymmetrical oligoarthritis defined inflammation affecting two four joint first six month disease present 70 case however 15 case arthritis symmetrical joint hand involved psoriasis proximal interphalangeal distal interphalangeal metacarpophalangeal joint wrist involvement distal interphalangeal joint characteristic feature present many case nail pitting often accompanies distal interphalangeal joint involvement may essential differentiating psoriatic arthritis disease
+481,Psychosis,false belief seeing hearing thing others see hear incoherent speech behavior
+482,Nerve compression syndrome,pain tingling dull ache numbness shooting pain muscle weakness
+483,Pulmonary edema,progressive dyspnea cough fever cyanosis tachycardia
+484,Pulmonary embolism,shortness breath chest pain coughing blood
+485,Pulmonary embolism,shortness breath chest pain coughing blood
+486,Pulmonary hypertension,chest pain fatigue
+488,Raynaud syndrome,affected part turning white blue red burning
+489,Complex regional pain syndrome,pain allodynia hypo hyperesthesia skin temperature abnormality atrophy stiffness
+490,Renal cell carcinoma,historically medical practitioner expected person present three finding classic triad 1 haematuria blood present urine 2 flank pain pain side body hip rib 3 abdominal mass similar bloating larger known classic triad symptom occurs 10–15 case usually indicative renal cell carcinoma rcc advanced stage today rcc often asymptomatic meaning symptom generally detected incidentally person examined ailment
+492,Restless legs syndrome,unpleasant feeling leg briefly improves moving
+494,Rheumatoid arthritis,warm swollen painful joint
+495,Allergic rhinitis,stuffy itchy nose sneezing red itchy watery eye swelling around eye itchy ear
+496,Rhinorrhea,rhinorrhea characterized excess amount mucus produced mucous membrane line nasal cavity membrane create mucus faster processed causing backup mucus nasal cavity cavity fill block air passageway causing difficulty breathing nose air caught nasal cavity – namely sinus cavity released resulting pressure may cause headache facial pain sinus passage remains blocked chance sinusitis may result mucus back eustachian tube may result ear pain ear infection excess mucus accumulating throat back nose may cause postnasal drip resulting sore throat coughing additional symptom include sneezing nosebleed nasal discharge
+497,Rosacea,facial redness swelling small superficial dilated blood vessel
+498,Gastroenteritis,diarrhea vomiting abdominal pain fever
+499,Sarcoidosis,depends organ involved lung wheezing cough shortness breath chest pain skin lump ulcer discolored skin child weight loss bone pain feeling tired
+500,Scabies,itchiness pimple like rash
+501,Subacute combined degeneration of spinal cord,onset gradual uniform pathological finding subacute combined degeneration consist patchy loss myelin dorsal lateral column patient present weakness leg arm trunk tingling numbness progressively worsens vision change change mental state may also present bilateral spastic paresis may develop pressure vibration touch sense diminished positive babinski sign may seen prolonged deficiency vitamin b 12 lead irreversible nervous system damage hivassociated vacuolar myelopathy present similar pattern dorsal column corticospinal tract demyelination
+503,Schizophrenia,hallucination usually hearing voice delusion social isolation flat affect confused thinking
+504,Schnitzler syndrome,typical onset around 55 year old symptom recurrent hive mostly torso limb often recurring fever joint pain bone pain muscle pain headache fatigue loss weight
+505,Sciatica,pain going leg lower back weakness numbness affected leg
+507,Allergic conjunctivitis,conjunctiva thin membrane cover eye allergen irritates conjunctiva common symptom occur eye include ocular itching eyelid swelling tearing photophobia watery discharge foreign body sensation pain
+508,Seborrhoeic dermatitis,flaking dry greasy red itchy inflamed skin
+509,Secondary hyperparathyroidism,bone joint pain common limb deformity elevated pth also pleiotropic effect blood immune system neurological system
+511,Seizure,variable
+512,Seizure,variable
+513,Erectile dysfunction,inability gain maintain erection
+515,Silent sinus syndrome,facial asymmetry vision problem headache
+516,Sinusitis,thick nasal mucus plugged nose pain face fever sore throat frequent attack cough
+517,Sjögren syndrome,dry mouth dry eye area dryness
+518,Hives,red raised itchy bump
+520,Dermatomyositis,rash muscle weakness weight loss fever
+521,Fungal infection,common mild mycoses often present rash infection within skin skin may present lump skin change le common deeper fungal infection may present pneumonia like symptom meningitis
+522,Necrotizing fasciitis,severe pain fever purple colored skin affected area
+523,Chronic obstructive pulmonary disease,shortness breath chronic cough
+525,Soft-tissue sarcoma,early stage softtissue sarcoma usually cause symptom soft tissue relatively elastic tumor grow rather large pushing aside normal tissue felt cause problem first noticeable symptom usually painless lump swelling tumor grows may cause symptom pain soreness press nearby nerve muscle abdomen cause abdominal pain commonly mistaken menstrual cramp indigestion cause constipation
+527,Axial spondyloarthritis,axial spondyloarthritis predominantly marked inflammatory pain andor stiffness affecting lower back hip andor buttock side affected may alternate may also experience symptom eye rib cage shoulder cervical spine neck well inflammatory back pain tends come gradually become worse night period rest morning waking improve exercise use antiinflammatory medication ibuprofen people axial spondyloarthritis may experience alternating period remission flareups
+529,Cutaneous squamous-cell carcinoma,hard lump scaly top ulceration
+530,Status epilepticus,regular pattern contraction extension arm leg movement one part body unresponsive
+531,Ulcerative colitis,abdominal pain diarrhea mixed blood weight loss fever anemia dehydration loss appetite fatigue sore skin urgency defecate inability defecate despite urgency rectal pain
+532,Adult-onset Still's disease,disease typically present joint pain high fever salmonpink macular maculopapular rash enlargement liver spleen swollen lymph node neutrophilpredominant increased white blood cell count blood test rheumatoid factor antinuclear antibody usually negative serum ferritin markedly elevated patient experiencing flareup adultonset still disease usually report extreme fatigue swelling lymph node le commonly fluid accumulation lung heart rare case aosd cause lifethreatening complication including hemophagocytic lymphohistiocytosis ivdc fulminant hepatitis disabling condition aseptic meningitis sensorineural hearing loss
+535,Strabismus,nonaligned eye
+536,Streptococcal pharyngitis,fever sore throat enlarged lymph node
+537,Streptococcal pharyngitis,fever sore throat enlarged lymph node
+538,Strongyloidiasis,abdominal pain diarrhea weight loss itching rash
+539,Subarachnoid hemorrhage,severe headache rapid onset vomiting decreased level consciousness
+541,Sunburn,typically initial redness followed varying degree pain proportional severity duration intensity sun exposure
+542,Supraventricular tachycardia,palpitation feeling faint sweating shortness breath chest pain
+543,Madelung's deformity,congenital subluxation dislocation ulna distal end due malformation bone sometimes minor abnormality bone structure often caused disease injury fracture distal end radius upward displacement distal fragment deformity varies degree slight protrusion lower end ulna complete dislocation inferior radioulnar joint marked ulnar deviation hand severe deformity associated congenital absence hypoplasia radius
+544,Swine influenza,pig swine influenza infection produce fever lethargy discharge nose eye sneezing coughing difficulty breathing eye redness inflammation decreased appetite case infection cause miscarriage however infected pig may exhibit symptom although mortality usually low around 1–4 virus cause weight loss poor growth turn causing economic loss farmer infected pig lose 12 pound body weight three fourweek period influenza responsible infecting swine first identified 1918 avian mammalian influenza virus bind receptor pig pig often seen mixing vessel facilitating evolution strain passed mammal human
+545,Syringomyelia,syringomyelia cause wide variety neuropathic symptom due damage spinal cord patient may experience severe chronic pain abnormal sensation loss sensation particularly hand patient experience paralysis paresis temporarily permanently syrinx may also cause disruption parasympathetic sympathetic nervous system leading abnormal body temperature sweating bowel control issue problem syrinx higher spinal cord affecting brainstem syringobulbia vocal cord paralysis ipsilateral tongue wasting trigeminal nerve sensory loss sign may present rarely bladder stone occur onset weakness lower extremity classically syringomyelia spare dorsal column medial lemniscus spinal cord leaving pressure vibration touch proprioception intact upper extremity neuropathic arthropathy also known charcot joint occur particularly shoulder patient syringomyelia loss sensory fiber joint theorized lead degeneration joint time
+546,Lupus,painful swollen joint fever chest pain hair loss mouth ulcer swollen lymph node feeling tired red rash
+547,Mastocytosis,mast cell undergo degranulation substance released cause number symptom vary time range intensity mild severe mast cell play role allergic reaction symptom mastocytosis often similar symptom allergic reaction may include limited
+548,Systemic scleroderma,c alcinosis r aynauds phenomenon e sophageal dysfunction clerodactyly elangiectasia crest syndrome associated limited scleroderma symptom include
+549,Anaplastic thyroid cancer,anaplastic thyroid cancer typically manifest rapidly enlarging neck mass associated redness swelling overlying skin sometimes occur atc commonly cause symptom compressing local structure esophagus carotid artery recurrent laryngeal nerve trachea compression local anatomic structure may cause symptom difficulty controlling voice hoarseness difficulty swallowing trouble breathing symptom include cough neck pain symptom spread cancer distant site body brain atc may rarely present coughing blood
+551,Tendinopathy,pain swelling
+552,Thrombocythemia,high platelet count necessarily signal clinical problem picked routine full blood count however important full medical history elicited ensure increased platelet count due secondary process often occurs tandem inflammatory disease principal stimulant platelet production eg thrombopoietin elevated clinical state part acute phase reaction high platelet count occur patient polycythemia vera high red blood cell count additional risk factor complication
+553,Type 1 diabetes,frequent urination increased thirst increased hunger weight loss blurred vision fatigue weakness bedwetting child previously didnt wet bed night
+554,Hyperthyroidism,irritability muscle weakness sleeping problem fast heartbeat heat intolerance diarrhea enlargement thyroid weight loss
+555,Tinea corporis,may variety appearance easily identifiable enlarging raised red ring central area clearing ringworm appearance ringworm may also occur scalp tinea capitis beard area tinea barbae groin tinea cruris known jock itch dhobi itch
+556,Tinea cruris,itch rash groin
+557,Athlete's foot,itching scaling redness foot
+559,Tinnitus,hearing sound external sound present
+560,Tonsillitis,sore throat fever enlargement tonsil trouble swallowing large lymph node around neck
+561,Topical steroid withdrawal,red skin burning sensation desquamation itchiness
+562,Tourette syndrome,tic
+563,Transient ischemic attack,sign symptom tia widely variable mimic neurologic condition making clinical context physical exam crucial ruling diagnosis common presenting symptom tia focal neurologic deficit include limited
+564,Travelers' diarrhea,unformed stool traveling fever abdominal cramp headache
+565,Trichomoniasis,itching genital area bad smelling thin vaginal discharge burning urination pain sex
+566,Trichotillomania,visible hair loss distress
+567,Trigeminal neuralgia,typical episode severe sudden shocklike pain one side face last second minute atypical constant burning pain
+568,Tuberculosis,chronic cough fever cough bloody mucus weight loss
+569,Pierre Robin sequence,micrognathia glossoptosis obstruction upper airway sometimes cleft palate
+570,Ulcerative colitis,abdominal pain diarrhea mixed blood weight loss fever anemia dehydration loss appetite fatigue sore skin urgency defecate inability defecate despite urgency rectal pain
+571,Ulcerative colitis,abdominal pain diarrhea mixed blood weight loss fever anemia dehydration loss appetite fatigue sore skin urgency defecate inability defecate despite urgency rectal pain
+572,Ulcerative colitis,abdominal pain diarrhea mixed blood weight loss fever anemia dehydration loss appetite fatigue sore skin urgency defecate inability defecate despite urgency rectal pain
+573,Proctitis,common symptom continual urge bowel movement—the rectum could feel full constipation another tenderness mild irritation rectum anal region serious symptom pu blood discharge accompanied cramp pain bowel movement severe bleeding anemia result showing symptom pale skin irritability weakness dizziness brittle nail shortness breath
+574,Hypothyroidism,poor ability tolerate cold feeling tired constipation weight gain depression anxiety irritability
+575,Undifferentiated connective tissue disease,dry eye dry mouth haïr lost joint inflammation joint pain mouth ulcer positive ana test raynauds phenomenon sunsensitive rash
+576,Hereditary spastic paraplegia,symptom depend type hsp inherited main feature disease progressive spasticity lower limb due pyramidal tract dysfunction also result brisk reflex extensor plantar reflex muscle weakness variable bladder disturbance furthermore among core symptom hsp also included abnormal gait difficulty walking decreased vibratory sense ankle paresthesia individual hsp experience extreme fatigue associated central nervous system neuromuscular disorder disabling initial symptom typically difficulty balance stubbing toe stumbling symptom hsp may begin age infancy older 60 year symptom begin teenage year later spastic gait disturbance usually progress many year cane walker wheelchair may eventually required although people never require assistance device disability described progressing rapidly adult onset form
+577,Upper respiratory tract infection,uncomplicated cold coughing nasal discharge may persist 14 day even symptom resolved acute urtis include rhinitis pharyngitistonsillitis laryngitis often referred common cold complication sinusitis ear infection sometimes bronchitis though bronchus generally classified part lower respiratory tract symptom urtis commonly include cough sore throat runny nose nasal congestion headache lowgrade fever facial pressure sneezing
+578,Overactive bladder,frequent feeling needing urinate incontinence
+579,Urinary retention,sudden onset inability urinate low abdominal pain long term frequent urination loss bladder control urinary tract infection
+580,Urinary tract infection,pain urination frequent urination feeling need urinate despite empty bladder
+581,Kidney stone disease,severe pain lower back abdomen blood urine vomiting nausea
+582,Hives,red raised itchy bump
+583,Abnormal uterine bleeding,irregular abnormally frequent prolonged excessive amount uterine bleeding
+584,Uterine fibroid,painful heavy period
+585,Uveitis,headache red eye blurred vision photophobia burning redness eye
+586,Vaginal yeast infection,vaginal itching burning urination white thick vaginal discharge pain sex redness around vagina
+588,Arrhythmia,palpitation dizziness lightheadedness passing shortness breath chest pain decreased level consciousness
+589,Ventricular fibrillation,cardiac arrest loss consciousness pulse
+590,Ventricular tachycardia,lightheadedness palpitation chest pain
+592,Vitamin B12 deficiency,decreased ability think feeling tired depression irritability abnormal sensation change reflex
+593,Vitamin D deficiency,usually asymptomatic
+594,Vitamin D deficiency,usually asymptomatic
+596,Vulvodynia,pain notable symptom vulvodynia characterized burning stinging irritation sharp pain occurs vulva entrance vagina may constant intermittent happen vulva touched vulvodynia usually long duration
+597,Wart,skin growth usually occurring hand foot genitals
+598,Granulomatosis with polyangiitis,initial sign highly variable diagnosis severely delayed due nonspecific nature symptom general irritation inflammation nose first sign people involvement upper respiratory tract nose sinus seen nearly people gpa typical sign symptom nose sinus involvement include crusting around nose stuffiness nosebleed runny nose saddlenose deformity due hole septum nose inflammation outer layer eye scleritis episcleritis conjunctivitis common sign gpa eye involvement eye common occurs slightly half people disease
+600,Wolff–Parkinson–White syndrome,abnormally fast heartbeat palpitation shortness breath lightheadedness loss consciousness
+601,Xerostomia,hyposalivation may give following sign symptom
+602,Viral hemorrhagic fever,sign symptom vhf include definition fever bleeding
+603,Zollinger–Ellison syndrome,patient zollinger–ellison syndrome may experience abdominal pain diarrhea diagnosis also suspected patient severe ulceration stomach small bowel especially fail respond treatment
+605,Haemophilia B,easy bruising
+618,Von Willebrand disease,various type vwd present varying degree bleeding tendency usually form easy bruising nosebleed bleeding gum woman may experience heavy menstrual period blood loss childbirth
