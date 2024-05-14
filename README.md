@@ -1,9 +1,10 @@
 # Disease Identification and Drug Recommendation using Large Language Models
 
-Team Members
+### Team Members
   - Kalaiarasi Kaliappan
   - Sai Charan Thummalapudi
   - Shobana Siranjeevilu
+
 
 1. Project idea:
 
@@ -11,7 +12,6 @@ Team Members
 
 
 2. Project overview
-
         Healthcare_LLM
             |
             | --- data
@@ -25,14 +25,9 @@ Team Members
             | --- README.MD 
 
 
-
-
 3. Steps to run the application
-
         ## create a virtual env
-
         python3 -m venv healthcare_gpt   
-
         ## Activate virtual env
 
         source healthcare_gpt/bin/activate
@@ -45,3 +40,4 @@ Team Members
 
         cd streamlit
         python3 -m streamlit run web_app.py
+
