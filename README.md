@@ -12,6 +12,7 @@
 
 
 2. Project overview
+
         Healthcare_LLM
             |
             | --- data
@@ -25,19 +26,22 @@
             | --- README.MD 
 
 
-3. Steps to run the application
-        ## create a virtual env
-        python3 -m venv healthcare_gpt   
-        ## Activate virtual env
+4. Steps to run the application
 
-        source healthcare_gpt/bin/activate
+       ## create a virtual env
 
-        ## Install the packages
+           python3 -m venv healthcare_gpt
+   
+       ## Activate virtual env
 
-        pip3 install -r requirements.txt
+          source healthcare_gpt/bin/activate
+
+       ## Install the packages
+
+          pip3 install -r requirements.txt
 
         ## run the webapp
 
-        cd streamlit
-        python3 -m streamlit run web_app.py
+          cd streamlit
+          python3 -m streamlit run web_app.py
 
