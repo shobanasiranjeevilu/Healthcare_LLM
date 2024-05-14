@@ -5,27 +5,43 @@ Team Members
   - Sai Charan Thummalapudi
   - Shobana Siranjeevilu
 
-Project idea:
+1. Project idea:
 
-In today's rapidly evolving healthcare landscape, enhancing patient understanding and involvement in their own care is crucial for improving treatment outcomes. Our project aims to transform this aspect of healthcare by leveraging healthcare data and advanced language models, effectively utilizing the power of natural language processing, and fine-tuning large language models (LLMs). By utilizing traditional methodologies with cutting-edge technology, we intend to provide individuals with a reliable tool to better understand their health issues and the types of medications that may be suggested based on their symptoms. This initiative seeks to demystify medical information for the average person, thereby empowering them to make informed decisions about their health, ultimately contributing to a more informed public and efficient healthcare delivery.
+        In today's rapidly evolving healthcare landscape, enhancing patient understanding and involvement in their own care is crucial for improving treatment outcomes. Our project aims to transform this aspect of healthcare by leveraging healthcare data and advanced language models, effectively utilizing the power of natural language processing, and fine-tuning large language models (LLMs). By utilizing traditional methodologies with cutting-edge technology, we intend to provide individuals with a reliable tool to better understand their health issues and the types of medications that may be suggested based on their symptoms. This initiative seeks to demystify medical information for the average person, thereby empowering them to make informed decisions about their health, ultimately contributing to a more informed public and efficient healthcare delivery.
+
+
+2. Project overview
+
+        Healthcare_LLM
+            |
+            | --- data
+            | --- data_analysis
+            | --- disease_classification_model
+                  | --- PEFT techniques
+                        | --- QLoRA
+                        | --- Prefix_tuning
+                  | --- Supervised_fine_tuning
+            | --- streamlit
+            | --- README.MD 
 
 
 
-Steps to run the application
 
-## create a virtual env
+3. Steps to run the application
 
- python3 -m venv healthcare_gpt   
+        ## create a virtual env
 
-## Activate virtual env
+        python3 -m venv healthcare_gpt   
 
-source healthcare_gpt/bin/activate
+        ## Activate virtual env
 
-## Install the packages
+        source healthcare_gpt/bin/activate
 
-pip3 install -r requirements.txt
+        ## Install the packages
 
-## run the webapp
+        pip3 install -r requirements.txt
 
-cd streamlit
-python3 -m streamlit run web_app.py
+        ## run the webapp
+
+        cd streamlit
+        python3 -m streamlit run web_app.py
